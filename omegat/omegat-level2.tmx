@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A thesis presented for the degree of<it pos="begin" x="0">&lt;br0&gt;</it></seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180505T171936Z" creationid="urosjarc" creationdate="20180505T171936Z">
+        <seg>Predstavljeno bla bla bla...<it pos="begin" x="0">&lt;br0&gt;</it></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Author Name</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180505T171923Z" creationid="urosjarc" creationdate="20180505T171923Z">
+        <seg>Ime avtorja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Country<it pos="begin" x="0">&lt;br0&gt;</it></seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180505T171956Z" creationid="urosjarc" creationdate="20180505T171956Z">
+        <seg>Drzava<it pos="begin" x="0">&lt;br0&gt;</it></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Date</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180505T172004Z" creationid="urosjarc" creationdate="20180505T172004Z">
+        <seg>Datum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Department Name<it pos="begin" x="0">&lt;br0&gt;</it></seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180505T171945Z" creationid="urosjarc" creationdate="20180505T171945Z">
+        <seg>Oddelek<it pos="begin" x="0">&lt;br0&gt;</it></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Doctor of Philosophy</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180505T171941Z" creationid="urosjarc" creationdate="20180505T171941Z">
+        <seg>Doktor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Introduction</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180505T171905Z" creationid="urosjarc" creationdate="20180505T171837Z">
+        <seg>Uvod introduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Thesis Subtitle</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180505T171918Z" creationid="urosjarc" creationdate="20180505T171918Z">
+        <seg>Podnapis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Thesis Title</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180505T171912Z" creationid="urosjarc" creationdate="20180505T171912Z">
+        <seg>Naslov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>University Name<it pos="begin" x="0">&lt;br0&gt;</it></seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180505T171950Z" creationid="urosjarc" creationdate="20180505T171950Z">
+        <seg>Univerziteta<it pos="begin" x="0">&lt;br0&gt;</it></seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
