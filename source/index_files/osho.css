@@ -1,0 +1,24 @@
+@import url('main.css');
+
+.maintext
+{
+/*	background-image: url(../Images/blutxtr1_04.jpg);
+	background-image: url(../Images/J0143753_03.jpg);
+	background-image: url(../Images/J0143753_09.jpg);
+	background-image: url(../Images/J0143753_11.jpg);
+*/
+	font-family: Arial, Verdana, fixedsys, Times, "Times New Roman", "ms sans serif", sans-serif;
+	width: 47em;
+	background-color: #FFFFFA;
+	padding: 4pt;
+	border-style: dotted;
+	border: 1px;
+}
+
+.t1
+{
+	font-size: 105%;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+}

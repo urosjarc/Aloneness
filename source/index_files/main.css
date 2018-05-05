@@ -1,0 +1,2001 @@
+
+body
+{
+	/* need to set background-color, Netscape 6 for the Macintosh defaults to gray */
+	background-color: #FFFFFF;
+/*	font-family: Arial, Verdana, fixedsys, "ms sans serif", "Times New Roman", Garamond; */
+	font-family: Georgia, "Times New Roman", Times, Arial, helvetica, serif;
+/*	font-family: Arial, helvetica, "Times New Roman", fixedsys, Monospace, "Lucida Grande", "Lucida Sans Unicode", helvetica, verdana, sans-serif, "Times New Roman", Garamond; */
+/*	font-size: 10pt; */
+	font-size:110%;
+	padding: 0;		/* set padding. Opera's default padding <> 0 */
+	margin: 0;
+	text-align: left;
+}
+
+.normal.shift {
+	margin-top: 3em;
+}
+
+.normal.shift_osho {
+	margin-top: 6em;
+}
+
+#layer2 {position:relative; left:0; top:0; z-Index:0}
+/* #layer2_osho {position:relative; left:0; top:0; z-Index:0} */
+.layer2_osho {position:relative; left:0; top:0; z-Index:0}
+
+/* .layer2 {position:relative; left:0; padding-top:2em; padding-right: 1em; z-Index:0} */
+.layer1
+{
+	position:relative;
+	left:0;
+	top:0;
+	z-Index:1;
+	width: 100%;
+}
+
+.pagebackgr
+{
+	background-color: #500040;
+	background-image: url(../Images/Rough_Paper01_07.jpg);
+}
+
+.pagename
+{
+/*	font-family: Georgia, Times, "Times New Roman", Verdana, Arial, Helvetica, "Century Gothic", Gautami, "ms sans serif", sans-serif;
+*/
+}
+
+p, pre, li, div
+{
+/*	font-family: Fixedsys, Georgia, "Times New Roman", Verdana, Arial, Helvetica, "Century Gothic", Gautami, "ms sans serif", sans-serif;
+*/
+/*	font-size: 11pt; */
+/*	color: #000000; */
+}
+
+li
+{
+	padding:4pt 0;
+	margin:0 4pt;
+}
+
+ol, ul
+{
+/*	margin-top: 0px; 
+	margin-bottom: 0px;
+*/
+/*	line-height: 150%; */
+/*	list-style-image: url(../Images/Icons/31.gif);
+*/
+}
+
+.ul_osho, .ul_news
+{
+	display:block;
+	margin:0pt 8pt;
+	padding:1em .5em;
+}
+
+ol, ul, .ul_osho, .ul_news
+{
+	padding-left:1em;
+}
+
+a {
+/*	color: #FF0000; */
+}
+
+a:link
+{
+/*  x-text-underline: normal; */
+    text-decoration: underline;
+    color: #0000ff;
+}
+
+a:visited
+{
+/*  x-text-underline: normal; */
+    text-decoration: underline;
+    color: #8080ff;
+}
+
+a.next, a.prev
+{
+	font-family: helvetica, "Times New Roman", Monospace, "Lucida Grande","Lucida Sans Unicode", arial, helvetica, verdana, sans-serif;
+	font-size:105%;
+	margin: 0 1em; /* vert horiz */
+	line-height:30px;
+}
+
+a.prev
+{
+	margin-left:0;
+	padding-left:0;
+}
+
+a.next
+{
+	margin-right:0;
+	padding-right:0;
+}
+
+b
+{
+/*	font-family: Arial, Verdana, Helvetica, Fixedsys, "Century Gothic", Gautami, "ms sans serif", sans-serif;
+*/
+/*	font-size: 11pt; */
+}
+
+.chaptertitle
+{
+	font-size:130%;
+	font-weight:bold;
+	text-align:center;
+	color:#40D;
+}
+
+.chapter
+{
+	/* Top Right Bottom Left */
+	margin: 2em 0pt 2em 0pt;
+}
+
+.bquote, .quotei
+{
+	font-style: italic;
+/*	font-family: Georgia, Times, "Times New Roman", Arial, Verdana, "ms sans serif", sans-serif, fixedsys;
+*/
+/*	font-size: 14pt; */
+	padding-left: 3em;
+}
+
+.intro
+{
+	background-color:#F4FFFF;
+	padding: 0.5em 1em ;
+}
+
+.imagecenter
+{
+	text-align: center;
+}
+
+.sitemeter {
+	text-align: center;
+/*	display: none;
+	visibility: hidden;
+ */
+	margin-top: 2em;
+	margin: auto;
+	width: 100%;
+
+/*	position: relative; */
+/*	display: inline;
+	display: block;
+*/
+}
+
+/*
+.sitemeter:after {
+	content: "Mirrors: http://mfcgoldmine.uuuq.com/Convert/index.html";
+}
+*/
+
+.left
+{
+	float: left;
+	width: 40%;
+	padding: 4pt 12pt;
+}
+
+.ref
+{
+	text-align:right;
+	font-style:italic;
+}
+
+.law
+{
+	font-size:120%;
+	font-style:italic;
+	font-weight:bold;
+	text-align:center;
+	color:#800080;
+}
+
+.outline
+{
+	font-style:italic;
+	font-weight:bold;
+	text-align:center;
+	color:#A000A0;
+}
+
+.act
+{
+	cursor: pointer;
+	width: 30px;
+/*	background-image: url(../Images/Icons/plus_12.gif); */
+}
+
+
+.row
+{
+/*	display: block; */
+	width: 100%;
+/*	border: 1px #F0F0FF solid; */
+	border-style: solid;
+	border-width: 1px;
+	border-left-width: 0px;
+	border-color: #F0F0FF;
+	margin: 4pt 0;
+	padding: 4pt 2px;
+	padding-left: 3px;
+	margin-left: 3px;
+	font-weight: bold;
+/*
+	background-image: url(../Images/Icons/plus_12.gif);
+	background-repeat: no-repeat;
+*/
+}
+
+.author
+{
+	font-weight: normal;
+	float: right;
+	border-left: 2px #F0F0FF solid;
+	width: 30%;
+	text-align: left;
+	padding-left: 4px;
+}
+
+.subj
+{
+	width: 60%;
+	text-align: left;
+	padding-left: 3px;
+	font-weight: bold;
+}
+
+.blub
+{
+	color: #4004F0;
+	font-weight:bold;
+}
+
+.reb
+{
+/*	color: #F004F0; */
+	color: #D004F0;
+	font-weight:bold;
+}
+
+.hidden
+{
+	display: none;
+	border:1px #F0F0FF solid;
+}
+
+.intro_msg, .intro_msg_osho, .intro_msg_news
+{
+/*	display: none;
+*/
+	border:1px #F0F0FF solid;
+}
+
+.todays_theme
+{
+	display: none;
+	visibility: hidden;
+}
+
+.haarp_msg, .news_msg
+{
+/*	display: none;
+*/
+	border:1px #F0F0FF solid;
+}
+
+/* This is to show/hide headers */
+.headersExpand {
+	cursor: pointer;
+/*  font: bold .9em verdana, arial, helvetica, sans-serif; */
+}
+
+/* For MSIE 6, which does not work with layers, use margin-top instead */
+.contentcolumn, .indexcolumn, .quotecolumn, .tocbook
+{
+/*	Use margin-top: here so that both MSIE 6 and Firefox work */
+	margin: auto;
+	padding: auto;
+	background-color: #FFFFF8;
+	overflow: hidden;
+/*	text-overflow: ellipsis; */
+	/* top right bottom left*/
+/*	padding: 28 0 0px 0; */
+}
+
+.quotecolumn
+{
+	margin-top: 2em;
+	padding: 1em 1em;
+}
+
+.mainbar
+{
+	/* Top Right Bottom Left */
+	margin: 8pt 6pt 10pt 6pt;
+	padding: 8pt 1em;
+
+	background-color: #FAFFFF;
+	border-width: 3px;
+
+	/* top right bottom left */
+	border-style: solid;
+	border-color: #e0e0ff;
+}
+
+.box1, .chapnav, .box1y, .box1nc, .box1nb, .also
+{
+/* font-family does not work it works on <p> */
+/*	font-size: 11pt; */
+/*	font-size: 107%; */
+
+	border-style: solid;
+	/* border-width is declared AFTER border-style */
+	border-width: 1px;
+	border-color: blue;
+
+	margin: 9pt;
+	margin: 10pt 8pt;
+	/* Top Right Bottom Left */
+/*	padding: 0; */
+	padding: 10pt 10pt;
+}
+
+.epigraph
+{
+/*	text-align: right; */
+	margin-right: 3em;
+	font-style: italic;
+}
+
+.mark
+{
+	color:#4000A0;
+	background-color:#E8FFFF;
+}
+
+.also
+{
+	/* Top vert horiz */
+	margin: 3em 0pt;
+	/* Top Right Bottom Left */
+
+	padding: 0pt 1em 1em 1em;
+}
+
+.alsoh
+{
+	/* Top vert horiz */
+	font-size:140%;
+}
+
+.box1, .chapnav, .q1, .q1i, .epigraph, .also
+{
+	background-color: #FAFFFF;
+}
+
+.box1nb
+{
+	border-style: dotted;
+	border-width: 1px;
+/*	background-color: #FAFFFF;
+*/
+	background-color: #EAEFF0;
+}
+
+.q1, .q1nc, .q1y, .img1, .q1i, .q1yi, .epigraph, .libref
+{
+	/* Top Right Bottom Left */
+	margin: 10pt 6pt;
+	padding: 8pt 1em;
+	border-width: 3px;
+
+	/* top right bottom left */
+	border-style: solid;
+	border-color: #e0e0ff;
+
+/*	font-size: 105%; */
+}
+
+.libref
+{
+	/* Top vert horiz */
+	margin: 2em 0pt;
+	padding: 1em 1em;
+	font-weight:bold;
+}
+
+.q1i p, .q1yi p, .q1yi li
+{
+	font-style: italic;
+}
+
+
+.q1y, .q1yi, .box1y, .q1yi, .libref
+{
+	/* Light yellow color */
+	background-color: #FFFFE0;
+}
+
+.img1
+{
+	margin: 10pt 10pt;
+	padding: 1em 1em;
+}
+
+.q1nc, .libref
+{
+	background-color: #FFFFF8;
+}
+
+.hdr, .alsoh
+{
+	font-weight:bold;
+	text-align:center;
+}
+
+.hdr, .alsoh, h1, h2, .pagename, .subsection
+{
+	color:#4000A0;
+}
+
+.hdr
+{
+	font-size:160%;
+	padding: .5em .5em;
+	margin: 0pt 0pt;
+}
+
+.section_head
+{
+	font-size:140%;
+	font-weight:bold;
+	text-align:center;
+	color:#4000A0;
+}
+
+.subsection
+{
+/*	font-family: Times, "Times New Romain", Arial, Verdana, Helvetica, "Century Gothic", Gautami, "ms sans serif", sans-serif;
+*/
+	font-size: 160%;
+	font-weight: bold;
+/*	background-color: #80a0F0;
+*/
+	background-color: #E8F0FF;
+	/* Top Right Bottom Left */
+	margin: 10pt 0pt;
+	padding: .5em;
+	text-align: center;
+}
+
+.mainmenuwrapper, .ContentTable, .bookmarkers
+{
+	max-width: 54em;
+}
+
+.contentcolumn
+{
+	max-width: 40em;
+	border: 6px #D0D0DF solid;
+}
+
+.quotecolumn
+{
+	max-width: 38em;
+}
+
+.tocbook
+{
+	max-width: 38em;
+}
+
+.indexcolumn
+{
+	max-width: 70em;
+}
+
+.navwrapper
+{
+	width: 100%;
+}
+
+.artnavbar {
+/*	width: 54em; */
+/*	width: auto; */
+	font-size: 105%;
+}
+
+div.leftsubbar
+{
+	float: left;
+}
+
+div leftsubbar.prev:hover, div.leftsubbar.next:hover
+{
+	border: 1px solid #F0F0FF;
+}
+
+div.mainmenuitem, div.navitem, .headersExpand
+{
+	text-align: center;
+}
+
+div.rightsubbar, div.rightsubbar_osho
+{
+	float: right;
+}
+
+div.prev, div.next, div.navitem, div.mainmenuitem, div.headersExpand, div.subject, div.init_search, .init_search_osho
+{
+	border: 1px solid #F0F0FF;
+}
+
+.navwrapper, .mainmenuwrapper, .navwrapper_osho, .navwrapper_news
+{
+	font-family: helvetica, "Times New Roman", Monospace, "Lucida Grande","Lucida Sans Unicode", arial, helvetica, verdana, sans-serif;
+	font-weight: bold;
+	list-style: none;
+	position: fixed;
+
+/*	margin: auto; */
+	margin-left: 0;
+	border-width: 3px 0 3px 0;
+	border-style: groove;
+	border-color: blue;
+	padding: .1em 0;
+	/* text-align: center is supposed to make list centered */
+/*	text-align: center; */
+	background-image: url(../Images/20105_11.bmp);
+/*	background-color: #C000E0; */
+	color: #6F6FF0;
+}
+
+.navwrapper_osho, .navwrapper_news
+{
+	background-image: none;
+	background-color: #f8F8F0;
+	background-color: #F8FFF8;
+	list-style: none;
+	position:relative;
+}
+
+.navwrapper {
+/*	overflow: auto; */
+}
+
+.mainmenuwrapper
+{
+	background-image: url(Images/20105_11.bmp);
+}
+
+div.mainmenuitem, div.mainmenuitem:hover
+{
+	display: inline;
+	float: left;
+/*	border: 1px solid blue; */
+	margin: 0 0.5em;
+/*	padding: 0 .25em 0 .25em; */
+/*	border-style: dotted; */
+}
+
+/* , div.navitem_osho, div.navitem_osho:hover */
+.navitem_osho, .navitem_osho:hover, .navitem_news, .navitem_news:hover
+{
+	background-color: #f0f0FF;
+	list-style:none;
+	float:left;
+	width: 5em;
+	/* Top Right Bottom Left */
+	margin: 0 1em .5em 1em;
+	padding:0 0 0 1em;
+/*	padding:10px 15px; */
+}
+
+.navitem_osho:hover, .navitem_news:hover
+{
+	background-color: #E0FFFF;
+}
+
+div.prev, div.prev:hover, div.next, div.next:hover, div.mainmenuitem, div.mainmenuitem:hover, div.navitem, div.navitem:hover,
+	div.headersExpand, div.headersExpand:hover, div.subject, div.subject:hover, div.init_search, div.init_search, div.init_search_osho:hover
+{
+/*	display: inline; */
+	display: block;
+	float: left;
+/*	border: 1px solid blue; */
+	margin: 0 0.5em;
+/*	padding: 0 .25em 0 .25em; */
+/*	border-style: dotted; */
+}
+
+div.prev:hover, div.next:hover, div.navitem:hover, div.headersExpand:hover, div.subject:hover, div.init_search, div.init_search_osho {
+	background:#80FFE0;
+/*	border: 1px dotted blue; */
+	border-color: blue;
+/*	line-height:30px; */
+}
+
+div.prev, div.next, div.navitem, div.subject, div.init_search, div.init_search_osho  {
+	border-color: transparent;
+/*	border: 1px dotted transparent; */
+}
+
+div.prev, div.prev:hover, div.next, div.next:hover, div.navitem, div.navitem:hover,
+	div.headersExpand, div.headersExpand:hover, div.subject, div.subject:hover, div.init_search, div.init_search, div.init_search_osho:hover
+{
+/*	display: inline; */
+	display: block;
+	float: left;
+/*	border: 1px solid blue; */
+	margin: 0 .5em;
+/*	padding: 0 .25em 0 .25em; */
+/*	border-style: dotted; */
+}
+
+div.prev, div.prev:hover, div.next, div.next:hover {
+}
+
+div.navitem, div.navitem:hover
+	div.headersExpand, div.headersExpand:hover, div.subject, div.subject:hover, div.init_search, div.init_search
+{
+	padding: 0 .25em 0 .25em;
+}
+
+div.init_search_osho, div.init_search_osho:hover
+{
+	float:right;
+	margin: 1em .5em; /* vert horiz */
+}
+
+div.prev, div.prev:hover
+{
+	margin-left: 2em;
+	background-image: url(../Images/Prev_03.gif);
+	background-repeat: no-repeat;
+	background-position: 2.5em .1em;
+/*	padding-right: 2em; */
+/*	display: inline; */
+}
+
+div.prev a, div.prev a:hover {
+/*	margin-right: 16px; */
+/*	padding-right: 16px; */
+	padding-right: 30px;
+}
+
+div.next, div.next:hover
+{
+/*	padding: 0px 40px 0px 40px; */
+/*	padding-left: 1.5em; */
+	padding-right: .25em;
+/*	margin: auto;
+	margin: 1.4em 2em;
+*/
+	margin-left: .5em;
+	background-image: url(../Images/Next_03.gif);
+	background-repeat: no-repeat;
+/*	background-position: 0 50%; */
+	background-position: .3em .1em;
+/*	margin: 0 2em 0 2em; */
+	text-align: right;
+}
+
+div.next, div.next:hover {
+/*	margin-left: 20px; */
+/*	padding-left: 20px; */
+}
+
+div.next a, div.next a:hover {
+/*	margin-left: 20px; */
+	padding-left: 20px;
+}
+
+div.prev, div.next, div.navitem, div.headersExpand, div.subject, div.init_search, div.init_search_osho
+{
+	border: 1px solid #F0F0FF;
+}
+
+div.navitem, .headersExpand
+{
+	text-align: center;
+}
+
+div.prev a, div.prev a:hover, div.next a, div.next a:hover,
+div.mainmenuitem a, div.mainmenuitem a:hover, div.navitem a, div.navitem a:hover,
+div.subject a, div.subject a:hover , div.init_search, div.init_search_osho a, div.init_search, div.init_search_osho:hover {
+	text-decoration: none;
+}
+
+div.subject, div.init_search, div.init_search_osho
+{
+/*	width: 20em; */
+	width: auto;
+}
+
+div.prev, div.next
+{
+	width: 4em;
+}
+
+div.navitem, div.headersExpand
+{
+	width: 4em;
+}
+
+.subjsubbar, .subjsubbar_osho
+{
+	text-align: center;
+}
+
+div.subject, div.subject:hover {
+/* 	width: 10em; */
+/*	padding: 0 .5em 0 3.5em; */
+	margin: 0 1em 0 5em;
+	text-align: center;
+}
+
+div.prev a, div.prev a:hover, div.next a, div.next a:hover,
+a, div.navitem a, div.navitem a:hover,
+div.subject a, div.subject a:hover , div.init_search, div.init_search_osho a, div.init_search, div.init_search_osho:hover {
+	text-decoration: none;
+}
+
+
+.normal, .artheaders, .myquote
+{
+/*    font-family: "times new roman", helvetica, Arial, Verdana, fixedsys, Garamond, "ms sans serif"; */
+	/* Top Right Bottom Left, vert horiz */
+	margin:.5em 1em;
+}
+
+.artheaders {
+	display:none;
+	margin: .5em 0 1em 0;
+	padding: 0;
+	border-width: 3px 3px 3px 3px;
+/*	overflow: auto; */
+
+	/* top right bottom left */
+/*	padding: 1pt 3pt 1pt 3pt; */
+	border-style: solid;
+	border-color: #e0e0ff;
+	float: left;
+	width: 100%;
+}
+
+.headerrow {
+	margin: 2px 0 2px 0;
+	display: block;
+}
+
+.headername
+{
+/*	font-family: "Century Gothic", Arial, Verdana, Gautami, "ms sans serif", sans-serif;
+*/
+/*	font-weight: bold;
+	font-size: 107%;
+*/
+	background-color: #EEEEFF;
+	width: 10em;
+	float: left;
+	display: inline;
+	margin: 0 4px 0 0;
+/*	padding: 1px 4px 1px 0; */
+}
+
+.headerval
+{
+/*
+	font-family: Times, "Times New Roman", Arial, sans-serif, Verdana, "Century Gothic", Gautami, Arial, "ms sans serif";
+*/
+/*	font-size: 11pt; */
+/*	background-color: #F8F8FF;
+*/
+	background-color: #F0FFFF;
+	overflow: hidden;
+}
+
+.headername, .headerval {
+	border: 2px solid #FFFFFF;
+/*	vertical-align: middle; */
+}
+
+.nl
+{
+    text-align: left;
+	margin: 6pt 0 6pt 10pt;
+}
+
+.listpara
+{
+	margin: 6pt 0 6pt 0;
+}
+
+.pagename
+{
+    text-align: center;
+/*
+    font-family: Arial, Verdana, Times, "Times New Roman", "ms sans serif", sans-serif;
+*/    
+    font-weight: bold;
+    font-size: 240%;
+
+/*  width: 90pt; */
+    margin: .5em 0em; /* vert horiz */
+
+/*    background-color: #FFFFE1;
+    background-color: #F0D8FF;
+*/
+	background-color: transparent;
+}
+
+h1
+{
+/*	font-family: Arial, "Times New Roman", Verdana, "Century Gothic", Gautami, "ms sans serif", sans-serif;
+*/
+	font-weight: bold;
+	font-size: 180%;
+/*	color: #000000; */
+
+	/* Top Right Bottom Left */
+	margin: 8pt 0 8pt 0;
+/*	padding: 8pt; */
+
+/*	background-color: #FFD8FF;
+	background-color: #F0FFFF;
+	background-color: #E0F0FF;
+ */
+}
+
+h2, .search_title
+{
+/*	font-family: Arial, "Book Antiqua", Verdana, "Century Gothic", Gautami, "ms sans serif", sans-serif;
+*/
+/*	color: #000000; */
+	margin-top: 8pt;
+	margin-bottom: 8pt;
+	padding: 3pt 8pt;
+
+	border-style: solid;
+	border-width: 1px 0 1px 0px;
+	border-color: #00f;
+	background:#FFFFE0;
+/*	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:107%;
+*/
+	font-size: 120%;
+}
+
+
+h2
+{
+/*	font-family: impact, Verdana, Arial, Sans-Serif;
+	font-weight: normal;
+*/
+	margin-top: 2em;
+	margin-bottom: 1em;
+}
+
+h3
+{
+	font-family: Arial, Verdana, "Century Gothic", Gautami, "ms sans serif", sans-serif;
+	font-weight: normal;
+	font-size: 107%;
+	color: #B50400;
+}
+
+h1, h2
+{
+	clear: both;
+}
+
+h1, h2, h1.c, h2.c, h3, h3.c, h4, h4.c.search_title
+{
+	text-align:center;
+}
+
+h4
+{
+	font-family: Arial, Verdana, "Century Gothic", Gautami, "ms sans serif", sans-serif;
+	font-weight: normal;
+	margin: 4pt 4pt;
+	font-size: 105%;
+	color: #000000;
+}
+
+h5
+{
+	font-family: Arial, Verdana, "Century Gothic", Gautami, "ms sans serif", sans-serif;
+	font-weight: normal;
+/*	font-size: 10pt; */
+	margin-top: 6pt;
+	margin-bottom: 2pt;
+}
+
+h6
+{
+	font-family: Arial, Verdana, "Century Gothic", Gautami, "ms sans serif", sans-serif;
+	font-weight: normal;
+/*	font-size: 7pt; */
+	font-size: 80%;
+	margin-top: 6pt;
+	margin-bottom: 2pt;
+}
+
+.subsection
+{
+/*	color:black;
+	font-family:Georgia, "Times New Roman", Times, serif;
+*/
+}
+
+.subsection
+{
+	border:2px solid #00f;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+}
+
+.q1, .q1nc, .q1y, .q1i, .q1yi, .box1, .chapnav, .box1y, .box1nc, .subsection, .mainbar, .epigraph, .also, .libref
+{
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+}
+
+.mainbar_mob, .init_search_mob
+{
+	display: none;
+	visibility: hidden;
+}
+
+
+.chapnav
+{
+	padding-top: 1em;
+	padding-bottom: 1em;
+	margin:2em;
+	line-height:30px;
+}
+
+/* NEW end*/
+
+.generator
+{
+	font-family: Arial, Verdana, Fixedsys, Times, "Times New Roman", sans-serif, Verdana, "Century Gothic", Gautami, Arial, "ms sans serif";
+/*	font-size: 8pt; */
+	font-size: 80%;
+	margin: auto;
+	margin-top: .5em;
+	margin-bottom: .5em;
+	width: 30%;
+	color:#000020;
+}
+
+.generator:after {
+	display: block;
+	text-align: center;	/* text-align: center works in :after */
+/*	background-color: #F0F0FF;
+	background-color: #CCF0FF;
+	content: "Wikileaks Affair and the NWO Agenda http://antimatrix.org";
+*/
+/*	width: 70%; */
+}
+
+.generator
+{
+/*	background-color: #F8FFFF;
+*/
+	background-color: #FFE8FF;
+	text-align: center;
+	border-width: 1px;
+	border-style: solid;
+	border-color: blue;
+/*
+	width: 40%;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding: 4;
+*/	
+}
+
+.myquote
+{
+/*	font-family: Arial, Verdana, Monospace, Fixedsys, Times, "Times New Roman", sans-serif, Verdana, "Century Gothic", Gautami, Arial, "ms sans serif";
+	font-size: 10pt;
+*/
+	/* Top Right Bottom Left */
+	padding: 4pt 6pt 4pt 6pt;
+
+	border-width: 3px 3px 3px 3px;
+	border-style: solid;
+	border-color: #e0e0ff;
+/*	margin-top: 1em; */
+	margin: 0 0;
+/*	padding: 0 0; */
+	background-color: #F8FFFF;
+}
+
+/*
+    Styles .t1 - .t11 are used for indent a followup level
+*/
+.t1, .t1nc, .t2, .t3, .t4, .t5, .t6, .t7, .t8, .t9, .t10, .t11, .t11nc
+{
+	border-style: solid;
+	border-color: blue;
+
+	/* Top Right Bottom Left */
+/*	padding: 3px 0 3px 4px; */
+	padding: 4pt 0pt 4pt 4pt;
+	margin:4pt 0;
+}
+
+.t1 {
+	clear: left;
+	padding-right: 6pt;
+}
+
+.t1nc
+{
+	border-width: 0px;
+}
+	
+.t1, .t2, .t3, .t4, .t5, .t6, .t7, .t8, .t9, .t10, .t11
+{
+	border-width: 1px;
+}
+
+.t2, .t3, .t4, .t5, .t6, .t7, .t8, .t9, .t10, .t11, .t11nc
+{
+	border-right-width: 0px;
+}
+	
+.t1
+{
+	background-color: #F8FFFF;
+}
+
+.t1, .t1nc
+{
+	color:#000020;
+}
+
+.t2
+{
+	background-color: #FFF8FF;
+}
+
+.t2
+{
+	color:#000000;
+}
+
+.t3
+{
+	background-color: #FFFFE8;
+}
+
+.t3
+{
+	color:#200000;
+}
+
+.t4
+{
+	background-color: #F0FFFF;
+}
+
+.t4
+{
+	color:#400000;
+}
+
+.t5
+{
+	background-color: #FFF0FF;
+}
+
+.t5
+{
+	color:#000060;
+}
+
+.t6
+{
+	background-color: #F0FFF0;
+}
+
+.t7
+{
+	background-color: #E8F8FF;
+}
+
+.t8
+{
+	background-color: #FFE8F8;
+}
+
+.t9
+{
+	background-color: #FFFFE8;
+}
+
+.t10
+{
+	background-color: #E0FFFF;
+}
+
+.t11
+{
+	background-color: #EFE0FF;
+}
+
+.t11, .t11nc
+{
+}
+
+	/* .ulx styles are used in TOC_Books and Navigator for category and other lists */
+	.ulx, .ulx.a
+	{
+/*		margin:0pt 0; */ /* vert horiz */
+		padding:0pt 1em;
+		margin:0pt 0;
+		font-weight:bold;
+		font-size:120%;
+	}
+
+	.ulx, .ulx.a, .cath1
+	{
+		font-weight:bold;
+		color:#B50400;
+	}
+
+	.ulx.a
+	{
+/*
+		color:#B50400;
+*/
+		font-weight:bold;
+	}
+
+	.ulx ul li a:hover
+	{
+		color:blue;
+	}
+
+
+	.ulx ul li
+	{
+		font-weight:normal;
+		color:#4000A0;
+/*
+		font-size:95%;
+*/
+	}
+
+	.ulx ul li a
+	{
+		font-weight:normal;
+		font-size:95%;
+/*
+		color:#4000A0;
+*/
+	}
+
+	.ulx ul li li, /* .ulx ul li li a */
+	{
+		margin:.2em;
+		color:green;
+/*
+		font-size:10pt;
+*/
+	}
+
+/* Used to display topic title */
+.TopicTitle 
+{
+	background-color: #FFF0C0;
+	text-align: left;
+	font-family: Arial, "Century Gothic", Verdana, Gautami, "ms sans serif", sans-serif;
+	font-weight: bold;
+/*	font-size: 12pt; */
+	font-size: 120%;
+
+	/* Top Right Bottom Left */
+	padding: 4pt 6pt 4pt 6pt;
+	margin: 4pt 6pt 8pt 6pt;
+}
+
+/* Used to display topic list title */
+.TopicListTitle 
+{
+	background-color: #FFCCFF;
+    background-color: #FFD0FF;
+    background-color: #FFE8FF;
+
+	text-align: center;
+	font-family: "Times New Roman", "ms sans serif", Arial, sans-serif, Verdana;
+	font-weight: bold;
+/*	font-size: 14pt; */
+	font-size: 120%;
+
+    border-style: solid;
+    border-color: #E0E0FF;
+
+	border-width: 1px;
+}
+
+/* Used to display a list of topics */
+.TopicList
+{
+	background-color: #F0FFFF;
+	
+	text-align:  left;
+	font-family: Arial, Gautami, "Century Gothic", Arial, Verdana, "Century Gothic", "ms sans serif", sans-serif;
+	font-weight: bold;
+/*	font-size: 11pt; */
+	font-size: 120%;
+	font-style: normal;
+	
+	/* Top Right Bottom Left */
+	margin: 4pt 6pt 4pt 6pt;
+	padding: 2pt 6pt 2pt 6pt;
+}
+
+.TopicList:hover
+{
+	background:#80FFE0;
+/*	border: 1px dotted blue; */
+	border: 1px solid blue;
+	border-color: blue;
+/*	line-height:30px; */
+	text-decoration: none;
+}
+
+.TopicList a:link, .TopicList a:visited, .TopicList a:active
+{
+	text-decoration: none;
+}
+
+.TopicList a:hover
+{
+/*	text-decoration: underline; */
+	text-decoration: none;
+}
+
+/* Used to display article index header */
+.ArticleIndexHead
+{
+    background-color: #FFE8FF;
+    
+    font-family: Arial, Verdana, Gautami, "Century Gothic", "Century Gothic", "ms sans serif", sans-serif;
+	font-weight: bold;
+/*	font-size: 11pt; */
+	font-size: 120%;
+	font-style: normal;
+	margin-top: 2px;
+	margin-bottom: 2px;
+	margin-left: 8px;
+
+    border-style: solid;
+    border-color: #E0E0FF;
+
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-right-width: 1px;
+}
+
+.TableEntry {
+	font-family: Arial, Verdana, "Century Gothic", Gautami, "ms sans serif", sans-serif;
+/*	font-size: 10pt; */
+	font-style: normal;
+
+	vertical-align: middle;
+    
+	margin-top: 1pt;
+	margin-bottom: 1pt;
+	margin-left: 16pt;
+    
+    border-style: solid;
+    border-color: #E0E0FF;
+
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-right-width: 1px;
+}
+
+/*
+<!-- Source code for webtoolkit.shadow.css -->
+*/
+#shadow-container, .shadow-container
+{
+	position: relative;
+	left: 3px;
+	top: 3px;
+	margin-right: 3px;
+	margin-bottom: 3px;
+}
+ 
+#shadow-container .shadow2, .shadow-container .shadow2,
+#shadow-container .shadow3, .shadow-container .shadow3,
+#shadow-container .container, .shadow-container .container
+{
+	position: relative;
+	left: -1px;
+	top: -1px;
+}
+ 
+#shadow-container .shadow1, .shadow-container .shadow1
+{
+	background: #F1F0F1;
+}
+
+#shadow-container .shadow2, .shadow-container .shadow2
+{
+	background: #DBDADB;
+}
+
+#shadow-container .shadow3, .shadow-container .shadow3
+{
+	background: #B8B6B8;
+}
+
+#shadow-container .container, .shadow-container .container
+{
+	background: #ffffff;
+	border: 1px solid #848284;
+	padding: 10px;
+}
+
+@media handheld {
+	.normal.shift_osho {
+		margin-top: 6em;
+	}
+
+	.intro_msg, .intro_msg_Ru, .intro_msg_osho, .intro_msg_news, .init_search, .mainbar, .news_msg, .layer1, .rightsubbar_osho
+	{
+		display: none;
+		visibility: hidden;
+	}
+
+	.mainbar_mob, .init_search_mob
+	{
+		display: block;
+		visibility: visible;
+	}
+
+	.todays_theme
+	{
+		display: block;
+		visibility: visible;
+		font-size:120%;
+		font-weight:bold;
+		text-align:center;
+	}
+
+	.contentcolumn, .indexcolumn, .quotecolumn, .tocbook
+	{
+	/*	Use margin-top: here so that both MSIE 6 and Firefox work */
+		margin: 4px 4px;
+		padding: 4px 4px;
+		overflow: hidden;
+	/*	text-overflow: ellipsis; */
+		/* top right bottom left*/
+	/*	padding: 28 0 0px 0; */
+	}
+
+	.normal, .artheaders, .myquote
+	{
+	/*    font-family: "times new roman", helvetica, Arial, Verdana, fixedsys, Garamond, "ms sans serif"; */
+		/* Top Right Bottom Left, vert horiz */
+		margin:.4em;
+	}
+
+	.q1, .q1nc, .q1y, .img1, .q1i, .q1yi, .epigraph, .libref
+	{
+		/* Top Right Bottom Left */
+		margin: 4pt 0; /* vert, horiz */
+		padding: 4pt 4pt; /* vert, horiz */
+		border-width: 2px;
+	}
+
+	.box1, .chapnav, .box1y, .box1nc, .box1nb, .also
+	{
+	/* font-family does not work it works on <p> */
+	/*	font-size: 107%; */
+
+		border-style: solid;
+		/* border-width is declared AFTER border-style */
+		border-width: 1px;
+		border-color: blue;
+
+		margin: 4pt 0.4em; /* vert, horiz */
+		/* Top Right Bottom Left */
+		padding: 4pt 0.4em; /* vert, horiz */
+	}
+
+	.chapnav
+	{
+		padding: 1em 0.5em;
+		margin:2em 0;
+		line-height:30px;
+	}
+
+	ol, ul, .ul_osho, .ul_news, .ulx, .ulx.a
+	{
+		/* vert horiz */
+		padding:0pt .5em;
+		margin:0pt 8pt;
+	}
+
+	li
+	{
+		 margin: 4pt .5em 4pt 4pt;
+		 padding: 4pt 0;
+	}
+
+	h1
+	{
+		font-size: 150%;
+	/*	color: #000000; */
+
+		/* Top Right Bottom Left */
+		margin: 0.4em 0 0.4em 0;
+	/*	padding: 8pt; */
+	}
+}
+
+/* iPhone-specific styles, works also with Samsung older version*/
+@media only screen and (max-device-width: 480px)
+{ 
+	html
+	{
+		-webkit-text-size-adjust: none;
+	}
+
+	.normal.shift_osho {
+		margin-top: 6em;
+	}
+
+	.intro_msg, .intro_msg_Ru, .intro_msg_osho, .intro_msg_news, .init_search, .mainbar, .news_msg, .layer1, .rightsubbar_osho
+	{
+		display: none;
+		visibility: hidden;
+	}
+
+	.mainbar_mob, .init_search_mob
+	{
+		display: block;
+		visibility: visible;
+	}
+
+	.todays_theme
+	{
+		display: block;
+		visibility: visible;
+		font-size:120%;
+		font-weight:bold;
+		text-align:center;
+	}
+
+	.contentcolumn, .indexcolumn, .quotecolumn, .tocbook
+	{
+	/*	Use margin-top: here so that both MSIE 6 and Firefox work */
+		margin: 4px 4px;
+		padding: 4px 4px;
+		overflow: hidden;
+	/*	text-overflow: ellipsis; */
+	}
+
+	.normal, .artheaders, .myquote
+	{
+	/*    font-family: "times new roman", helvetica, Arial, Verdana, fixedsys, Garamond, "ms sans serif"; */
+		/* Top Right Bottom Left, vert horiz */
+		margin:.4em;
+	}
+
+	.q1, .q1nc, .q1y, .img1, .q1i, .q1yi, .epigraph, .libref
+	{
+		/* Top Right Bottom Left */
+		margin: 4pt 0; /* vert, horiz */
+		padding: 4pt 4pt; /* vert, horiz */
+		border-width: 2px;
+	}
+
+	.box1, .chapnav, .box1y, .box1nc, .box1nb, .also
+	{
+	/* font-family does not work it works on <p> */
+	/*	font-size: 107%; */
+
+		border-style: solid;
+		/* border-width is declared AFTER border-style */
+		border-width: 1px;
+		border-color: blue;
+
+		margin: 4pt 0.4em; /* vert, horiz */
+		/* Top Right Bottom Left */
+		padding: 4pt 0.4em; /* vert, horiz */
+	}
+
+	.chapnav
+	{
+		padding: 1em 0.5em;
+		margin:2em 0;
+		line-height:30px;
+	}
+
+	ol, ul, .ul_osho, .ul_news, .ulx, .ulx.a
+	{
+		/* vert horiz */
+		padding:0pt .5em;
+		margin:0pt 8pt;
+	}
+
+	li
+	{
+		 margin: 4pt .5em 4pt 4pt;
+		 padding: 4pt 0;
+	}
+
+	h1
+	{
+		font-size: 150%;
+	/*	color: #000000; */
+
+		/* Top Right Bottom Left */
+		margin: 0.4em 0 0.4em 0;
+	/*	padding: 8pt; */
+	}
+}
+
+@media screen and (max-width: 400px) {
+	@-ms-viewport { width: 320px; }
+
+	.normal.shift_osho {
+		margin-top: 6em;
+	}
+
+	.intro_msg, .intro_msg_Ru, .intro_msg_osho, .intro_msg_news, .init_search, .mainbar, .news_msg, .layer1, .rightsubbar_osho
+	{
+		display: none;
+		visibility: hidden;
+	}
+
+	.mainbar_mob, .init_search_mob
+	{
+		display: block;
+		visibility: visible;
+	}
+
+	.todays_theme
+	{
+		display: block;
+		visibility: visible;
+		font-size:120%;
+		font-weight:bold;
+		text-align:center;
+	}
+
+	.contentcolumn, .indexcolumn, .quotecolumn, .tocbook
+	{
+	/*	Use margin-top: here so that both MSIE 6 and Firefox work */
+		margin: 4px 4px;
+		padding: 4px 4px;
+		overflow: hidden;
+	/*	text-overflow: ellipsis; */
+	}
+
+	.normal, .artheaders, .myquote
+	{
+	/*    font-family: "times new roman", helvetica, Arial, Verdana, fixedsys, Garamond, "ms sans serif"; */
+		/* Top Right Bottom Left, vert horiz */
+		margin:.4em;
+	}
+
+	.q1, .q1nc, .q1y, .img1, .q1i, .q1yi, .epigraph, .libref
+	{
+		/* Top Right Bottom Left */
+		margin: 4pt 0; /* vert, horiz */
+		padding: 4pt 4pt; /* vert, horiz */
+		border-width: 2px;
+	}
+
+	.box1, .chapnav, .box1y, .box1nc, .box1nb, .also
+	{
+	/* font-family does not work it works on <p> */
+	/*	font-size: 107%; */
+
+		border-style: solid;
+		/* border-width is declared AFTER border-style */
+		border-width: 1px;
+		border-color: blue;
+
+		margin: 4pt 0.4em; /* vert, horiz */
+		/* Top Right Bottom Left */
+		padding: 4pt 0.4em; /* vert, horiz */
+	}
+
+	.chapnav
+	{
+		padding: 1em 0.5em;
+		margin:2em 0;
+		line-height:30px;
+	}
+
+	ol, ul, .ul_osho, .ul_news, .ulx, .ulx.a
+	{
+		/* vert horiz */
+		padding:0pt .5em;
+		margin:0pt 8pt;
+	}
+
+	li
+	{
+		 margin: 4pt .5em 4pt 4pt;
+		 padding: 4pt 0;
+	}
+
+	h1
+	{
+		font-size: 150%;
+	/*	color: #000000; */
+
+		/* Top Right Bottom Left */
+		margin: 0.4em 0 0.4em 0;
+	/*	padding: 8pt; */
+	}
+}
+
+@media (max-width: 699px) and (min-width: 520px) {
+	@viewport {
+		width: 640px;
+		orientation: auto;
+	}
+
+	.normal.shift_osho {
+		margin-top: 6em;
+	}
+
+	.intro_msg, .intro_msg_Ru, .intro_msg_osho, .intro_msg_news, .init_search, .mainbar, .news_msg, .layer1, .rightsubbar_osho
+	{
+		display: none;
+		visibility: hidden;
+	}
+
+	.mainbar_mob, .init_search_mob
+	{
+		display: block;
+		visibility: visible;
+	}
+
+	.todays_theme
+	{
+		display: block;
+		visibility: visible;
+		font-size:120%;
+		font-weight:bold;
+		text-align:center;
+	}
+
+	.contentcolumn, .indexcolumn, .quotecolumn, .tocbook
+	{
+	/*	Use margin-top: here so that both MSIE 6 and Firefox work */
+		margin: 4px 4px;
+		padding: 4px 4px;
+		overflow: hidden;
+	/*	text-overflow: ellipsis; */
+	}
+
+	.normal, .artheaders, .myquote
+	{
+	/*    font-family: "times new roman", helvetica, Arial, Verdana, fixedsys, Garamond, "ms sans serif"; */
+		/* Top Right Bottom Left, vert horiz */
+		margin:.4em;
+	}
+
+	.q1, .q1nc, .q1y, .img1, .q1i, .q1yi, .epigraph, .libref
+	{
+		/* Top Right Bottom Left */
+		margin: 4pt 0; /* vert, horiz */
+		padding: 4pt 4pt; /* vert, horiz */
+		border-width: 2px;
+	}
+
+	.box1, .chapnav, .box1y, .box1nc, .box1nb, .also
+	{
+	/* font-family does not work it works on <p> */
+	/*	font-size: 107%; */
+
+		border-style: solid;
+		/* border-width is declared AFTER border-style */
+		border-width: 1px;
+		border-color: blue;
+
+		margin: 4pt 0.4em; /* vert, horiz */
+		/* Top Right Bottom Left */
+		padding: 4pt 0.4em; /* vert, horiz */
+	}
+
+	.chapnav
+	{
+		padding: 1em 0.5em;
+		margin:2em 0;
+		line-height:30px;
+	}
+
+	ol, ul, .ul_osho, .ul_news, .ulx, .ulx.a
+	{
+		/* vert horiz */
+		padding:0pt .5em;
+		margin:0pt 8pt;
+	}
+
+	li
+	{
+		 margin: 4pt .5em 4pt 4pt;
+		 padding: 4pt 0;
+	}
+
+	h1
+	{
+		font-size: 150%;
+	/*	color: #000000; */
+
+		/* Top Right Bottom Left */
+		margin: 0.4em 0 0.4em 0;
+	/*	padding: 8pt; */
+	}
+}
+
+@-ms-viewport {
+	width: device-width;
+	orientation: auto;
+
+	.normal.shift_osho {
+		margin-top: 6em;
+	}
+
+	.intro_msg, .intro_msg_Ru, .intro_msg_osho, .intro_msg_news, .init_search, .mainbar, .news_msg, .layer1, .rightsubbar_osho
+	{
+		display: none;
+		visibility: hidden;
+	}
+
+	.mainbar_mob, .init_search_mob
+	{
+		display: block;
+		visibility: visible;
+	}
+
+	.todays_theme
+	{
+		display: block;
+		visibility: visible;
+		font-size:120%;
+		font-weight:bold;
+		text-align:center;
+	}
+
+	.contentcolumn, .indexcolumn, .quotecolumn, .tocbook
+	{
+	/*	Use margin-top: here so that both MSIE 6 and Firefox work */
+		margin: 4px 4px;
+		padding: 4px 4px;
+		overflow: hidden;
+	}
+
+	.normal, .artheaders, .myquote
+	{
+	/*    font-family: "times new roman", helvetica, Arial, Verdana, fixedsys, Garamond, "ms sans serif"; */
+		/* Top Right Bottom Left, vert horiz */
+		margin:.4em;
+	}
+
+	.q1, .q1nc, .q1y, .img1, .q1i, .q1yi, .epigraph, .libref
+	{
+		/* Top Right Bottom Left */
+		margin: 4pt 0; /* vert, horiz */
+		padding: 4pt 4pt; /* vert, horiz */
+		border-width: 2px;
+	}
+
+	.box1, .chapnav, .box1y, .box1nc, .box1nb, .also
+	{
+	/* font-family does not work it works on <p> */
+	/*	font-size: 107%; */
+
+		border-style: solid;
+		/* border-width is declared AFTER border-style */
+		border-width: 1px;
+		border-color: blue;
+
+		margin: 4pt 0.4em; /* vert, horiz */
+		/* Top Right Bottom Left */
+		padding: 4pt 0.4em; /* vert, horiz */
+	}
+
+	.chapnav
+	{
+		padding: 1em 0.5em;
+		margin:2em 0;
+		line-height:30px;
+	}
+
+	ol, ul, .ul_osho, .ul_news, .ulx, .ulx.a
+	{
+		/* vert horiz */
+		padding:0pt .5em;
+		margin:0pt 8pt;
+	}
+
+	li
+	{
+		 margin: 4pt .5em 4pt 4pt;
+		 padding: 4pt 0;
+	}
+
+	h1
+	{
+		font-size: 150%;
+	/*	color: #000000; */
+
+		/* Top Right Bottom Left */
+		margin: 0.4em 0 0.4em 0;
+	/*	padding: 8pt; */
+	}
+}
+
+@-o-viewport { 
+	width: device-width;
+	orientation: auto;
+
+	.normal.shift_osho {
+		margin-top: 6em;
+	}
+
+	.intro_msg, .intro_msg_Ru, .intro_msg_osho, .intro_msg_news, .init_search, .mainbar, .news_msg, .layer1, .rightsubbar_osho
+	{
+		display: none;
+		visibility: hidden;
+	}
+
+	.mainbar_mob, .init_search_mob
+	{
+		display: block;
+		visibility: visible;
+	}
+
+	.todays_theme
+	{
+		display: block;
+		visibility: visible;
+		font-size:120%;
+		font-weight:bold;
+		text-align:center;
+	}
+
+	.contentcolumn, .indexcolumn, .quotecolumn, .tocbook
+	{
+		margin: 4px 4px;
+		padding: 4px 4px;
+		overflow: hidden;
+	}
+
+	.normal, .artheaders, .myquote
+	{
+	/*    font-family: "times new roman", helvetica, Arial, Verdana, fixedsys, Garamond, "ms sans serif"; */
+		/* Top Right Bottom Left, vert horiz */
+		margin:.4em;
+	}
+
+	.q1, .q1nc, .q1y, .img1, .q1i, .q1yi, .epigraph, .libref
+	{
+		/* Top Right Bottom Left */
+		margin: 4pt 0; /* vert, horiz */
+		padding: 4pt 4pt; /* vert, horiz */
+		border-width: 2px;
+	}
+
+	.box1, .chapnav, .box1y, .box1nc, .box1nb, .also
+	{
+	/* font-family does not work it works on <p> */
+	/*	font-size: 107%; */
+
+		border-style: solid;
+		/* border-width is declared AFTER border-style */
+		border-width: 1px;
+		border-color: blue;
+
+		margin: 4pt 0.4em; /* vert, horiz */
+		/* Top Right Bottom Left */
+		padding: 4pt 0.4em; /* vert, horiz */
+	}
+
+	.chapnav
+	{
+		padding: 1em 0.5em;
+		margin:2em 0;
+		line-height:30px;
+	}
+
+	ol, ul, .ul_osho, .ul_news, .ulx, .ulx.a
+	{
+		/* vert horiz */
+		padding:0pt .5em;
+		margin:0pt 8pt;
+	}
+
+	li
+	{
+		 margin: 4pt .5em 4pt 4pt;
+		 padding: 4pt 0;
+	}
+
+	h1
+	{
+		font-size: 150%;
+	/*	color: #000000; */
+
+		/* Top Right Bottom Left */
+		margin: 0.4em 0 0.4em 0;
+	/*	padding: 8pt; */
+	}
+}
+
+@viewport {
+	width: device-width; 
+	user-zoom: fixed;
+	max-zoom: 3;
+	min-zoom: 0.50; 
+	orientation: auto;
+
+	.normal.shift_osho {
+		margin-top: 6em;
+	}
+
+	.intro_msg, .intro_msg_Ru, .intro_msg_osho, .intro_msg_news, .init_search, .mainbar, .news_msg, .layer1, .rightsubbar_osho 
+	{
+		display: none;
+		visibility: hidden;
+	}
+
+	.mainbar_mob, .init_search_mob
+	{
+		display: block;
+		visibility: visible;
+	}
+
+	.todays_theme
+	{
+		display: block;
+		visibility: visible;
+		font-size:120%;
+		font-weight:bold;
+		text-align:center;
+	}
+
+}
+
+@media (max-device-width:480px)and (orientation:landscape){
+	.navbar-fixed-bottom .navbar-collapse,.navbar-fixed-top .navbar-collapse{
+		max-height:200px
+	}
+
+}
