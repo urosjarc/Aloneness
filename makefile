@@ -1,13 +1,16 @@
-build:
-	cd build && latex main.tex
+book: clean
+	cp ./latex ./build -r
+	rm ./build/book -rf
+	cp latex/book/$(LANG) build/book -r
 
-build-pdf:
 	cd build && pdflatex main.tex
+	xdg-open build/main.pdf
 
-build-SLO: build-pdf
-	cp latex build -r
-	sed -i -- 's/LANG/slovenian/g' ./build/main.tex
+book-sl:
+	$(MAKE) book LANG=slovenian
 
-build-ENG: build-pdf
-	cp latex build -r
-	sed -i -- 's/LANG/english/g' ./build/main.tex
+book-en:
+	$(MAKE) book LANG=english
+
+clean:
+	rm build -rf
