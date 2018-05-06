@@ -1,7 +1,9 @@
-\documentclass[12pt]{report}
-\usepackage[utf8]{inputenc}
+\documentclass{report}
 \usepackage{graphicx}
+\usepackage{csquotes}
+\usepackage[a5paper, margin=1.5cm]{geometry}
 
+\graphicspath{ {images/} }
 
 \begin{document}
 
@@ -9,6 +11,12 @@
 		\input{book/titlepage}
 	\end{titlepage}
 
-	\input{book/core}
+	\begin{center}
+		\textit{\input{book/question}}
+	\end{center}
+
+	\vspace{5mm}
+
+	\input{book/answer}
 
 \end{document}
