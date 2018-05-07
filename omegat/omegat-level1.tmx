@@ -6,82 +6,258 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
-        <seg>A thesis presented for the degree of</seg>
+        <seg>And then you go on and on, and you go far away from the fact.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180505T171936Z" creationid="urosjarc" creationdate="20180505T171936Z">
-        <seg>Predstavljeno bla bla bla...</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Author Name</seg>
-      </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180505T171923Z" creationid="urosjarc" creationdate="20180505T171923Z">
-        <seg>Ime avtorja</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180507T134401Z" creationid="urosjarc" creationdate="20180507T133641Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Country</seg>
+        <seg>Deep down there is an abyss... undefinable.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180505T171956Z" creationid="urosjarc" creationdate="20180505T171956Z">
-        <seg>Drzava</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Date</seg>
-      </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180505T172004Z" creationid="urosjarc" creationdate="20180505T172004Z">
-        <seg>Datum</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180507T143707Z" creationid="urosjarc" creationdate="20180507T143707Z">
+        <seg>Globoko v sebi cutis nicnost... nedolocljivost.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Department Name</seg>
+        <seg>Great uncomfort, inconvenience arises, because we don't know who we are.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180505T171945Z" creationid="urosjarc" creationdate="20180505T171945Z">
-        <seg>Oddelek</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Doctor of Philosophy</seg>
-      </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180505T171941Z" creationid="urosjarc" creationdate="20180505T171941Z">
-        <seg>Doktor</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180507T142136Z" creationid="urosjarc" creationdate="20180507T142136Z">
+        <seg>Zacutis nelagodje, paniko, saj v resnici ne ves kdo si.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Introduction</seg>
+        <seg>How to define yourself?</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180505T171905Z" creationid="urosjarc" creationdate="20180505T171837Z">
-        <seg>Uvod introduction</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Thesis Subtitle</seg>
-      </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180505T171918Z" creationid="urosjarc" creationdate="20180505T171918Z">
-        <seg>Podnapis</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180507T143131Z" creationid="urosjarc" creationdate="20180507T143131Z">
+        <seg>Ali v resnici ves kdo si ti?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Thesis Title</seg>
+        <seg>If you start looking for meaning you will miss the meaning of it.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180505T171912Z" creationid="urosjarc" creationdate="20180505T171912Z">
-        <seg>Naslov</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180507T134342Z" creationid="urosjarc" creationdate="20180507T132528Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>University Name</seg>
+        <seg>It creates fear.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180505T171950Z" creationid="urosjarc" creationdate="20180505T171950Z">
-        <seg>Univerziteta</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180507T144206Z" creationid="urosjarc" creationdate="20180507T144206Z">
+        <seg>Zacutis strah.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is a simple statement.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180507T134428Z" creationid="urosjarc" creationdate="20180507T134428Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is like a rose flower - a simple statement.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180507T134330Z" creationid="urosjarc" creationdate="20180507T132345Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is not a parable, it is simply a fact.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180507T134308Z" creationid="urosjarc" creationdate="20180507T134308Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Look directly into it.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180507T134316Z" creationid="urosjarc" creationdate="20180507T132104Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One feels always a need for the other.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180507T140359Z" creationid="urosjarc" creationdate="20180507T134709Z">
+        <seg>Zmeraj cutis potrebo po druzbi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Somebody asked a zen master, {What is the greatest miracle in the world?} The master replied, {I am sitting here alone with me.}</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180507T131615Z" creationid="urosjarc" creationdate="20180507T130033Z">
+        <seg>Nekdo je vprašal zen mojstra, {Kaj je največji čudež?} Mojster je odgovoril, {Jaz sedim tukaj sam s seboj.}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>THE GREATEST MIRACLE</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180507T131523Z" creationid="urosjarc" creationdate="20180507T125300Z">
+        <seg>JAZ SEDIM TUKAJ SAM S SEBOJ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The meaning is there, obvious; there is no need to search for it.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180507T134348Z" creationid="urosjarc" creationdate="20180507T132745Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The moment you start searching for meaning about such simple facts, you weave philosophies, you create metaphysics.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180507T134353Z" creationid="urosjarc" creationdate="20180507T133232Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The other becomes a mirror and we can see our faces in it.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180507T141822Z" creationid="urosjarc" creationdate="20180507T141822Z">
+        <seg>Drugi postanejo tvoje ogledalo v katerem lahko vidis svoj obraz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The other somehow makes us complete, otherwise we are incomplete.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180507T141533Z" creationid="urosjarc" creationdate="20180507T140453Z">
+        <seg>Drugi nekako izspopolnijo tvoj obstoj, drugace pa samemu sebi nisi nikoli dovolj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The zen master said, {I am sitting here alone with myself.} This is the greatest miracle.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180507T134437Z" creationid="urosjarc" creationdate="20180507T134437Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There is a tremendous need for the other because something is lacking within ourselves.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180507T140930Z" creationid="urosjarc" creationdate="20180507T134832Z">
+        <seg>Velikanska je tvoja potreba po druzbi, nekaj manjka tvoji exsistenci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There is an abyss... emptiness.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180507T143837Z" creationid="urosjarc" creationdate="20180507T143837Z">
+        <seg>Tam ni nicesar... praznina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There is no need to search for any meaning.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180507T134323Z" creationid="urosjarc" creationdate="20180507T132205Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To be alone is the greatest achievement.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180507T134529Z" creationid="urosjarc" creationdate="20180507T134529Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We don't know with whom we are.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180507T143255Z" creationid="urosjarc" creationdate="20180507T142411Z">
+        <seg>Ne ves skom si.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We have holes in our being; we stuff those holes with the presence of the other.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180507T140746Z" creationid="urosjarc" creationdate="20180507T135515Z">
+        <seg>V sebi imas existencne luknje; te luknje polnes z prisotnostjo drugih.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We know the name, we know the form, we know the man or the woman - Hindu, Christian, Indian, American - there are some ways to define the other.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180507T142808Z" creationid="urosjarc" creationdate="20180507T142808Z">
+        <seg>Poznas ime, poznas obliko, poznas moskega ali zensko - Kristjan, Musliman, Slovenec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What is the meaning of this parable?</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180507T134123Z" creationid="urosjarc" creationdate="20180507T134123Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When we are alone we are in very strange company, very embarrassing company.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180507T142336Z" creationid="urosjarc" creationdate="20180507T142336Z">
+        <seg>Ko si v samoti si v zelo cudni druzbi, zelo neprijetni, mucni druzbi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With the other, things are clear, defined.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180507T143328Z" creationid="urosjarc" creationdate="20180507T142445Z">
+        <seg>V druzbi, so lastnosti drugih jasno definirane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Without the other we are suddenly thrown to ourselves.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180507T141856Z" creationid="urosjarc" creationdate="20180507T141856Z">
+        <seg>Brez drugih si kar naenkrat prepuscen samemu sebi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Without the other we don't know who we are, we lose our identity.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180507T141707Z" creationid="urosjarc" creationdate="20180507T141707Z">
+        <seg>Brez drugih neves kdo si, izgubis svojo identiteto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You become frightened.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180507T144321Z" creationid="urosjarc" creationdate="20180507T144321Z">
+        <seg>Postanes na smrt prestrasen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You start merging into that.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180507T144113Z" creationid="urosjarc" creationdate="20180507T144113Z">
+        <seg>Zacnes se zlivati v to nedolocljivo nicnost.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
