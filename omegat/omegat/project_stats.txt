@@ -1,16 +1,16 @@
-5/12/18 2:46 PM
+5/13/18 8:13 PM
 Project Statistics
 
                  	Segments	Words	Characters (without spaces)	Characters (including spaces)	#Files	
 Total:           	     173	 2340	                      10845	                        13046	     3	
-Remaining:       	      70	 1060	                       5011	                         6020	     1	
+Remaining:       	       0	    0	                          0	                            0	     0	
 Unique:          	     173	 2340	                      10845	                        13046	     3	
-Unique Remaining:	      70	 1060	                       5011	                         6020	     1	
+Unique Remaining:	       0	    0	                          0	                            0	     0	
 
 
 Individual File Statistics:
 
 File Name    	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
-answer.tex   	           170	                70	            170	                       70	       2307	           1060	        2307	                  1060	                            10683	                                 5011	                             10683	                                        5011	                              12854	                                   6020	                               12854	                                          6020	
+answer.tex   	           170	                 0	            170	                        0	       2307	              0	        2307	                     0	                            10683	                                    0	                             10683	                                           0	                              12854	                                      0	                               12854	                                             0	
 question.tex 	             2	                 0	              2	                        0	         30	              0	          30	                     0	                              144	                                    0	                               144	                                           0	                                172	                                      0	                                 172	                                             0	
 titlepage.tex	             1	                 0	              1	                        0	          3	              0	           3	                     0	                               18	                                    0	                                18	                                           0	                                 20	                                      0	                                  20	                                             0	
