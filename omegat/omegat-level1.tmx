@@ -184,8 +184,8 @@
       <tuv lang="EN-US">
         <seg>Deep down there is an abyss... undefinable.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180507T143707Z" creationid="urosjarc" creationdate="20180507T143707Z">
-        <seg>Globoko v sebi cutis nicnost... nedolocljivost.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180520T162834Z" creationid="urosjarc" creationdate="20180507T143707Z">
+        <seg>Globoko v sebi cutis praznino... nedolocljivost.</seg>
       </tuv>
     </tu>
     <tu>
@@ -216,8 +216,8 @@
       <tuv lang="EN-US">
         <seg>Great uncomfort, inconvenience arises, because we don't know who we are.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180507T142136Z" creationid="urosjarc" creationdate="20180507T142136Z">
-        <seg>Zacutis nelagodje, paniko, saj v resnici ne ves kdo si.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180520T151007Z" creationid="urosjarc" creationdate="20180507T142136Z">
+        <seg>Zacutis nelagodje, paniko, saj ne ves kdo si.</seg>
       </tuv>
     </tu>
     <tu>
@@ -272,8 +272,8 @@
       <tuv lang="EN-US">
         <seg>How to define yourself?</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180512T103324Z" creationid="urosjarc" creationdate="20180507T143131Z">
-        <seg>Ali v resnici ves kdo si ti ko ni nobenega zraven?</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180520T174822Z" creationid="urosjarc" creationdate="20180507T143131Z">
+        <seg>Kdo si, ko zraven tebe ni nicesar vec?</seg>
       </tuv>
     </tu>
     <tu>
@@ -584,8 +584,8 @@
       <tuv lang="EN-US">
         <seg>Nobody wants to be alone.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180512T104240Z" creationid="urosjarc" creationdate="20180512T104007Z">
-        <seg>Nihce ne zeli ostati sam.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180520T165632Z" creationid="urosjarc" creationdate="20180512T104007Z">
+        <seg>Ne zelis biti sam.</seg>
       </tuv>
     </tu>
     <tu>
@@ -624,8 +624,8 @@
       <tuv lang="EN-US">
         <seg>One feels always a need for the other.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180507T140359Z" creationid="urosjarc" creationdate="20180507T134709Z">
-        <seg>Zmeraj cutis potrebo po druzbi.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180520T163901Z" creationid="urosjarc" creationdate="20180507T134709Z">
+        <seg>Zmeraj cutis potrebo po necem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -656,8 +656,8 @@
       <tuv lang="EN-US">
         <seg>People do a thousand and one things just not to be left alone.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180512T104811Z" creationid="urosjarc" creationdate="20180512T104430Z">
-        <seg>Delas tisoc in eno stvar samo da ne bi ostal v osamljenosti.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180520T175218Z" creationid="urosjarc" creationdate="20180512T104430Z">
+        <seg>Vse naredis samo da ne bi ostal v sam.</seg>
       </tuv>
     </tu>
     <tu>
@@ -696,16 +696,16 @@
       <tuv lang="EN-US">
         <seg>Somebody asked a zen master, {What is the greatest miracle in the world?} The master replied, {I am sitting here alone with me.}</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180507T131615Z" creationid="urosjarc" creationdate="20180507T130033Z">
-        <seg>Nekdo je vprašal zen mojstra, {Kaj je največji čudež?} Mojster je odgovoril, {Jaz sedim tukaj sam s seboj.}</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180520T180500Z" creationid="urosjarc" creationdate="20180507T130033Z">
+        <seg>Vprasali so zen mojstra, {Kaj je najvecji cloveski cudez?} Mojster je odgovoril, {Sedim sam s seboj.}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Somehow you want to merge with a crowd where you can feel at ease, that you are not alone, there are so many people like you - so many Mohammedans like you, so many Hindus like you, so many Christians, millions of them... you are not alone.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180512T105510Z" creationid="urosjarc" creationdate="20180512T105324Z">
-        <seg>Zelis se izgubiti v druzbi kjer se lahko sprostis ter pozabis na svojo osamljenost, toliko podobnih ljudi tebi - enako mislecih ljudi, na miljone... nisi vec osamljen.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180520T180312Z" creationid="urosjarc" creationdate="20180512T105324Z">
+        <seg>Zelis postati del necesa kjer se lahko sprostis in odmislis svojo samoto, toliko "podobnih" enako mislecih ljudi... nisi vec osamljen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -714,14 +714,6 @@
       </tuv>
       <tuv lang="EN-GB" changeid="urosjarc" changedate="20180513T181221Z" creationid="urosjarc" creationdate="20180513T181221Z">
         <seg>Trpel bos, se vedno vstrajno hodi.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>THE GREATEST MIRACLE</seg>
-      </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180507T131523Z" creationid="urosjarc" creationdate="20180507T125300Z">
-        <seg>JAZ SEDIM TUKAJ SAM S SEBOJ</seg>
       </tuv>
     </tu>
     <tu>
@@ -816,8 +808,16 @@
       <tuv lang="EN-US">
         <seg>The greatest fear in the world is to be left alone.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180512T104758Z" creationid="urosjarc" creationdate="20180512T104119Z">
-        <seg>Najbolj se bojis osamljenosti.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180520T174814Z" creationid="urosjarc" creationdate="20180512T104119Z">
+        <seg>Tvoj najvecji strah je da bi nekoc ostal sam v samoti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The greatest miracle</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180520T141510Z" creationid="urosjarc" creationdate="20180520T141510Z">
+        <seg>Cudez samote</seg>
       </tuv>
     </tu>
     <tu>
@@ -856,24 +856,24 @@
       <tuv lang="EN-US">
         <seg>The other becomes a mirror and we can see our faces in it.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180507T141822Z" creationid="urosjarc" creationdate="20180507T141822Z">
-        <seg>Drugi postanejo tvoje ogledalo v katerem lahko vidis svoj obraz.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180520T164032Z" creationid="urosjarc" creationdate="20180507T141822Z">
+        <seg>One so ogledalo v katerem se gledas.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The other helps you to hang out, the other helps you to remain out.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180512T103829Z" creationid="urosjarc" creationdate="20180512T103829Z">
-        <seg>Prisotnost drugega ti pomaga to pozabiti, drugi ti pomaga da tega vec ne cutis.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180520T174939Z" creationid="urosjarc" creationdate="20180512T103829Z">
+        <seg>Druga prisotnost te resi pekla. Tvoj jaz je spet definiran. Resil si ga.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The other somehow makes us complete, otherwise we are incomplete.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180507T141533Z" creationid="urosjarc" creationdate="20180507T140453Z">
-        <seg>Drugi nekako izspopolnijo tvoj obstoj, drugace pa samemu sebi nisi nikoli dovolj.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180520T163936Z" creationid="urosjarc" creationdate="20180507T140453Z">
+        <seg>One te zapolnijo, drugace si prazen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -944,16 +944,16 @@
       <tuv lang="EN-US">
         <seg>There is a tremendous need for the other because something is lacking within ourselves.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180507T140930Z" creationid="urosjarc" creationdate="20180507T134832Z">
-        <seg>Velikanska je tvoja potreba po druzbi, nekaj manjka tvoji exsistenci.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180520T151246Z" creationid="urosjarc" creationdate="20180507T134832Z">
+        <seg>Potreba je velikanska, nekaj ti manjka.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>There is an abyss... emptiness.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180507T143837Z" creationid="urosjarc" creationdate="20180507T143837Z">
-        <seg>Tam ni nicesar... praznina.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180520T164644Z" creationid="urosjarc" creationdate="20180507T143837Z">
+        <seg>Tam je crna luknja... nicnosti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1040,8 +1040,8 @@
       <tuv lang="EN-US">
         <seg>To be alone is really the greatest miracle.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180512T105606Z" creationid="urosjarc" creationdate="20180512T105606Z">
-        <seg>Ostati sam z sabo je resnicno najvecji cloveski cudez.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180520T180340Z" creationid="urosjarc" creationdate="20180512T105606Z">
+        <seg>Ostati sam je resnicno najvecji cloveski cudez.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1072,24 +1072,24 @@
       <tuv lang="EN-US">
         <seg>We don't know with whom we are.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180507T143255Z" creationid="urosjarc" creationdate="20180507T142411Z">
-        <seg>Ne ves skom si.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180520T154911Z" creationid="urosjarc" creationdate="20180507T142411Z">
+        <seg>Ne ves s kom si ker ne ves kdo si.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>We have holes in our being; we stuff those holes with the presence of the other.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180507T140746Z" creationid="urosjarc" creationdate="20180507T135515Z">
-        <seg>V sebi imas existencne luknje; te luknje polnes z prisotnostjo drugih.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180520T163929Z" creationid="urosjarc" creationdate="20180507T135515Z">
+        <seg>V sebi imas luknje; polnes jih z prisotnostjo drugih stvari.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>We know the name, we know the form, we know the man or the woman - Hindu, Christian, Indian, American - there are some ways to define the other.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180507T142808Z" creationid="urosjarc" creationdate="20180507T142808Z">
-        <seg>Poznas ime, poznas obliko, poznas moskega ali zensko - Kristjan, Musliman, Slovenec.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180520T164359Z" creationid="urosjarc" creationdate="20180507T142808Z">
+        <seg>Ves kateri stvari, osebi pripadas, sluzis, kaj ljubis, sovrazis, verujes. Z drugo stvarjo, osebo definiras svoj jaz zato ves tocno kdo si!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1104,16 +1104,16 @@
       <tuv lang="EN-US">
         <seg>When there is nobody you are simply left with your emptiness.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180512T103943Z" creationid="urosjarc" creationdate="20180512T103943Z">
-        <seg>Ko ni nobenega vec ob tebi si spet prepuscen svoji praznosti.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180520T165340Z" creationid="urosjarc" creationdate="20180512T103943Z">
+        <seg>Ko si sam si spet prepuscen svoji praznini, nicnosti.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>When we are alone we are in very strange company, very embarrassing company.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180512T103030Z" creationid="urosjarc" creationdate="20180507T142336Z">
-        <seg>Ko si v samoti si v zelo cudni druzbi, neprijetni, mucni druzbi.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180520T151559Z" creationid="urosjarc" creationdate="20180507T142336Z">
+        <seg>Ko si sam si v zelo neprijetni, mucni druzbi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1168,24 +1168,24 @@
       <tuv lang="EN-US">
         <seg>With the other, things are clear, defined.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180512T103240Z" creationid="urosjarc" creationdate="20180507T142445Z">
-        <seg>V druzbi, so tvoje lastnosti jasno definirane.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180520T164104Z" creationid="urosjarc" creationdate="20180507T142445Z">
+        <seg>Z drugo stvarjo, osebo definiras svoj jaz, svojo osebnost.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Without the other we are suddenly thrown to ourselves.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180507T141856Z" creationid="urosjarc" creationdate="20180507T141856Z">
-        <seg>Brez drugih si kar naenkrat prepuscen samemu sebi.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180520T153445Z" creationid="urosjarc" creationdate="20180507T141856Z">
+        <seg>Brez njih si prepuscen samemu sebi.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Without the other we don't know who we are, we lose our identity.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180507T141707Z" creationid="urosjarc" creationdate="20180507T141707Z">
-        <seg>Brez drugih neves kdo si, izgubis svojo identiteto.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180520T153248Z" creationid="urosjarc" creationdate="20180507T141707Z">
+        <seg>Brez njih neves kdo si, izgubis svojo identiteto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1240,16 +1240,16 @@
       <tuv lang="EN-US">
         <seg>You become frightened.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180507T144321Z" creationid="urosjarc" creationdate="20180507T144321Z">
-        <seg>Postanes na smrt prestrasen.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180520T164729Z" creationid="urosjarc" creationdate="20180507T144321Z">
+        <seg>Tvoj jaz se izgublja v nicnosti, postanes panicen.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>You become part of the crowd, you become part of a church, you become part of an organization.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180512T105053Z" creationid="urosjarc" creationdate="20180512T105053Z">
-        <seg>Postanes del druzbe, postanes clan cerkve, postanes del organizacije.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180520T175750Z" creationid="urosjarc" creationdate="20180512T105053Z">
+        <seg>Postanes pripadnik druzine, organizacije, religije, ideologije.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1304,24 +1304,24 @@
       <tuv lang="EN-US">
         <seg>You imitate your neighbours so you are just like them and you are not left alone.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180512T104817Z" creationid="urosjarc" creationdate="20180512T104751Z">
-        <seg>Imitiras bliznje ljudi da si podoben njim in nisi vec osamljen.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180520T175517Z" creationid="urosjarc" creationdate="20180512T104751Z">
+        <seg>Posnemas druge da si jim vsec da nisi vec sam.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>You lose your individuality, you lose your uniqueness, you just become imitators, because if you are not imitators you will be left alone.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180512T104934Z" creationid="urosjarc" creationdate="20180512T104934Z">
-        <seg>Izgubis svojo individualnost, izgubis svojo unikatnost, postanes imitator, ker ce nisi imitator ostanes v osamljenosti.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180520T175628Z" creationid="urosjarc" creationdate="20180512T104934Z">
+        <seg>Izgubis svojo individualnost, unikatnost, postanes imitator, ker drugace ostanes sam.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>You start merging into that.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180507T144113Z" creationid="urosjarc" creationdate="20180507T144113Z">
-        <seg>Zacnes se zlivati v to nedolocljivo nicnost.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180520T163321Z" creationid="urosjarc" creationdate="20180507T144113Z">
+        <seg>Gravitacija te vlece vanjo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1384,8 +1384,8 @@
       <tuv lang="EN-US">
         <seg>you want to rush towards the other.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180512T103405Z" creationid="urosjarc" creationdate="20180512T103228Z">
-        <seg>Hitis v druzbo drugega.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180520T174912Z" creationid="urosjarc" creationdate="20180512T103228Z">
+        <seg>Hitis v druzbo.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
