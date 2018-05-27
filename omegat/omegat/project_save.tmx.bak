@@ -677,13 +677,15 @@
       </tuv>
     </tu>
     <tu>
-      <note>asdsasdasdasd ASLDKJASd l
-ADSA</note>
+      <note>Sporocilo zelim narediti bolj osebno bolj direktno zato bom govoril enako kot da bi govoril prijatelju direktno ali ucencu. Zato sem namesto "cutimo" uporabil "cutis".
+
+Dodal sem tudi pojasnilni dodatek "druzbi" ki bolj natancno opredeljuje po cem tocno cutis potrebo. Ljudje bi si lahko brez dodatka to razumeli narobe.
+</note>
       <tuv lang="EN-US">
         <seg>One feels always a need for the other.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T163246Z" creationid="urosjarc" creationdate="20180507T134709Z">
-        <seg>Zmeraj cutis potrebo po druzbi.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T124726Z" creationid="urosjarc" creationdate="20180507T134709Z">
+        <seg>Zmeraj cutis potrebo po druzbi drugega.</seg>
       </tuv>
     </tu>
     <tu>
@@ -751,11 +753,12 @@ ADSA</note>
       </tuv>
     </tu>
     <tu>
+      <note>Glavno vprasanje sem probal narediti cim bolj jedernato brez nepotrebnih dodatnih besed iz dobesednega prevoda, da bi bralec dobil cim hitreje dobil paket soka.</note>
       <tuv lang="EN-US">
         <seg>Somebody asked a zen master, &lt;u0&gt;{What is the greatest miracle in the world?} The master replied, &lt;u1&gt;{I am sitting here alone with me.}</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T141728Z" creationid="urosjarc" creationdate="20180507T130033Z">
-        <seg>Vprasali so zen mojstra, &lt;u0&gt;{Kaj je najvecji cudez?} Mojster je odgovoril, &lt;u1&gt;{Sedim sam s seboj.}</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T123603Z" creationid="urosjarc" creationdate="20180507T130033Z">
+        <seg>Vprasal je zen mojstra, &lt;u0&gt;{Kaj je najvecji cudez?} Mojster je odgovoril, &lt;u1&gt;{Jaz sedim tu sam s seboj.}</seg>
       </tuv>
     </tu>
     <tu>
@@ -879,11 +882,16 @@ ADSA</note>
       </tuv>
     </tu>
     <tu>
+      <note>Namesto dobesednega prevoda sem raje izbral dejanje ki predstavlja "najvecji cudez" in s tem naredil simbolicni prevod. S tem sem zelel dodatno poskrbeti da bi si bralec cim bolj memoriziral kaj je najvecji cudez.
+
+Simbolicni prevod naredi naslov tudi bolj misteriozen in preprost brez ekstravagance mogoce tudi z scepcem poniznosti v zelji da bi bralec pristopil do knjige z mirnim in radovednim umom. 
+
+Izbor tega naslova sem izbral tudi zaradi tega ker hocem poskrbeti da bi bralec videl cudez in globino ter neskoncnost v tem zelo preprostem dejanju.</note>
       <tuv lang="EN-US">
         <seg>The greatest miracle</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180520T141510Z" creationid="urosjarc" creationdate="20180520T141510Z">
-        <seg>Cudez samote</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T133124Z" creationid="urosjarc" creationdate="20180520T141510Z">
+        <seg>\textquote{Jaz sedim tu sam s seboj.} </seg>
       </tuv>
     </tu>
     <tu>
@@ -1106,8 +1114,8 @@ ADSA</note>
       <tuv lang="EN-US">
         <seg>This suffering of loneliness is just paying for it.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T162452Z" creationid="urosjarc" creationdate="20180513T181314Z">
-        <seg>Placal jo bos z osamljenostjo.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T171638Z" creationid="urosjarc" creationdate="20180513T181314Z">
+        <seg>Poplacal jo bos z osamljenostjo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1183,6 +1191,7 @@ ADSA</note>
       </tuv>
     </tu>
     <tu>
+      <note>Ta segment je prazen ker verjamem da bi zmanjsal udarec sporocila.</note>
       <tuv lang="EN-US">
         <seg>What is the meaning of this parable?</seg>
       </tuv>

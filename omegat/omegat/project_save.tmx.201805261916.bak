@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A thesis presented for the degree of&lt;br0&gt;</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180505T171936Z" creationid="urosjarc" creationdate="20180505T171936Z">
+        <seg>Predstavljeno bla bla bla...&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Aloneness is the presence of oneself.</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="urosjarc" changedate="20180512T112804Z" creationid="urosjarc" creationdate="20180512T112804Z">
@@ -94,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Author Name</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180505T171923Z" creationid="urosjarc" creationdate="20180505T171923Z">
+        <seg>Ime avtorja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Because both aspects are always together.</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T150047Z" creationid="urosjarc" creationdate="20180512T121232Z">
@@ -142,10 +158,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>But remember, the master says, {I am here alone with myself.} When you are alone you are not alone, you are simply lonely - and there is a tremendous difference between loneliness and aloneness.</seg>
+        <seg>But remember, the master says, &lt;u0&gt;{I am here alone with myself.} When you are alone you are not alone, you are simply lonely - and there is a tremendous difference between loneliness and aloneness.</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T164526Z" creationid="urosjarc" creationdate="20180512T112152Z">
-        <seg>Toda ne pozabi, mojster pravi, {Sedim sam s seboj.} Ko si sam nisi v samoti, si samo osamljen - razlika med osamljenostjo in samoto je velika.</seg>
+        <seg>Toda ne pozabi, mojster pravi, &lt;u0&gt;{Sedim sam s seboj.} Ko si sam nisi v samoti, si samo osamljen - razlika med osamljenostjo in samoto je velika.</seg>
       </tuv>
     </tu>
     <tu>
@@ -162,6 +178,22 @@
       </tuv>
       <tuv lang="EN-GB" changeid="urosjarc" changedate="20180513T181102Z" creationid="urosjarc" creationdate="20180513T181102Z">
         <seg>Cas je da prides domov.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Country&lt;br0&gt;</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180505T171956Z" creationid="urosjarc" creationdate="20180505T171956Z">
+        <seg>Drzava&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Date</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180505T172004Z" creationid="urosjarc" creationdate="20180505T172004Z">
+        <seg>Datum</seg>
       </tuv>
     </tu>
     <tu>
@@ -190,10 +222,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Department Name&lt;br0&gt;</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180505T171945Z" creationid="urosjarc" creationdate="20180505T171945Z">
+        <seg>Oddelek&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Depending on others is depending - it is a bondage, it is a dependence, and one can never feel really blissful.</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T161233Z" creationid="urosjarc" creationdate="20180513T175505Z">
         <seg>Zanasati na drugega je veriga - suzenstvo, zmeraj si odvisen od nekoga, nikoli ne moras resnicno cutiti ekstaze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Doctor of Philosophy</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180505T171941Z" creationid="urosjarc" creationdate="20180505T171941Z">
+        <seg>Doktor</seg>
       </tuv>
     </tu>
     <tu>
@@ -238,10 +286,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>He says, {This is the greatest miracle.</seg>
+        <seg>He says, &lt;u0&gt;{This is the greatest miracle.</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T154928Z" creationid="urosjarc" creationdate="20180513T173318Z">
-        <seg>Pravi, {To je najvecji cudez.</seg>
+        <seg>Pravi, &lt;u0&gt;{To je najvecji cudez.</seg>
       </tuv>
     </tu>
     <tu>
@@ -378,6 +426,14 @@
       </tuv>
       <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T165029Z" creationid="urosjarc" creationdate="20180512T114147Z">
         <seg>V resnici je samo on sposoben biti z drugimi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Introduction</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180505T171905Z" creationid="urosjarc" creationdate="20180505T171837Z">
+        <seg>Uvod introduction</seg>
       </tuv>
     </tu>
     <tu>
@@ -606,10 +662,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Now this sound of {Ram} continuously repeated will become their companion.</seg>
+        <seg>Now this sound of &lt;u2&gt;{Ram} continuously repeated will become their companion.</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T150516Z" creationid="urosjarc" creationdate="20180512T123353Z">
-        <seg>Ta zvok {Ohm} neprestalno ponovljen bo postal njihov prijatelj.</seg>
+        <seg>Ta zvok &lt;u2&gt;{Ohm} neprestalno ponovljen bo postal njihov prijatelj.</seg>
       </tuv>
     </tu>
     <tu>
@@ -621,15 +677,13 @@
       </tuv>
     </tu>
     <tu>
-      <note>Sporocilo zelim narediti bolj osebno bolj direktno zato bom govoril enako kot da bi govoril prijatelju direktno ali ucencu. Zato sem namesto "cutimo" uporabil "cutis".
-
-Dodal sem tudi pojasnilni dodatek "druzbi" ki bolj natancno opredeljuje po cem tocno cutis potrebo. Ljudje bi si lahko brez dodatka to razumeli narobe.
-</note>
+      <note>asdsasdasdasd ASLDKJASd l
+ADSA</note>
       <tuv lang="EN-US">
         <seg>One feels always a need for the other.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T124726Z" creationid="urosjarc" creationdate="20180507T134709Z">
-        <seg>Zmeraj cutis potrebo po druzbi drugega.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T163246Z" creationid="urosjarc" creationdate="20180507T134709Z">
+        <seg>Zmeraj cutis potrebo po druzbi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -650,10 +704,10 @@ Dodal sem tudi pojasnilni dodatek "druzbi" ki bolj natancno opredeljuje po cem t
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>People come to me and they ask, {Yes, we are ready to sit, but give us a mantra so that we can chant a mantra.} What are they asking?</seg>
+        <seg>People come to me and they ask, &lt;u0&gt;{Yes, we are ready to sit, but give us a mantra so that we can chant a mantra.} What are they asking?</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T165644Z" creationid="urosjarc" creationdate="20180512T122821Z">
-        <seg>Ljudje pridejo do mene in prosijo, {Da, smo pripravljeni sedeti, toda daj nam mantro da lahko mantramo.} Vem kaj me v resnici prosijo.</seg>
+        <seg>Ljudje pridejo do mene in prosijo, &lt;u0&gt;{Da, smo pripravljeni sedeti, toda daj nam mantro da lahko mantramo.} Vem kaj me v resnici prosijo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -697,12 +751,11 @@ Dodal sem tudi pojasnilni dodatek "druzbi" ki bolj natancno opredeljuje po cem t
       </tuv>
     </tu>
     <tu>
-      <note>Glavno vprasanje sem probal narediti cim bolj jedernato brez nepotrebnih dodatnih besed iz dobesednega prevoda, da bi bralec dobil cim hitreje dobil paket soka.</note>
       <tuv lang="EN-US">
-        <seg>Somebody asked a zen master, {What is the greatest miracle in the world?} The master replied, {I am sitting here alone with me.}</seg>
+        <seg>Somebody asked a zen master, &lt;u0&gt;{What is the greatest miracle in the world?} The master replied, &lt;u1&gt;{I am sitting here alone with me.}</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T123603Z" creationid="urosjarc" creationdate="20180507T130033Z">
-        <seg>Vprasal je zen mojstra, {Kaj je najvecji cudez?} Mojster je odgovoril, {Jaz sedim tu sam s seboj.}</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T141728Z" creationid="urosjarc" creationdate="20180507T130033Z">
+        <seg>Vprasali so zen mojstra, &lt;u0&gt;{Kaj je najvecji cudez?} Mojster je odgovoril, &lt;u1&gt;{Sedim sam s seboj.}</seg>
       </tuv>
     </tu>
     <tu>
@@ -719,6 +772,14 @@ Dodal sem tudi pojasnilni dodatek "druzbi" ki bolj natancno opredeljuje po cem t
       </tuv>
       <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T162328Z" creationid="urosjarc" creationdate="20180513T181221Z">
         <seg>Trpi jo, pojdi skozi njo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>THE GREATEST MIRACLE</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180507T131523Z" creationid="urosjarc" creationdate="20180507T125300Z">
+        <seg>JAZ SEDIM TUKAJ SAM S SEBOJ</seg>
       </tuv>
     </tu>
     <tu>
@@ -818,16 +879,11 @@ Dodal sem tudi pojasnilni dodatek "druzbi" ki bolj natancno opredeljuje po cem t
       </tuv>
     </tu>
     <tu>
-      <note>Namesto dobesednega prevoda sem raje izbral dejanje ki predstavlja "najvecji cudez" in s tem naredil simbolicni prevod. S tem sem zelel dodatno poskrbeti da bi si bralec cim bolj memoriziral kaj je najvecji cudez.
-
-Simbolicni prevod naredi naslov tudi bolj misteriozen in preprost brez ekstravagance mogoce tudi z scepcem poniznosti v zelji da bi bralec pristopil do knjige z mirnim in radovednim umom. 
-
-Izbor tega naslova sem izbral tudi zaradi tega ker hocem poskrbeti da bi bralec videl cudez in globino ter neskoncnost v tem zelo preprostem dejanju.</note>
       <tuv lang="EN-US">
         <seg>The greatest miracle</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T133134Z" creationid="urosjarc" creationdate="20180520T141510Z">
-        <seg>\textquote{Jaz sedim tu sam s seboj.}</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180520T141510Z" creationid="urosjarc" creationdate="20180520T141510Z">
+        <seg>Cudez samote</seg>
       </tuv>
     </tu>
     <tu>
@@ -912,7 +968,7 @@ Izbor tega naslova sem izbral tudi zaradi tega ker hocem poskrbeti da bi bralec 
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>The zen master said, {I am sitting here alone with myself.} This is the greatest miracle.</seg>
+        <seg>The zen master said, &lt;u0&gt;{I am sitting here alone with myself.} This is the greatest miracle.</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="urosjarc" changedate="20180507T134437Z" creationid="urosjarc" creationdate="20180507T134437Z">
         <seg></seg>
@@ -984,6 +1040,22 @@ Izbor tega naslova sem izbral tudi zaradi tega ker hocem poskrbeti da bi bralec 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thesis Subtitle</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180505T171918Z" creationid="urosjarc" creationdate="20180505T171918Z">
+        <seg>Podnapis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thesis Title</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180505T171912Z" creationid="urosjarc" creationdate="20180505T171912Z">
+        <seg>Naslov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They are missing the whole point.</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T150605Z" creationid="urosjarc" creationdate="20180512T123620Z">
@@ -1016,10 +1088,10 @@ Izbor tega naslova sem izbral tudi zaradi tega ker hocem poskrbeti da bi bralec 
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>They will say, {Ram, Ram, Ram} - now they are not alone.</seg>
+        <seg>They will say, &lt;u1&gt;{Ram, Ram, Ram} - now they are not alone.</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T150423Z" creationid="urosjarc" creationdate="20180512T123227Z">
-        <seg>Peli bodo, {Ohm, Ohm, Ohm} - in ne bodo vec sami.</seg>
+        <seg>Peli bodo, &lt;u1&gt;{Ohm, Ohm, Ohm} - in ne bodo vec sami.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1080,6 +1152,14 @@ Izbor tega naslova sem izbral tudi zaradi tega ker hocem poskrbeti da bi bralec 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>University Name&lt;br0&gt;</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180505T171950Z" creationid="urosjarc" creationdate="20180505T171950Z">
+        <seg>Univerziteta&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We don't know with whom we are.</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="urosjarc" changedate="20180520T154911Z" creationid="urosjarc" creationdate="20180507T142411Z">
@@ -1103,7 +1183,6 @@ Izbor tega naslova sem izbral tudi zaradi tega ker hocem poskrbeti da bi bralec 
       </tuv>
     </tu>
     <tu>
-      <note>Ta segment je prazen ker verjamem da bi zmanjsal udarec sporocila.</note>
       <tuv lang="EN-US">
         <seg>What is the meaning of this parable?</seg>
       </tuv>
