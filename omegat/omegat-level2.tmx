@@ -61,6 +61,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>Segment 0001 in vse do segmenta 0011 je v bistvu nepotreben saj sem odstranil segment 0172 ki drzi informacijo o vprasanju ali je to parabola.</note>
       <tuv xml:lang="EN-US">
         <seg>And then you go on and on, and you go far away from the fact.</seg>
       </tuv>
@@ -181,6 +182,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>Yogi ve kaj pomeni "down there" vendar ne moj clovek zato sem izbral prevod "globoko v sebi".</note>
       <tuv xml:lang="EN-US">
         <seg>Deep down there is an abyss... undefinable.</seg>
       </tuv>
@@ -213,11 +215,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>Namesto celega prevoda "uncomfort, inconvience" sem izbral besedo z skupnim korenom le teh besed. Besedilo zelim pocasi stopnjevati zato sem odstranil "Great".</note>
       <tuv xml:lang="EN-US">
         <seg>Great uncomfort, inconvenience arises, because we don't know who we are.</seg>
       </tuv>
-      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180520T151007Z" creationid="urosjarc" creationdate="20180507T142136Z">
-        <seg>Zacutis nelagodje, paniko, saj ne ves kdo si.</seg>
+      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180527T150500Z" creationid="urosjarc" creationdate="20180507T142136Z">
+        <seg>Zacutis nelagodje, ker ne ves kdo si.</seg>
       </tuv>
     </tu>
     <tu>
@@ -269,6 +272,13 @@
       </tuv>
     </tu>
     <tu>
+      <note>Ko sem prevajal originalno besedilo sem imel izjemno tezavo s tem segmentom. Osho je to besedilo govoril svojim ucencem ki imajo ze zelo veliko iskusenj v meditaciji, jaz pa zelim to besedilo govoriti Slovenskim ljudem zato je potreben drugacen pristop in uporabiti bolj pojasnjevalne prevode ce hocem da bodo moji ljudje razumeli besedilo na enak nacin kot ga razumem jaz.
+
+Imel sem tudi tezave pri odlocanju kako naj ta segment prevedem ker se ta segment zelo mocno povezuje z prejsnjima segmentoma.
+
+Mislim da sem z tem prevodom zelo lepo zakljucil prejsnja dva segmenta in zelo dobro zakljucil sporocilo tematike samote.
+
+Bralec bi lahko rekel ce bi namesto "nicesar" uporabil "nobenega" da se se vedno pozna tudi v samoti jaz pa sem zelel ohraniti stanje radovednosti saj bralec se ni bil v stanju meditacije ko okoli tebe ni nicesar (ko je v meditativnem stanju).</note>
       <tuv xml:lang="EN-US">
         <seg>How to define yourself?</seg>
       </tuv>
@@ -365,6 +375,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>Segment 0001 in vse do segmenta 0011 je v bistvu nepotreben saj sem odstranil segment 0172 ki drzi informacijo o vprasanju ali je to parabola.</note>
       <tuv xml:lang="EN-US">
         <seg>If you start looking for meaning you will miss the meaning of it.</seg>
       </tuv>
@@ -421,6 +432,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>Segment 0001 in vse do segmenta 0011 je v bistvu nepotreben saj sem odstranil segment 0172 ki drzi informacijo o vprasanju ali je to parabola.</note>
       <tuv xml:lang="EN-US">
         <seg>It is a simple statement.</seg>
       </tuv>
@@ -445,6 +457,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>Segment 0001 in vse do segmenta 0011 je v bistvu nepotreben saj sem odstranil segment 0172 ki drzi informacijo o vprasanju ali je to parabola.</note>
       <tuv xml:lang="EN-US">
         <seg>It is like a rose flower - a simple statement.</seg>
       </tuv>
@@ -453,6 +466,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>Segment 0001 in vse do segmenta 0011 je v bistvu nepotreben saj sem odstranil segment 0172 ki drzi informacijo o vprasanju ali je to parabola.</note>
       <tuv xml:lang="EN-US">
         <seg>It is not a parable, it is simply a fact.</seg>
       </tuv>
@@ -541,6 +555,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>Segment 0001 in vse do segmenta 0011 je v bistvu nepotreben saj sem odstranil segment 0172 ki drzi informacijo o vprasanju ali je to parabola.</note>
       <tuv xml:lang="EN-US">
         <seg>Look directly into it.</seg>
       </tuv>
@@ -623,7 +638,7 @@
     <tu>
       <note>Sporocilo zelim narediti bolj osebno bolj direktno zato bom govoril enako kot da bi govoril prijatelju direktno ali ucencu. Zato sem namesto "cutimo" uporabil "cutis".
 
-Dodal sem tudi pojasnilni dodatek "druzbi" ki bolj natancno opredeljuje po cem tocno cutis potrebo. Ljudje bi si lahko brez dodatka to razumeli narobe.
+Dodal sem tudi pojasnilni dodatek k besedi "drugega" ki bolj natancno opredeljuje po cem tocno cutis potrebo. Bralec bi si lahko brez dodatka to razumeli narobe.
 </note>
       <tuv xml:lang="EN-US">
         <seg>One feels always a need for the other.</seg>
@@ -697,12 +712,12 @@ Dodal sem tudi pojasnilni dodatek "druzbi" ki bolj natancno opredeljuje po cem t
       </tuv>
     </tu>
     <tu>
-      <note>Glavno vprasanje sem probal narediti cim bolj jedernato brez nepotrebnih dodatnih besed iz dobesednega prevoda, da bi bralec dobil cim hitreje dobil paket soka.</note>
+      <note>Glavno vprasanje sem probal narediti cim bolj jedernato brez nepotrebnih dodatnih besed iz dobesednega prevoda, da bi bralec dobil cim hitreje dobil paket soka ter kontekst glavne tematike.</note>
       <tuv xml:lang="EN-US">
         <seg>Somebody asked a zen master, <it pos="begin" x="0">&lt;u0&gt;</it>{What is the greatest miracle in the world?} The master replied, <it pos="begin" x="1">&lt;u1&gt;</it>{I am sitting here alone with me.}</seg>
       </tuv>
-      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180527T123603Z" creationid="urosjarc" creationdate="20180507T130033Z">
-        <seg>Vprasal je zen mojstra, <it pos="begin" x="0">&lt;u0&gt;</it>{Kaj je najvecji cudez?} Mojster je odgovoril, <it pos="begin" x="1">&lt;u1&gt;</it>{Jaz sedim tu sam s seboj.}</seg>
+      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180527T140749Z" creationid="urosjarc" creationdate="20180507T130033Z">
+        <seg>Vprasal je zen mojstra, <it pos="begin" x="0">&lt;u0&gt;</it>{Kaj je najvecji cudez?} Mojster odgovori, <it pos="begin" x="1">&lt;u1&gt;</it>{Jaz sedim tu sam s seboj.}</seg>
       </tuv>
     </tu>
     <tu>
@@ -839,6 +854,7 @@ Izbor tega naslova sem izbral tudi zaradi tega ker hocem poskrbeti da bi bralec 
       </tuv>
     </tu>
     <tu>
+      <note>Segment 0001 in vse do segmenta 0011 je v bistvu nepotreben saj sem odstranil segment 0172 ki drzi informacijo o vprasanju ali je to parabola.</note>
       <tuv xml:lang="EN-US">
         <seg>The meaning is there, obvious; there is no need to search for it.</seg>
       </tuv>
@@ -855,6 +871,7 @@ Izbor tega naslova sem izbral tudi zaradi tega ker hocem poskrbeti da bi bralec 
       </tuv>
     </tu>
     <tu>
+      <note>Segment 0001 in vse do segmenta 0011 je v bistvu nepotreben saj sem odstranil segment 0172 ki drzi informacijo o vprasanju ali je to parabola.</note>
       <tuv xml:lang="EN-US">
         <seg>The moment you start searching for meaning about such simple facts, you weave philosophies, you create metaphysics.</seg>
       </tuv>
@@ -863,11 +880,14 @@ Izbor tega naslova sem izbral tudi zaradi tega ker hocem poskrbeti da bi bralec 
       </tuv>
     </tu>
     <tu>
+      <note>Ta segment je ze tako dovolj simbolicen zato sem odstranil "faces" saj je sporocilo ze takoo dovolj jasno.
+
+Uporabil sem "drugi" namesto "drugega" daa bi bralec vedel da se to dogaja pri vseh osebah in ne samo pri eni osebi!</note>
       <tuv xml:lang="EN-US">
         <seg>The other becomes a mirror and we can see our faces in it.</seg>
       </tuv>
-      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180526T163320Z" creationid="urosjarc" creationdate="20180507T141822Z">
-        <seg>Oni so ogledalo v katerem se gledas.</seg>
+      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180527T150024Z" creationid="urosjarc" creationdate="20180507T141822Z">
+        <seg>Drugi postanejo ogledalo v katerem se lahko gledas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -879,11 +899,12 @@ Izbor tega naslova sem izbral tudi zaradi tega ker hocem poskrbeti da bi bralec 
       </tuv>
     </tu>
     <tu>
+      <note>Imel sem veliko tezav z tem prevodom. Ce bi uporabil dobesedni prevod bi naredil segment lahek ki bi lepo nadaljeval prejsnji segment. Ce bi uporabil "naredi te popolnega" bi tvegal da bi bralec to v svojem umu zanikal da bi se mu branje ze na zacetku zamerilo, ker tudi ce si v druzbi lahko cutis nepopolnost zato sem raje izbral besedo ki predstavlja kaj jaz cutim go pridem v dobro druzbo, jaz cutim "zapolnjenost" kot besedo ki predstavlja njeno nasprotnost pa "praznino". Zelel sem uporabiti da mu "manjka" vendar to sem ze uporabil v segmentu 0013.</note>
       <tuv xml:lang="EN-US">
         <seg>The other somehow makes us complete, otherwise we are incomplete.</seg>
       </tuv>
-      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180526T163238Z" creationid="urosjarc" creationdate="20180507T140453Z">
-        <seg>Oni te zapolnijo, drugace si prazen.</seg>
+      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180527T144823Z" creationid="urosjarc" creationdate="20180507T140453Z">
+        <seg>Drugi te nekako zapolni, drugace si prazen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -911,6 +932,7 @@ Izbor tega naslova sem izbral tudi zaradi tega ker hocem poskrbeti da bi bralec 
       </tuv>
     </tu>
     <tu>
+      <note>Segment 0001 in vse do segmenta 0011 je v bistvu nepotreben saj sem odstranil segment 0172 ki drzi informacijo o vprasanju ali je to parabola.</note>
       <tuv xml:lang="EN-US">
         <seg>The zen master said, <it pos="begin" x="0">&lt;u0&gt;</it>{I am sitting here alone with myself.} This is the greatest miracle.</seg>
       </tuv>
@@ -951,14 +973,20 @@ Izbor tega naslova sem izbral tudi zaradi tega ker hocem poskrbeti da bi bralec 
       </tuv>
     </tu>
     <tu>
+      <note>Prevod sem naredil cim bolj jedernat vendar se vedno sem poskrbel da bi vse potrebne informacije bile prisotne v segmentu. Vse informacije ki sem jih spustil lahko bralec dobi ker ve da se ta segment nanasa na prejsnjega.</note>
       <tuv xml:lang="EN-US">
         <seg>There is a tremendous need for the other because something is lacking within ourselves.</seg>
       </tuv>
-      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180520T151246Z" creationid="urosjarc" creationdate="20180507T134832Z">
-        <seg>Potreba je velikanska, nekaj ti manjka.</seg>
+      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180527T143204Z" creationid="urosjarc" creationdate="20180507T134832Z">
+        <seg>Potreba je ogromna, nekaj ti manjka.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>V tem seg. sem uporabil sopomenko praznine "luknja" zaradi tega ker sem v naslednjem segmenu uporabil pojasnilo zakaj te ta "luknja" vlece vanjo, s tem sem ustvaril asocijacijo na crno luknjo ki pozre vse.
+
+Ker sem zelel ustvariti vecji impakt sem tudi namesto prazine izbral nicnost saj je nicnost veliko bolj strasljiva zaradi neprestavljivosti kako to zgleda.
+
+Praznino je bralec ze obcutil ko je bil recimo lacen ali zejen vendar ne nicnosti!</note>
       <tuv xml:lang="EN-US">
         <seg>There is an abyss... emptiness.</seg>
       </tuv>
@@ -967,6 +995,7 @@ Izbor tega naslova sem izbral tudi zaradi tega ker hocem poskrbeti da bi bralec 
       </tuv>
     </tu>
     <tu>
+      <note>Segment 0001 in vse do segmenta 0011 je v bistvu nepotreben saj sem odstranil segment 0172 ki drzi informacijo o vprasanju ali je to parabola.</note>
       <tuv xml:lang="EN-US">
         <seg>There is no need to search for any meaning.</seg>
       </tuv>
@@ -1055,6 +1084,9 @@ Izbor tega naslova sem izbral tudi zaradi tega ker hocem poskrbeti da bi bralec 
       </tuv>
     </tu>
     <tu>
+      <note>Segment 0001 in vse do segmenta 0011 je v bistvu nepotreben saj sem odstranil segment 0172 ki drzi informacijo o vprasanju ali je to parabola.
+
+Ta segment nisem prevedel ker ne zelim da bi mi bralec kontriral ze na zacetku. Ce bi prevedel to sporocilo bi v bistvu rekel to je definitivna resnica iskalec resnice dvomi v vsako besedo zato mora biti zacetek zelo previden ko odkrivas sporocilo.</note>
       <tuv xml:lang="EN-US">
         <seg>To be alone is the greatest achievement.</seg>
       </tuv>
@@ -1079,22 +1111,33 @@ Izbor tega naslova sem izbral tudi zaradi tega ker hocem poskrbeti da bi bralec 
       </tuv>
     </tu>
     <tu>
+      <note>Tu sem podaljsal sporocilo z besedami iz segmenta 0019, s tem sem zelel ustvariti kontinuiteto prejsnjih treh segmentov in dodatno pojasnil zakaj cutis nelagodje mucnost ko si sam. S tem sem tudi nakazal in orisal da zavest opazuje telesno neugodje ker se sama sebe v resnici ne pozna.</note>
       <tuv xml:lang="EN-US">
         <seg>We don't know with whom we are.</seg>
       </tuv>
-      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180520T154911Z" creationid="urosjarc" creationdate="20180507T142411Z">
-        <seg>Ne ves s kom si ker ne ves kdo si.</seg>
+      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180527T151318Z" creationid="urosjarc" creationdate="20180507T142411Z">
+        <seg>Ne ves s kom si, ker ne ves kdo si.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Tekst zelim kot sem ze povedal v 0012 narediti bolj osebno enako kot da bi prijatelj govoril prijatelju. Enak princip govora bom uporabljal v nadaljevanju zato tega ne bom vec govoril...</note>
       <tuv xml:lang="EN-US">
         <seg>We have holes in our being; we stuff those holes with the presence of the other.</seg>
       </tuv>
-      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180526T162940Z" creationid="urosjarc" creationdate="20180507T135515Z">
-        <seg>V sebi imas luknje; polnes jih z prisotnostjo drugih.</seg>
+      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180527T144732Z" creationid="urosjarc" creationdate="20180507T135515Z">
+        <seg>V sebi imas luknje, polnes jih z prisotnostjo drugega.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Enako kot v prejsnjem segmentu sem namesto "control" freak pristopa uporabil pristop v katerem opisujes samega bralca.
+
+To ni v nasprotju z originalnim pristopom saj enako opisovanje za drugega lahko uporabis tudi za sebe tako je segment izjemno oseben in direkten.
+
+Ob koncu segmenta sem uporabil pojasnilo na kaksen nacin definiras svoj jaz ter "tocno" da sem ustvaril emocijonalni udarec.
+
+Ta tekst dobro razume nekdo ki zelo dolgo meditira a ta tekst je namenjen nekomu ki se ni nikoli meditiral zato sem uporabil prevod ki je takim ljudem bolj razumljen.
+
+Tu sem nakazal ta ne uporabljas samo oseb za dolocevanje svojega jaza ampak tudi stvari, v nadaljevanju tudi mantro...</note>
       <tuv xml:lang="EN-US">
         <seg>We know the name, we know the form, we know the man or the woman - Hindu, Christian, Indian, American - there are some ways to define the other.</seg>
       </tuv>
@@ -1103,7 +1146,8 @@ Izbor tega naslova sem izbral tudi zaradi tega ker hocem poskrbeti da bi bralec 
       </tuv>
     </tu>
     <tu>
-      <note>Ta segment je prazen ker verjamem da bi zmanjsal udarec sporocila.</note>
+      <note>Ta segment je prazen ker verjamem da bi zmanjsal udarec sporocila.
+Ta stavek je v resnici popolnoma nepotreben ker v resnici je bil ta stavek vprasan od neke zenske ki je vprasala osha. Ona je mislila da je mojstrov odgovor neke vrste simbolicno sporocilo zato je vprasala segment 0172. V tem besedilu je ta stavek popolnoma nepotreben ker bralec v bistvu ne bo vedel za Q&amp;A ki ga je osho imel z svojimi ucenci.</note>
       <tuv xml:lang="EN-US">
         <seg>What is the meaning of this parable?</seg>
       </tuv>
@@ -1120,6 +1164,7 @@ Izbor tega naslova sem izbral tudi zaradi tega ker hocem poskrbeti da bi bralec 
       </tuv>
     </tu>
     <tu>
+      <note>Namesto "embarrassing" sem izbral besedo "mucni" saj "zadrega" ne predstavlja lepega in jasnega prevoda.</note>
       <tuv xml:lang="EN-US">
         <seg>When we are alone we are in very strange company, very embarrassing company.</seg>
       </tuv>
@@ -1176,14 +1221,25 @@ Izbor tega naslova sem izbral tudi zaradi tega ker hocem poskrbeti da bi bralec 
       </tuv>
     </tu>
     <tu>
+      <note>Segmenti 0022 ... 0024 so bili najtezji za prevesti saj z njimi Osho ustvari uvod v razlago kaj naredimo ko gremo v samoto zato sem za njih izbral drugacen pristop prevoda ki mislim da je za Slovenske razmere malce boljsi kot pa pristop ki nakaze da si zelimo biti "control" freaks.
+
+Hotel sem da bi bralec cim prej razumel zakaj clovek ne mora biti v samoti pri tem segmentu sem uporabil izskusnje ki sem jih dobil ko sem delal jogo v gozdu sam in sem se zaradi tega pocutil kot vesoljec.
+In ko si sam se ravno to zgodi ko si v druzbi se identificiras z ljudmi ki so v tej druzbi, ko se ne identificiras z nobeno druzbo tvoje lastnosti postanejo veliko bolj nedolocene takrat zacutis paniko in brez cilnost.
+
+Tvoja osebnost in jaz postane z neidentifikacijo v samoti zelo meglena ali je pa skoraj da ni vec.
+
+Ker lahko uporabis za drugega "ko si z drugim so stvari jasne" enak pristop do sebe "ko si z drugim so tvoje stvari jasne" sem zaradi tega uporabil logicno povezavo ter tako naredil segment bolj jasen katere stvari so bolj jasne... "so si z drugimi si na nek nacin TI popolnoma jasen".
+
+</note>
       <tuv xml:lang="EN-US">
         <seg>With the other, things are clear, defined.</seg>
       </tuv>
-      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180526T163545Z" creationid="urosjarc" creationdate="20180507T142445Z">
-        <seg>Z njimi definiras svoj jaz, svojo osebnost.</seg>
+      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180527T151829Z" creationid="urosjarc" creationdate="20180507T142445Z">
+        <seg>Z drugim definiras svoj jaz, svojo osebnost.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Tu sem raje izbral za prevod "njih" namesto "on", "drugi" ker zelim doseci posplosevanje saj to ni v nasprotju z originalnim sporocilom "Osha".</note>
       <tuv xml:lang="EN-US">
         <seg>Without the other we are suddenly thrown to ourselves.</seg>
       </tuv>
@@ -1192,10 +1248,11 @@ Izbor tega naslova sem izbral tudi zaradi tega ker hocem poskrbeti da bi bralec 
       </tuv>
     </tu>
     <tu>
+      <note>Tu sem uporabil "njih" namesto "drugi" ker zelim da bralec ve da je drugi enako kot element druzbe, element iz mnozine elementov in ni vazno ce je "drugi" tocno tista oseba.</note>
       <tuv xml:lang="EN-US">
         <seg>Without the other we don't know who we are, we lose our identity.</seg>
       </tuv>
-      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180520T153248Z" creationid="urosjarc" creationdate="20180507T141707Z">
+      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180527T145627Z" creationid="urosjarc" creationdate="20180507T141707Z">
         <seg>Brez njih neves kdo si, izgubis svojo identiteto.</seg>
       </tuv>
     </tu>
@@ -1328,6 +1385,7 @@ Izbor tega naslova sem izbral tudi zaradi tega ker hocem poskrbeti da bi bralec 
       </tuv>
     </tu>
     <tu>
+      <note>Dobesedni prevod je v Slovenscini zelo cuden zato sem uporabil malce drugacen pristop in povezal prejsnji segment ter naredil branje veliko bolj dramaticno..</note>
       <tuv xml:lang="EN-US">
         <seg>You start merging into that.</seg>
       </tuv>
