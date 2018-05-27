@@ -32,16 +32,17 @@
       <tuv lang="EN-US">
         <seg>Aloneness is the presence of oneself.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180512T112804Z" creationid="urosjarc" creationdate="20180512T112804Z">
-        <seg>Samota pomeni prisotnost samega sebe.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T190854Z" creationid="urosjarc" creationdate="20180512T112804Z">
+        <seg>Samota je prisotnost samega sebe.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Kot sem to naredil v segmentu 0050 sem tudi tu nakazal zakaj je samota pozitivno stanje, zaradi tega ker je to v skladu z cujecnostjo. Hkrati sem pa povedal da je cujecnost umsko zelo zazeleno stanje, tu se postavlja moje upanje da bo bralec sel poiskati kaj pomeni cujecnost.</note>
       <tuv lang="EN-US">
         <seg>Aloneness is very positive.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T164748Z" creationid="urosjarc" creationdate="20180512T112814Z">
-        <seg>Samota je zelo pozitivno, zazeleno stanje.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T191203Z" creationid="urosjarc" creationdate="20180512T112814Z">
+        <seg>Samota je zelo pozitivno, zelo cujecnostno umsko stanje.</seg>
       </tuv>
     </tu>
     <tu>
@@ -86,11 +87,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>Dobesedni prevod.</note>
       <tuv lang="EN-US">
         <seg>And you have learnt how to love your indefinable, ineffable reality.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180512T111415Z" creationid="urosjarc" creationdate="20180512T110453Z">
-        <seg>Takrat si se naucil, kako ljubiti svojo nedefinirano, nedolocljivo realnost.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T182117Z" creationid="urosjarc" creationdate="20180512T110453Z">
+        <seg>Naucil si se kako ljubiti svojo nedefinirano, nedolocljivo realnost.</seg>
       </tuv>
     </tu>
     <tu>
@@ -142,11 +144,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>Ob koncu sem zelel ohraniti besedno fluidnost enako kot v originalnem sporocilu.</note>
       <tuv lang="EN-US">
         <seg>But remember, the master says, &lt;u0&gt;{I am here alone with myself.} When you are alone you are not alone, you are simply lonely - and there is a tremendous difference between loneliness and aloneness.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T164526Z" creationid="urosjarc" creationdate="20180512T112152Z">
-        <seg>Toda ne pozabi, mojster pravi, &lt;u0&gt;{Sedim sam s seboj.} Ko si sam nisi v samoti, si samo osamljen - razlika med osamljenostjo in samoto je velika.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T185215Z" creationid="urosjarc" creationdate="20180512T112152Z">
+        <seg>Toda zapomni si, mojster pravi, &lt;u0&gt;{Sedim sam s seboj.} Ko si sam, nisi sam, si samo osamljen - velika razlika je med osamljenostjo in samoto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -416,11 +419,12 @@ Bralec bi lahko rekel ce bi namesto "nicesar" uporabil "nobenega" da se se vedno
       </tuv>
     </tu>
     <tu>
+      <note>Tu sem zelel tocno povedati kje izvira ta prisotnost in nakazal da nisi v samoti nikoli sam zmeraj imas samega sebe.</note>
       <tuv lang="EN-US">
         <seg>It is a presence, overflowing presence.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T164820Z" creationid="urosjarc" creationdate="20180512T113053Z">
-        <seg>Je tvoja prisotnost ki prekipeva.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T191907Z" creationid="urosjarc" creationdate="20180512T113053Z">
+        <seg>Samota je prisotnost, prekipevajoca prisotnost, zavest samega sebe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -502,8 +506,8 @@ Bralec bi lahko rekel ce bi namesto "nicesar" uporabil "nobenega" da se se vedno
       <tuv lang="EN-US">
         <seg>It would have been good if the other was there, but the other is not.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T164653Z" creationid="urosjarc" creationdate="20180512T112555Z">
-        <seg>Bilo bi lepo ce bi bil zraven se nekdo, a ni nobenega.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T190429Z" creationid="urosjarc" creationdate="20180512T112555Z">
+        <seg>Bilo bi lepo ce bi bil zraven se nekdo, a drugega ni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -531,19 +535,21 @@ Bralec bi lahko rekel ce bi namesto "nicesar" uporabil "nobenega" da se se vedno
       </tuv>
     </tu>
     <tu>
+      <note>Pojasniti sem zelel da je osamljenost negativno ali nezazeleno stanje in da se mora bralec truditi ga odpraviti z cujecnostjo ozeroma povecati cujecnost svojega lastnega uma.</note>
       <tuv lang="EN-US">
         <seg>Loneliness is a negative state.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T164548Z" creationid="urosjarc" creationdate="20180512T112305Z">
-        <seg>Osamljenost je negativno, nezazeleno stanje.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T185649Z" creationid="urosjarc" creationdate="20180512T112305Z">
+        <seg>Osamljenost je negativno, ne-cujecnostno umsko stanje.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Dobesedni prevod ni tako dolocen v slovenscini zato sem malce bolj definiral kaj pomeni "absence". In tako bolj definiral osamljenost da sem povedal kaj delas v osamljenosti.</note>
       <tuv lang="EN-US">
         <seg>Loneliness is absence of the other.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T164730Z" creationid="urosjarc" creationdate="20180512T112729Z">
-        <seg>Ko si osamljen pogresas drugo osebo.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T190839Z" creationid="urosjarc" creationdate="20180512T112729Z">
+        <seg>V osamljenosti pogresas drugo osebo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -596,11 +602,12 @@ Bralec bi lahko rekel ce bi namesto "nicesar" uporabil "nobenega" da se se vedno
       </tuv>
     </tu>
     <tu>
+      <note>Na zacetku sem zelel narediti prevod "Ne zelis biti sam" vendar ker je ta strah bolj generalen sem uporabil dobesedni prevod.</note>
       <tuv lang="EN-US">
         <seg>Nobody wants to be alone.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180520T165632Z" creationid="urosjarc" creationdate="20180512T104007Z">
-        <seg>Ne zelis biti sam.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T163928Z" creationid="urosjarc" creationdate="20180512T104007Z">
+        <seg>Nihce si ne zeli biti sam.</seg>
       </tuv>
     </tu>
     <tu>
@@ -672,11 +679,12 @@ Dodal sem tudi pojasnilni dodatek k besedi "drugega" ki bolj natancno opredeljuj
       </tuv>
     </tu>
     <tu>
+      <note>Tu sem si izbral prevod s katerim sem odlocno povedal da clovek zmeraj zeli nekaj delati v zelji da bi se zamotil in da ne bi cutil samote in sebe. Ker clovek je sibko bitje brez moci da bi se lahko soocilo z svojim sovraznikom.</note>
       <tuv lang="EN-US">
         <seg>People do a thousand and one things just not to be left alone.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180520T175218Z" creationid="urosjarc" creationdate="20180512T104430Z">
-        <seg>Vse naredis samo da ne bi ostal v sam.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T164908Z" creationid="urosjarc" creationdate="20180512T104430Z">
+        <seg>Naredis tisoc in en opravek, samo da ne bi ostal sam.</seg>
       </tuv>
     </tu>
     <tu>
@@ -721,11 +729,13 @@ Dodal sem tudi pojasnilni dodatek k besedi "drugega" ki bolj natancno opredeljuj
       </tuv>
     </tu>
     <tu>
+      <note>Dobesedni prevod bi bil malce grob in ne nadaljuje prejsnjega segmenta ki govori da "postanes del".
+Uporabil sem dobesedni navedek na "podobnih" kjer sem zelel sporociti da ti ni resnicna podobnost ker je vsak clovek v bistvu unikat, ravno tako sem zelel odstraniti specificnost v originalnem sporocilu ter tako spet generaliziral sporocilo.</note>
       <tuv lang="EN-US">
         <seg>Somehow you want to merge with a crowd where you can feel at ease, that you are not alone, there are so many people like you - so many Mohammedans like you, so many Hindus like you, so many Christians, millions of them... you are not alone.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T164126Z" creationid="urosjarc" creationdate="20180512T105324Z">
-        <seg>Zelis postati del necesa kjer se lahko sprostis in odmislis svojo samoto, toliko "podobnih" enako mislecih ljudi... nisi vec sam.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T175925Z" creationid="urosjarc" creationdate="20180512T105324Z">
+        <seg>Zelis postati del necesa kjer se lahko sprostis da odmislis svojo osamljenost, toliko \textquote{podobnih}, enako mislecih ljudi... nisi vec sam.</seg>
       </tuv>
     </tu>
     <tu>
@@ -737,11 +747,13 @@ Dodal sem tudi pojasnilni dodatek k besedi "drugega" ki bolj natancno opredeljuj
       </tuv>
     </tu>
     <tu>
+      <note>To je zelo pomembni segment katerega sem zelel z pravilnim prevodom naredil najbolj impaktnega. Ta segment bi moral dati stempelj in koncno sporocilo.
+Tu sem si zelel da bi bralcu osebno z svojimi rokami strgal verige ki ga vezejo na kogarkoli in mu dal ultimativno svobodo, Mokso!</note>
       <tuv lang="EN-US">
         <seg>That means now you don't belong to any church, you don't belong to any organization, you don't belong to any theology, you don't belong to any ideology - socialist, communist, fascist, hindu, christian, jain, buddhist - you don't belong, you simply are.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180512T110138Z" creationid="urosjarc" creationdate="20180512T110138Z">
-        <seg>To pomeni da ne pripadas nobeni cerkvi, ne pripadas nobeni organizaciji, ne pripadas nobeni teologiji, ne pripadas nobeni ideologiji, ne pripadas nobenemu cloveku - ne pripadas nicemur, preposto obstajas brez razloga, samo si.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T182002Z" creationid="urosjarc" creationdate="20180512T110138Z">
+        <seg>To pomeni da ne pripadas nobenemu cloveku, ne pripadas nobeni druzini, ne pripadas nobeni organizaciji, ne pripadas nobeni religiji, ne pripadas nobeni ideologiji, ne pripadas nobenemu cilju, ne pripadas nikomur, ne pripadas nicemer. Ne pripadas... samo si.</seg>
       </tuv>
     </tu>
     <tu>
@@ -825,6 +837,9 @@ Dodal sem tudi pojasnilni dodatek k besedi "drugega" ki bolj natancno opredeljuj
       </tuv>
     </tu>
     <tu>
+      <note>V prejsnjem segmentu sem uporabil generalizacijo a zdaj sem se zelel vrtniti na osebno raven in ohraniti direktnost sporocila.
+
+Dodal sem besedo "nekoc" katera nosi asociacijo zapuscenega starcka katerega so vsi prijatelji zapustili.</note>
       <tuv lang="EN-US">
         <seg>The greatest fear in the world is to be left alone.</seg>
       </tuv>
@@ -891,11 +906,12 @@ Uporabil sem "drugi" namesto "drugega" daa bi bralec vedel da se to dogaja pri v
       </tuv>
     </tu>
     <tu>
+      <note>Dobesedni prevod bi spet razumel samo nekdo ki dolgo meditira jaz sem moral prevod narediti bolj dolocen in ga zakljuciti v lepo celoto kaj si resel ko si prisel v druzbo.</note>
       <tuv lang="EN-US">
         <seg>The other helps you to hang out, the other helps you to remain out.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T163854Z" creationid="urosjarc" creationdate="20180512T103829Z">
-        <seg>Drugi te resi pekla. Tvoj jaz je spet definiran. Resil si ga.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T162928Z" creationid="urosjarc" creationdate="20180512T103829Z">
+        <seg>Drugi te resi pekla. Tvoj jaz je spet definiran, resil si ga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1079,8 +1095,8 @@ Praznino je bralec ze obcutil ko je bil recimo lacen ali zejen vendar ne nicnost
       <tuv lang="EN-US">
         <seg>To be alone is really the greatest miracle.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T164138Z" creationid="urosjarc" creationdate="20180512T105606Z">
-        <seg>Ostati sam je resnicno najvecji cudez.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T180040Z" creationid="urosjarc" creationdate="20180512T105606Z">
+        <seg>Biti sam je res najvecji cudez.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1156,6 +1172,8 @@ Ta stavek je v resnici popolnoma nepotreben ker v resnici je bil ta stavek vpras
       </tuv>
     </tu>
     <tu>
+      <note>Dobesedni prevod "ko ni nobenega" je malce nedolocen in cuden zato sem uporabil "sam".
+Uporabil sem tudi bolj natancen izraz za praznino ki ustvari strah v bralcevemu umu da mu resnicno nakazem da se boji samote in nicnosti.</note>
       <tuv lang="EN-US">
         <seg>When there is nobody you are simply left with your emptiness.</seg>
       </tuv>
@@ -1181,6 +1199,8 @@ Ta stavek je v resnici popolnoma nepotreben ker v resnici je bil ta stavek vpras
       </tuv>
     </tu>
     <tu>
+      <note>Dobesedni prevod.
+</note>
       <tuv lang="EN-US">
         <seg>When you are lonely you are thinking of the other, you are missing the other.</seg>
       </tuv>
@@ -1257,11 +1277,12 @@ Ker lahko uporabis za drugega "ko si z drugim so stvari jasne" enak pristop do s
       </tuv>
     </tu>
     <tu>
+      <note>Odstranil "in the world" ker sem tako ohranil konsistenco sporocila ponovljenega v tem tekstu.</note>
       <tuv lang="EN-US">
         <seg>Yes, it is the greatest miracle in the world.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T164448Z" creationid="urosjarc" creationdate="20180512T111722Z">
-        <seg>Da, to je resnicno najvecji cudez.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T184628Z" creationid="urosjarc" creationdate="20180512T111722Z">
+        <seg>Da, to je najvecji cudez.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1281,19 +1302,21 @@ Ker lahko uporabis za drugega "ko si z drugim so stvari jasne" enak pristop do s
       </tuv>
     </tu>
     <tu>
+      <note>Poenostavil sem nastevanje in ustvaril fluidnost segmenta.</note>
       <tuv lang="EN-US">
         <seg>You are feeling that it would have been better if the other was there - your friend, your wife, your mother, your beloved, your husband.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T164629Z" creationid="urosjarc" creationdate="20180512T112441Z">
-        <seg>V osamljenosti cutis da bi bilo bolje ce bi bil zraven tebe se nekdo - prijatelj, ljubljena oseba.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T190132Z" creationid="urosjarc" creationdate="20180512T112441Z">
+        <seg>Cutis da bi bilo bolje ce bi bil zraven tebe se nekdo - prijatelj, druzina, ljubljena oseba.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Tu sem prevedel tekst zelo previdno in v zelji da bi res vedel zakaj ni potrebe po nobenemu vec ter pojasnil da je prisotnost v bistvu prisotnost tvoje zavesti in ne uma. Nisem zelel uporabiti jaza ker bi potem bralec lahko napacno interpretiral, zavest je bolj misteriozna in nedolocena tako da se bo moral bralec potruditi ne razumeti ampak izskusiti le to zavest ce bo hotel razumeti ta tekst.</note>
       <tuv lang="EN-US">
         <seg>You are so full of presence that you can fill the whole universe with your presence and there is no need for anybody.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T164842Z" creationid="urosjarc" creationdate="20180512T113304Z">
-        <seg>Tako si je poln da bi lahko z njo napolnil celotno vesolje, in tam ni potrebe po nicemer.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T192722Z" creationid="urosjarc" creationdate="20180512T113304Z">
+        <seg>Tako si poln zavesti in njene prisotnosti da lahko z njo napolnis cela vesolja, in v tem trenutku ni potrebe po nicemer vec, saj nasicis prostor s tvojo zavestjo, bitjo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1305,6 +1328,7 @@ Ker lahko uporabis za drugega "ko si z drugim so stvari jasne" enak pristop do s
       </tuv>
     </tu>
     <tu>
+      <note>Stopnjevanje dramaticnosti in pojasnjevanje zakaj to stopnjevanje.</note>
       <tuv lang="EN-US">
         <seg>You become frightened.</seg>
       </tuv>
@@ -1313,11 +1337,12 @@ Ker lahko uporabis za drugega "ko si z drugim so stvari jasne" enak pristop do s
       </tuv>
     </tu>
     <tu>
+      <note>Stopnjevanje sem naredil iz bolj fokusne skupine v bolj generalno skupino v segmentih tako da stopnjujem sporocilo v bolj impaktno.</note>
       <tuv lang="EN-US">
         <seg>You become part of the crowd, you become part of a church, you become part of an organization.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180520T175750Z" creationid="urosjarc" creationdate="20180512T105053Z">
-        <seg>Postanes pripadnik druzine, organizacije, religije, ideologije.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T175030Z" creationid="urosjarc" creationdate="20180512T105053Z">
+        <seg>Postanes del druzine, organizacije, religije, ideologije.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1329,19 +1354,21 @@ Ker lahko uporabis za drugega "ko si z drugim so stvari jasne" enak pristop do s
       </tuv>
     </tu>
     <tu>
+      <note>V tem prevodu zelim pomagati bralcu pomagati razumeti kaj pomeni ko resnicno spoznas kako biti sam v samoti, pomagal sem si z svojimi lastnimi izskusnjami.</note>
       <tuv lang="EN-US">
         <seg>You don't have any loopholes, you don't have any holes, you are not missing anything, you don't have any flaws - you are simply happy by being yourself.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T164346Z" creationid="urosjarc" creationdate="20180512T111254Z">
-        <seg>Nimas vec miselnih vozlov, nimas vec eksistencnih lukenj, nicesar vec ne pogresas, nimas vec pomankjivosti - srecen si sam sabo.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T184329Z" creationid="urosjarc" creationdate="20180512T111254Z">
+        <seg>Nimas vec miselnih vojn, nimas vec eksistencnih kriz identitete, nimas vec strahu pred smrtjo, nicesar vec ne pogresas, nimas vec pomankjivosti... srecen si sam s seboj.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Dobesedni prevod</note>
       <tuv lang="EN-US">
         <seg>You don't need anything, your bliss is unconditional.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T164441Z" creationid="urosjarc" creationdate="20180512T111343Z">
-        <seg>Ne potrebujes vec nicesar, tvoja sreca nima vec pogojev.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T184609Z" creationid="urosjarc" creationdate="20180512T111343Z">
+        <seg>Ne potrebujes nicesar, tvoja sreca je brezpogojna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1353,6 +1380,7 @@ Ker lahko uporabis za drugega "ko si z drugim so stvari jasne" enak pristop do s
       </tuv>
     </tu>
     <tu>
+      <note>Dobesedni prevod</note>
       <tuv lang="EN-US">
         <seg>You have come to know how to be with yourself.</seg>
       </tuv>
@@ -1369,19 +1397,23 @@ Ker lahko uporabis za drugega "ko si z drugim so stvari jasne" enak pristop do s
       </tuv>
     </tu>
     <tu>
+      <note>Generaliziral sem posnemovanje na vse ljudi in dodal dodatno pojasnilo zakaj imitiras ker te tako lazje sprejmejo v druzbo in ostanejo v tvoji druzbi.
+
+Konec ni preveden dobesedno ker nocem da bi se beseda "sam" ponovila v prejsnjem, tem in naslednjem segmentu.</note>
       <tuv lang="EN-US">
         <seg>You imitate your neighbours so you are just like them and you are not left alone.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T164006Z" creationid="urosjarc" creationdate="20180512T104751Z">
-        <seg>Posnemas druge da si jim vsec da nisi vec osamljen.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T174618Z" creationid="urosjarc" creationdate="20180512T104751Z">
+        <seg>Posnemas druge, da si jim vsec, da se druzijo s tabo, da nisi vec osamljen.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Ispustil sem nekaj dobesednega prevoda da je stavek tekoc, fluiden.</note>
       <tuv lang="EN-US">
         <seg>You lose your individuality, you lose your uniqueness, you just become imitators, because if you are not imitators you will be left alone.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180520T175628Z" creationid="urosjarc" creationdate="20180512T104934Z">
-        <seg>Izgubis svojo individualnost, unikatnost, postanes imitator, ker drugace ostanes sam.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T174847Z" creationid="urosjarc" creationdate="20180512T104934Z">
+        <seg>Izgubis svojo individualnost, unikatnost, postanes imitator, ker drugace bi ostal sam.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1442,19 +1474,21 @@ Ker lahko uporabis za drugega "ko si z drugim so stvari jasne" enak pristop do s
       </tuv>
     </tu>
     <tu>
+      <note>Dobesedni prevod, zdaj bralec ze ve da "drugi" pomeni "druga druzba".</note>
       <tuv lang="EN-US">
         <seg>Your needs for the other have disappeared.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180512T110907Z" creationid="urosjarc" creationdate="20180512T110907Z">
-        <seg>Potrebe po druzbi drugega so izginile.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T182704Z" creationid="urosjarc" creationdate="20180512T110907Z">
+        <seg>Potrebe po drugem so izginile.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Uporabil sem cas v tem trenutku saj je to pac nadaljevanje stopnjevanja v enakem kontekstu kot v prejsnjih segmentih.</note>
       <tuv lang="EN-US">
         <seg>you want to rush towards the other.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180520T174912Z" creationid="urosjarc" creationdate="20180512T103228Z">
-        <seg>Hitis v druzbo.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T162816Z" creationid="urosjarc" creationdate="20180512T103228Z">
+        <seg>Hitis v druzbo drugega.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
