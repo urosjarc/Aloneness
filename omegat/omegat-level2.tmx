@@ -36,8 +36,8 @@
       <tuv xml:lang="EN-US">
         <seg>Aloneness is the presence of oneself.</seg>
       </tuv>
-      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180527T190854Z" creationid="urosjarc" creationdate="20180512T112804Z">
-        <seg>Samota je prisotnost samega sebe.</seg>
+      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180616T185242Z" creationid="urosjarc" creationdate="20180512T112804Z">
+        <seg>Samota, pa je prisotnost samega sebe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45,8 +45,8 @@
       <tuv xml:lang="EN-US">
         <seg>Aloneness is very positive.</seg>
       </tuv>
-      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180527T191203Z" creationid="urosjarc" creationdate="20180512T112814Z">
-        <seg>Samota je zelo pozitivno, zelo cujecnostno umsko stanje.</seg>
+      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180616T191031Z" creationid="urosjarc" creationdate="20180512T112814Z">
+        <seg>Samota je pozitivno, zelo cujecnostno umsko stanje.</seg>
       </tuv>
     </tu>
     <tu>
@@ -96,8 +96,8 @@
       <tuv xml:lang="EN-US">
         <seg>And you have learnt how to love your indefinable, ineffable reality.</seg>
       </tuv>
-      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180527T182117Z" creationid="urosjarc" creationdate="20180512T110453Z">
-        <seg>Naucil si se kako ljubiti svojo nedefinirano, nedolocljivo realnost.</seg>
+      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180616T183242Z" creationid="urosjarc" creationdate="20180512T110453Z">
+        <seg>Takrat si se naucil kako ljubiti svojo nedefinirano, nedolocljivo osebnost.</seg>
       </tuv>
     </tu>
     <tu>
@@ -156,8 +156,8 @@
       <tuv xml:lang="EN-US">
         <seg>But remember, the master says, <it pos="begin" x="0">&lt;u0&gt;</it>{I am here alone with myself.} When you are alone you are not alone, you are simply lonely - and there is a tremendous difference between loneliness and aloneness.</seg>
       </tuv>
-      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180527T185215Z" creationid="urosjarc" creationdate="20180512T112152Z">
-        <seg>Toda zapomni si, mojster pravi, <it pos="begin" x="0">&lt;u0&gt;</it>{Sedim sam s seboj.} Ko si sam, nisi sam, si samo osamljen - velika razlika je med osamljenostjo in samoto.</seg>
+      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180616T184445Z" creationid="urosjarc" creationdate="20180512T112152Z">
+        <seg>Toda, mojster pravi, <it pos="begin" x="0">&lt;u0&gt;</it>{Sedim sam s seboj.} Ko si sam, nisi sam, si samo osamljen. Razlika med osamljenostjo in samoto je ogromna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -230,8 +230,8 @@
       <tuv xml:lang="EN-US">
         <seg>Great uncomfort, inconvenience arises, because we don't know who we are.</seg>
       </tuv>
-      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180527T150500Z" creationid="urosjarc" creationdate="20180507T142136Z">
-        <seg>Zacutis nelagodje, ker ne ves kdo si.</seg>
+      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180616T180750Z" creationid="urosjarc" creationdate="20180507T142136Z">
+        <seg>takrat zacutis nelagodje ker ne ves kdo si.</seg>
       </tuv>
     </tu>
     <tu>
@@ -248,8 +248,8 @@
       <tuv xml:lang="EN-US">
         <seg>He knows that he himself is enough unto himself.</seg>
       </tuv>
-      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180603T122414Z" creationid="urosjarc" creationdate="20180512T114035Z">
-        <seg>Ve da je on, sam sebi dovolj, da je to vse kar v resnici rabi.</seg>
+      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180616T192424Z" creationid="urosjarc" creationdate="20180512T114035Z">
+        <seg>Vedel bi da si ti, sam sebi dovolj, da je to vse kar v resnici rabis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -273,8 +273,8 @@
       <tuv xml:lang="EN-US">
         <seg>He will love that tremendous emptiness, this pure infinity.</seg>
       </tuv>
-      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180603T121734Z" creationid="urosjarc" creationdate="20180512T113834Z">
-        <seg>Ljubil bi to velikansko praznino, cisto neskoncnost.</seg>
+      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180616T192327Z" creationid="urosjarc" creationdate="20180512T113834Z">
+        <seg>Ljubil bi to velikansko praznino, cisto neskoncnost v kateri bi bil ti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -282,8 +282,8 @@
       <tuv xml:lang="EN-US">
         <seg>He will not miss anything because he has arrived home.</seg>
       </tuv>
-      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180603T121855Z" creationid="urosjarc" creationdate="20180512T113927Z">
-        <seg>Nicesar ne bi pogresal ker je ze prisel domov.</seg>
+      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180616T192408Z" creationid="urosjarc" creationdate="20180512T113927Z">
+        <seg>Nicesar ne bi pogresal ker bi takrat prisel domov.</seg>
       </tuv>
     </tu>
     <tu>
@@ -322,8 +322,8 @@ Bralec bi lahko rekel ce bi namesto "nicesar" uporabil "nobenega" da se se vedno
       <tuv xml:lang="EN-US">
         <seg>If suddenly by some magic the whole world disappears and this zen master is left alone, he will be as happy as ever, he will not miss anything.</seg>
       </tuv>
-      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180603T121450Z" creationid="urosjarc" creationdate="20180512T113810Z">
-        <seg>Srecen bi bil enako kot prej, nicesar ne bi pogresal.</seg>
+      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180616T192258Z" creationid="urosjarc" creationdate="20180512T113810Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -331,8 +331,8 @@ Bralec bi lahko rekel ce bi namesto "nicesar" uporabil "nobenega" da se se vedno
       <tuv xml:lang="EN-US">
         <seg>If the whole world disappears this zen master will not miss anything.</seg>
       </tuv>
-      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180526T164850Z" creationid="urosjarc" creationdate="20180512T113359Z">
-        <seg>Ce ves svet izgine, zen mojster ne bi pogresal nicesar.</seg>
+      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180616T192125Z" creationid="urosjarc" creationdate="20180512T113359Z">
+        <seg>Ce bi ti ves svet izginil, ne bi v tej praznini pogresal nicesar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -448,8 +448,8 @@ Zelel sem doseci tudi generalizacijo "0105" na kar vpliva na ta segment.</note>
       <tuv xml:lang="EN-US">
         <seg>It is a presence, overflowing presence.</seg>
       </tuv>
-      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180603T115648Z" creationid="urosjarc" creationdate="20180512T113053Z">
-        <seg>Samota je prisotnost, prekipevajoca prisotnost zavesti, izskustvo samega sebe.</seg>
+      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180616T190506Z" creationid="urosjarc" creationdate="20180512T113053Z">
+        <seg>Samota je opazovanje samega sebe, izskustvo sebe v tem trenutku. Druzenje z samim seboj. </seg>
       </tuv>
     </tu>
     <tu>
@@ -535,8 +535,8 @@ Zelel sem doseci tudi generalizacijo "0105" na kar vpliva na ta segment.</note>
       <tuv xml:lang="EN-US">
         <seg>It would have been good if the other was there, but the other is not.</seg>
       </tuv>
-      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180527T190429Z" creationid="urosjarc" creationdate="20180512T112555Z">
-        <seg>Bilo bi lepo ce bi bil zraven se nekdo, a drugega ni.</seg>
+      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180616T184437Z" creationid="urosjarc" creationdate="20180512T112555Z">
+        <seg>Bilo bi lepo ce bi bilo to, zraven tebe, a tega ni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -681,14 +681,12 @@ Najvec tezav sem imel z "sense deprivation".</note>
     </tu>
     <tu>
       <note>Sporocilo zelim narediti bolj osebno bolj direktno zato bom govoril enako kot da bi govoril prijatelju direktno ali ucencu. Zato sem namesto "cutimo" uporabil "cutis".
-
-Dodal sem tudi pojasnilni dodatek k besedi "drugega" ki bolj natancno opredeljuje po cem tocno cutis potrebo. Bralec bi si lahko brez dodatka to razumeli narobe.
 </note>
       <tuv xml:lang="EN-US">
         <seg>One feels always a need for the other.</seg>
       </tuv>
-      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180527T124726Z" creationid="urosjarc" creationdate="20180507T134709Z">
-        <seg>Zmeraj cutis potrebo po druzbi drugega.</seg>
+      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180616T175956Z" creationid="urosjarc" creationdate="20180507T134709Z">
+        <seg>Zmeraj cutis potrebo po druzbi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -722,8 +720,8 @@ Dodal sem tudi pojasnilni dodatek k besedi "drugega" ki bolj natancno opredeljuj
       <tuv xml:lang="EN-US">
         <seg>People do a thousand and one things just not to be left alone.</seg>
       </tuv>
-      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180527T164908Z" creationid="urosjarc" creationdate="20180512T104430Z">
-        <seg>Naredis tisoc in en opravek, samo da ne bi ostal sam.</seg>
+      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180616T182344Z" creationid="urosjarc" creationdate="20180512T104430Z">
+        <seg>Naredis tisoc in eno stvar, samo da ne bi ostal sam.</seg>
       </tuv>
     </tu>
     <tu>
@@ -764,8 +762,8 @@ Dodal sem tudi pojasnilni dodatek k besedi "drugega" ki bolj natancno opredeljuj
       <tuv xml:lang="EN-US">
         <seg>Somebody asked a zen master, <it pos="begin" x="0">&lt;u0&gt;</it>{What is the greatest miracle in the world?} The master replied, <it pos="begin" x="1">&lt;u1&gt;</it>{I am sitting here alone with me.}</seg>
       </tuv>
-      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180527T140749Z" creationid="urosjarc" creationdate="20180507T130033Z">
-        <seg>Vprasal je zen mojstra, <it pos="begin" x="0">&lt;u0&gt;</it>{Kaj je najvecji cudez?} Mojster odgovori, <it pos="begin" x="1">&lt;u1&gt;</it>{Jaz sedim tu sam s seboj.}</seg>
+      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180616T175844Z" creationid="urosjarc" creationdate="20180507T130033Z">
+        <seg>Vprasal je zen mojstra, <it pos="begin" x="0">&lt;u0&gt;</it>{Kaj je najvecji cudez?} Mojster je odgovoril, <it pos="begin" x="1">&lt;u1&gt;</it>{Jaz sedim tu sam s seboj.}</seg>
       </tuv>
     </tu>
     <tu>
@@ -774,8 +772,8 @@ Uporabil sem dobesedni navedek na "podobnih" kjer sem zelel sporociti da ti ni r
       <tuv xml:lang="EN-US">
         <seg>Somehow you want to merge with a crowd where you can feel at ease, that you are not alone, there are so many people like you - so many Mohammedans like you, so many Hindus like you, so many Christians, millions of them... you are not alone.</seg>
       </tuv>
-      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180527T175925Z" creationid="urosjarc" creationdate="20180512T105324Z">
-        <seg>Zelis postati del necesa kjer se lahko sprostis da odmislis svojo osamljenost, toliko \textquote{podobnih}, enako mislecih ljudi... nisi vec sam.</seg>
+      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180616T182736Z" creationid="urosjarc" creationdate="20180512T105324Z">
+        <seg>Zelis postati del necesa, da se lahko sprostis, da lahko odmislis svojo osamljenost. Toliko \textquote{podobnih}, enako mislecih ljudi. Zraven njih, nisi vec osamljen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -794,8 +792,8 @@ Tu sem zelel dodati da ne pripadas niti svojemu umu ali telesu, vendar to bi lah
       <tuv xml:lang="EN-US">
         <seg>That means now you don't belong to any church, you don't belong to any organization, you don't belong to any theology, you don't belong to any ideology - socialist, communist, fascist, hindu, christian, jain, buddhist - you don't belong, you simply are.</seg>
       </tuv>
-      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180603T115117Z" creationid="urosjarc" creationdate="20180512T110138Z">
-        <seg>To pomeni da ne pripadas nobenemu cloveku, ne pripadas nobeni druzini, ne pripadas nobeni organizaciji, ne pripadas nobeni religiji, ne pripadas nobeni ideologiji, ne pripadas nobenemu cilju, ne pripadas nikomur, ne pripadas nicemur. Ne pripadas... samo si.</seg>
+      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180616T183053Z" creationid="urosjarc" creationdate="20180512T110138Z">
+        <seg>To pomeni da ne pripadas nobenemu cloveku, nobeni druzini, nobeni organizaciji, nobeni religiji, nobeni ideologiji, nobenemu cilju. Ne pripadas nikomur, ne pripadas nicemur. Ne pripadas... samo obstajas, samo si.</seg>
       </tuv>
     </tu>
     <tu>
@@ -950,8 +948,8 @@ Uporabil sem "drugi" namesto "drugega" daa bi bralec vedel da se to dogaja pri v
       <tuv xml:lang="EN-US">
         <seg>The other becomes a mirror and we can see our faces in it.</seg>
       </tuv>
-      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180527T150024Z" creationid="urosjarc" creationdate="20180507T141822Z">
-        <seg>Drugi postanejo ogledalo v katerem se lahko gledas.</seg>
+      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180616T180703Z" creationid="urosjarc" creationdate="20180507T141822Z">
+        <seg>Ona je tvoje ogledalo v katerem se lahko gledas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -959,8 +957,8 @@ Uporabil sem "drugi" namesto "drugega" daa bi bralec vedel da se to dogaja pri v
       <tuv xml:lang="EN-US">
         <seg>The other helps you to hang out, the other helps you to remain out.</seg>
       </tuv>
-      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180527T162928Z" creationid="urosjarc" creationdate="20180512T103829Z">
-        <seg>Drugi te resi pekla. Tvoj jaz je spet definiran, resil si ga.</seg>
+      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180616T182111Z" creationid="urosjarc" creationdate="20180512T103829Z">
+        <seg>Ona te resi pekla. Spet cutis svoj jaz. Zdaj ga spet lahko vidis! Resil si ga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -968,8 +966,8 @@ Uporabil sem "drugi" namesto "drugega" daa bi bralec vedel da se to dogaja pri v
       <tuv xml:lang="EN-US">
         <seg>The other somehow makes us complete, otherwise we are incomplete.</seg>
       </tuv>
-      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180527T144823Z" creationid="urosjarc" creationdate="20180507T140453Z">
-        <seg>Drugi te nekako zapolni, drugace si prazen.</seg>
+      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180616T180525Z" creationid="urosjarc" creationdate="20180507T140453Z">
+        <seg>ta te nekako izpopolne, drugace pa si nepopoln.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1205,8 +1203,8 @@ Ta segment nisem prevedel ker ne zelim da bi mi bralec kontriral ze na zacetku. 
       <tuv xml:lang="EN-US">
         <seg>We have holes in our being; we stuff those holes with the presence of the other.</seg>
       </tuv>
-      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180527T144732Z" creationid="urosjarc" creationdate="20180507T135515Z">
-        <seg>V sebi imas luknje, polnes jih z prisotnostjo drugega.</seg>
+      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180616T180049Z" creationid="urosjarc" creationdate="20180507T135515Z">
+        <seg>V sebi imas luknje, polnes jih z drugo prisotnostjo,</seg>
       </tuv>
     </tu>
     <tu>
@@ -1222,8 +1220,8 @@ Tu sem nakazal ta ne uporabljas samo oseb za dolocevanje svojega jaza ampak tudi
       <tuv xml:lang="EN-US">
         <seg>We know the name, we know the form, we know the man or the woman - Hindu, Christian, Indian, American - there are some ways to define the other.</seg>
       </tuv>
-      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180526T163640Z" creationid="urosjarc" creationdate="20180507T142808Z">
-        <seg>Ves komu pripadas, sluzis, kaj ljubis, sovrazis, verujes. Z drugo stvarjo in osebo definiras svoj jaz zato ves tocno kdo si!</seg>
+      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180616T181813Z" creationid="urosjarc" creationdate="20180507T142808Z">
+        <seg>Ves komu pripadas, sluzis, kaj ljubis, sovrazis, verujes. Z njo si si definiral svoj jaz zato ves tocno kdo si!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1270,8 +1268,8 @@ Uporabil sem tudi bolj natancen izraz za praznino ki ustvari strah v bralcevemu 
       <tuv xml:lang="EN-US">
         <seg>When you are lonely you are thinking of the other, you are missing the other.</seg>
       </tuv>
-      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180526T142532Z" creationid="urosjarc" creationdate="20180512T112249Z">
-        <seg>Ko si osamljen mislis na drugega, pogresas drugega.</seg>
+      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180616T183935Z" creationid="urosjarc" creationdate="20180512T112249Z">
+        <seg>Ko si osamljen mislis na drugo prisotnost. Takrat pogresas druzbo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1327,8 +1325,8 @@ Ker lahko uporabis za drugega "ko si z drugim so stvari jasne" enak pristop do s
       <tuv xml:lang="EN-US">
         <seg>With the other, things are clear, defined.</seg>
       </tuv>
-      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180527T151829Z" creationid="urosjarc" creationdate="20180507T142445Z">
-        <seg>Z drugim definiras svoj jaz, svojo osebnost.</seg>
+      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180616T181557Z" creationid="urosjarc" creationdate="20180507T142445Z">
+        <seg>Z drugo stvarjo in osebo si si zgradil svoj jaz, svojo osebnost.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1336,17 +1334,17 @@ Ker lahko uporabis za drugega "ko si z drugim so stvari jasne" enak pristop do s
       <tuv xml:lang="EN-US">
         <seg>Without the other we are suddenly thrown to ourselves.</seg>
       </tuv>
-      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180520T153445Z" creationid="urosjarc" creationdate="20180507T141856Z">
-        <seg>Brez njih si prepuscen samemu sebi.</seg>
+      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180616T180737Z" creationid="urosjarc" creationdate="20180507T141856Z">
+        <seg>Brez druzbe si karnaenkrat prepuscen samemu sebi,</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Tu sem uporabil "njih" namesto "drugi" ker zelim da bralec ve da je drugi enako kot element druzbe, element iz mnozine elementov in ni vazno ce je "drugi" tocno tista oseba.</note>
+      <note>Ponovitev da si bralec zapolne kaj mu v resnici manjka in tematiko knjige.</note>
       <tuv xml:lang="EN-US">
         <seg>Without the other we don't know who we are, we lose our identity.</seg>
       </tuv>
-      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180527T145627Z" creationid="urosjarc" creationdate="20180507T141707Z">
-        <seg>Brez njih neves kdo si, izgubis svojo identiteto.</seg>
+      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180616T180642Z" creationid="urosjarc" creationdate="20180507T141707Z">
+        <seg>Brez druzbe neves kdo si, izgubis svojo identiteto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1383,8 +1381,8 @@ Prevedel sem ga na nacin ki pojasnjuje segment 0068, zakaj iskanje necesa v drug
       <tuv xml:lang="EN-US">
         <seg>You are feeling that it would have been better if the other was there - your friend, your wife, your mother, your beloved, your husband.</seg>
       </tuv>
-      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180603T115348Z" creationid="urosjarc" creationdate="20180512T112441Z">
-        <seg>Cutis, razmisljas da bi bilo bolje ce bi bil zraven tebe se nekdo - prijatelj, druzina, ljubljena oseba.</seg>
+      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180616T185030Z" creationid="urosjarc" creationdate="20180512T112441Z">
+        <seg>Cutis, razmisljas da bi bilo bolje, ce bi bilo zraven tebe se nekaj drugega - prijatelj, druzina, ljubljena oseba, glasba, narava, vznemirjenje, drama, akcija... karkoli...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1392,8 +1390,8 @@ Prevedel sem ga na nacin ki pojasnjuje segment 0068, zakaj iskanje necesa v drug
       <tuv xml:lang="EN-US">
         <seg>You are so full of presence that you can fill the whole universe with your presence and there is no need for anybody.</seg>
       </tuv>
-      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180603T115813Z" creationid="urosjarc" creationdate="20180512T113304Z">
-        <seg>Tako si poln zavesti in njene prisotnosti da lahko z njo napolnis cela vesolja, in takrat ni potrebe po nicemer vec, saj nasicis prostor s svojo zavestjo, bitjo.</seg>
+      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180616T191544Z" creationid="urosjarc" creationdate="20180512T113304Z">
+        <seg>Z samim seboj lahko napolnis svoje lastne luknje. Z samim seboj lahko napolnis prostor kjer bi moral biti drugi. Cela vesolja lahko nasicis s samim seboj in takrat ne pogresas nicesar vec.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1435,8 +1433,8 @@ Prevedel sem ga na nacin ki pojasnjuje segment 0068, zakaj iskanje necesa v drug
       <tuv xml:lang="EN-US">
         <seg>You don't have any loopholes, you don't have any holes, you are not missing anything, you don't have any flaws - you are simply happy by being yourself.</seg>
       </tuv>
-      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180527T184329Z" creationid="urosjarc" creationdate="20180512T111254Z">
-        <seg>Nimas vec miselnih vojn, nimas vec eksistencnih kriz identitete, nimas vec strahu pred smrtjo, nicesar vec ne pogresas, nimas vec pomankjivosti... srecen si sam s seboj.</seg>
+      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180616T183405Z" creationid="urosjarc" creationdate="20180512T111254Z">
+        <seg>Nimas vec miselnih vojn, nimas vec eksistencnih kriz identitete, nimas vec straha pred smrtjo, nicesar vec ne pogresas. Nimas vec pomankjivosti... srecen si sam s seboj.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1444,8 +1442,8 @@ Prevedel sem ga na nacin ki pojasnjuje segment 0068, zakaj iskanje necesa v drug
       <tuv xml:lang="EN-US">
         <seg>You don't need anything, your bliss is unconditional.</seg>
       </tuv>
-      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180527T184609Z" creationid="urosjarc" creationdate="20180512T111343Z">
-        <seg>Ne potrebujes nicesar, tvoja sreca je brezpogojna.</seg>
+      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180616T183500Z" creationid="urosjarc" creationdate="20180512T111343Z">
+        <seg>Ne potrebujes nicesar, zdaj je tvoja sreca brezpogojna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1489,8 +1487,8 @@ Konec ni preveden dobesedno ker nocem da bi se beseda "sam" ponovila v prejsnjem
       <tuv xml:lang="EN-US">
         <seg>You lose your individuality, you lose your uniqueness, you just become imitators, because if you are not imitators you will be left alone.</seg>
       </tuv>
-      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180527T174847Z" creationid="urosjarc" creationdate="20180512T104934Z">
-        <seg>Izgubis svojo individualnost, unikatnost, postanes imitator, ker drugace bi ostal sam.</seg>
+      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180616T182402Z" creationid="urosjarc" creationdate="20180512T104934Z">
+        <seg>Izgubis svojo individualnost, unikatnost. Postanes imitator, ker drugace bi ostal sam.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1555,8 +1553,8 @@ Konec ni preveden dobesedno ker nocem da bi se beseda "sam" ponovila v prejsnjem
       <tuv xml:lang="EN-US">
         <seg>Your needs for the other have disappeared.</seg>
       </tuv>
-      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180527T182704Z" creationid="urosjarc" creationdate="20180512T110907Z">
-        <seg>Potrebe po drugem so izginile.</seg>
+      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180616T183508Z" creationid="urosjarc" creationdate="20180512T110907Z">
+        <seg>Potrebe po druzbi so izginile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1564,8 +1562,8 @@ Konec ni preveden dobesedno ker nocem da bi se beseda "sam" ponovila v prejsnjem
       <tuv xml:lang="EN-US">
         <seg>you want to rush towards the other.</seg>
       </tuv>
-      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180527T162816Z" creationid="urosjarc" creationdate="20180512T103228Z">
-        <seg>Hitis v druzbo drugega.</seg>
+      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180616T181819Z" creationid="urosjarc" creationdate="20180512T103228Z">
+        <seg>Hitis v druzbo.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
