@@ -9,8 +9,8 @@
       <tuv lang="EN-US">
         <seg>A man who is happy with himself is full of love, flowing.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180603T133357Z" creationid="urosjarc" creationdate="20180512T115302Z">
-        <seg>Clovek ki je srecen sam z seboj je poln nesebicne ljubezni.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180617T090834Z" creationid="urosjarc" creationdate="20180512T115302Z">
+        <seg>Clovek ki je srecen sam z seboj je poln ljubezni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -261,8 +261,8 @@
       <tuv lang="EN-US">
         <seg>Even with yourself you are not capable of being in deep love, in delight - how can you be with others?</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180603T130552Z" creationid="urosjarc" creationdate="20180512T114654Z">
-        <seg>Ce sam sabo ne znas biti, v globoki ljubezni, exstazi srece, kako lahko pricakujes od drugih, ki te ne poznajo tako kot ti poznas sebe, da ti bodo dajali to kar si TI se sam sebi ne znas dati?</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180617T090751Z" creationid="urosjarc" creationdate="20180512T114654Z">
+        <seg>Ce samim sabo ne znas ziveti, v globoki ljubezni, exstazi, kako lahko pricakujes od drugih, ki te ne poznajo tako kot ti poznas sebe, da ti bodo dajali to kar si TI se sam sebi ne znas dati?</seg>
       </tuv>
     </tu>
     <tu>
@@ -462,8 +462,8 @@ Zelel sem doseci tudi generalizacijo "0105" na kar vpliva na ta segment.</note>
       <tuv lang="EN-US">
         <seg>In fact only he is capable of being with others.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180603T123824Z" creationid="urosjarc" creationdate="20180512T114147Z">
-        <seg>V bistvu je samo on sposoben biti z drugimi.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180617T090558Z" creationid="urosjarc" creationdate="20180512T114147Z">
+        <seg>V bistvu je samo on sposoben ziveti z drugimi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -591,8 +591,8 @@ Zelel sem doseci tudi generalizacijo "0105" na kar vpliva na ta segment.</note>
       <tuv lang="EN-US">
         <seg>It would have been good if the other was there, but the other is not.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180616T184437Z" creationid="urosjarc" creationdate="20180512T112555Z">
-        <seg>Bilo bi lepo ce bi bilo to, zraven tebe, a tega ni.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180617T085615Z" creationid="urosjarc" creationdate="20180512T112555Z">
+        <seg>Bilo bi lepo ce bi bilo, zraven tebe se nekaj, a tega ni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -634,8 +634,8 @@ Zelel sem doseci tudi generalizacijo "0105" na kar vpliva na ta segment.</note>
       <tuv lang="EN-US">
         <seg>Loneliness is absence of the other.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T190839Z" creationid="urosjarc" creationdate="20180512T112729Z">
-        <seg>V osamljenosti pogresas drugo osebo.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180617T090432Z" creationid="urosjarc" creationdate="20180512T112729Z">
+        <seg>V osamljenosti pogresas nekaj kar trenutno ni zraven tebe, ko si osamljen si jokajoci otrok ki si zeli nekaj kar trenutno nima v svojih rokah.</seg>
       </tuv>
     </tu>
     <tu>
@@ -943,8 +943,8 @@ Poleg tega sem probal generalizirati lekcije zivljenja tako sem tudi dodal drama
       <tuv lang="EN-US">
         <seg>The first lesson of love is to learn how to be alone.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180603T140744Z" creationid="urosjarc" creationdate="20180512T115712Z">
-        <seg>Prva lekcija prijateljstva, druzine, ljubezni, zivljenja, je da se naucis kako biti sam.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180617T090954Z" creationid="urosjarc" creationdate="20180512T115712Z">
+        <seg>Prva lekcija prijateljstva, druzine, ljubezni, zivljenja, je da se naucis kako ziveti sam.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1030,8 +1030,8 @@ Uporabil sem "drugi" namesto "drugega" daa bi bralec vedel da se to dogaja pri v
       <tuv lang="EN-US">
         <seg>The other somehow makes us complete, otherwise we are incomplete.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180616T180525Z" creationid="urosjarc" creationdate="20180507T140453Z">
-        <seg>ta te nekako izpopolne, drugace pa si nepopoln.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180617T084806Z" creationid="urosjarc" creationdate="20180507T140453Z">
+        <seg>ta te nekako izpopolni, drugace pa si nepopoln.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1213,8 +1213,8 @@ Spremenil sem besedo "Ram" v "Ohm" saj je veliko bolj znan v slovenski kulturi.<
       <tuv lang="EN-US">
         <seg>This does not mean that a man who has become enlightened and has come home does not live with others.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180603T123815Z" creationid="urosjarc" creationdate="20180512T114115Z">
-        <seg>To se ne pomeni da moz, ki je dozivel razsvetljenje in prispel domov, ne zna ziveti z drugimi.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180617T090540Z" creationid="urosjarc" creationdate="20180512T114115Z">
+        <seg>To pa se ne pomeni da moz, ki zna ziveti sam, ne zna ziveti z drugimi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1422,8 +1422,8 @@ Ker lahko uporabis za drugega "ko si z drugim so stvari jasne" enak pristop do s
       <tuv lang="EN-US">
         <seg>Without the other we are suddenly thrown to ourselves.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180616T180737Z" creationid="urosjarc" creationdate="20180507T141856Z">
-        <seg>Brez druzbe si karnaenkrat prepuscen samemu sebi,</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180617T084850Z" creationid="urosjarc" creationdate="20180507T141856Z">
+        <seg>Brez druzbe si kar naenkrat prepuscen samemu sebi,</seg>
       </tuv>
     </tu>
     <tu>
@@ -1469,8 +1469,8 @@ Prevedel sem ga na nacin ki pojasnjuje segment 0068, zakaj iskanje necesa v drug
       <tuv lang="EN-US">
         <seg>You are feeling that it would have been better if the other was there - your friend, your wife, your mother, your beloved, your husband.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180616T185030Z" creationid="urosjarc" creationdate="20180512T112441Z">
-        <seg>Cutis, razmisljas da bi bilo bolje, ce bi bilo zraven tebe se nekaj drugega - prijatelj, druzina, ljubljena oseba, glasba, narava, vznemirjenje, drama, akcija... karkoli...</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180617T085553Z" creationid="urosjarc" creationdate="20180512T112441Z">
+        <seg>Cutis, razmisljas da bi bilo bolje, ce bi bilo zraven tebe se nekaj - prijatelj, druzina, ljubljena oseba, glasba, narava, vznemirjenje, drama, akcija... karkoli...</seg>
       </tuv>
     </tu>
     <tu>
