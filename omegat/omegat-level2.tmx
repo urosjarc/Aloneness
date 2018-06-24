@@ -762,8 +762,8 @@ Najvec tezav sem imel z "sense deprivation".</note>
       <tuv xml:lang="EN-US">
         <seg>Somebody asked a zen master, <it pos="begin" x="0">&lt;u0&gt;</it>{What is the greatest miracle in the world?} The master replied, <it pos="begin" x="1">&lt;u1&gt;</it>{I am sitting here alone with me.}</seg>
       </tuv>
-      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180624T145743Z" creationid="urosjarc" creationdate="20180507T130033Z">
-        <seg>Vprasal je zen mojstra, <it pos="begin" x="0">&lt;u0&gt;</it>{Kaj je najvecji cudez?}\\ Mojster je odgovoril, <it pos="begin" x="1">&lt;u1&gt;</it>{Jaz sedim tu sam s seboj.}~</seg>
+      <tuv xml:lang="EN-GB" changeid="urosjarc" changedate="20180624T171200Z" creationid="urosjarc" creationdate="20180507T130033Z">
+        <seg>Vprašal je zen mojstra, <it pos="begin" x="0">&lt;u0&gt;</it>{Kaj je največji čudež?}\\ Mojster je odgovoril, <it pos="begin" x="1">&lt;u1&gt;</it>{Jaz sedim tu sam s seboj.}~</seg>
       </tuv>
     </tu>
     <tu>
