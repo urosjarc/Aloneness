@@ -1,16 +1,15 @@
-6/17/18 11:10 AM
+6/24/18 4:57 PM
 Project Statistics
 
                  	Segments	Words	Characters (without spaces)	Characters (including spaces)	#Files	
-Total:           	     173	 2340	                      10845	                        13046	     3	
+Total:           	     172	 2337	                      10827	                        13026	     2	
 Remaining:       	       0	    0	                          0	                            0	     0	
-Unique:          	     173	 2340	                      10845	                        13046	     3	
+Unique:          	     172	 2337	                      10827	                        13026	     2	
 Unique Remaining:	       0	    0	                          0	                            0	     0	
 
 
 Individual File Statistics:
 
-File Name    	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
-answer.tex   	           170	                 0	            170	                        0	       2307	              0	        2307	                     0	                            10683	                                    0	                             10683	                                           0	                              12854	                                      0	                               12854	                                             0	
-question.tex 	             2	                 0	              2	                        0	         30	              0	          30	                     0	                              144	                                    0	                               144	                                           0	                                172	                                      0	                                 172	                                             0	
-titlepage.tex	             1	                 0	              1	                        0	          3	              0	           3	                     0	                               18	                                    0	                                18	                                           0	                                 20	                                      0	                                  20	                                             0	
+File Name   	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
+answer.tex  	           170	                 0	            170	                        0	       2307	              0	        2307	                     0	                            10683	                                    0	                             10683	                                           0	                              12854	                                      0	                               12854	                                             0	
+question.tex	             2	                 0	              2	                        0	         30	              0	          30	                     0	                              144	                                    0	                               144	                                           0	                                172	                                      0	                                 172	                                             0	
