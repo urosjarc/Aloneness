@@ -9,8 +9,8 @@
       <tuv lang="EN-US">
         <seg>A man who is happy with himself is full of love, flowing.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T171310Z" creationid="urosjarc" creationdate="20180512T115302Z">
-        <seg>Človek, ki je srečen sam s seboj, je poln ljubezni.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180603T133357Z" creationid="urosjarc" creationdate="20180512T115302Z">
+        <seg>Clovek ki je srecen sam z seboj je poln nesebicne ljubezni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18,17 +18,24 @@
       <tuv lang="EN-US">
         <seg>A man who loves his aloneness is capable of love, and a man who feels loneliness is incapable of love.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T181810Z" creationid="urosjarc" creationdate="20180512T115216Z">
-        <seg>Človek, ki ljubi svojo samoto, je sposoben ljubezni, človek, ki čuti osam\-ljenost, pa je ni.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T144840Z" creationid="urosjarc" creationdate="20180512T115216Z">
+        <seg>Clovek ki ljubi svojo samoto je sposoben ljubezni, clovek ki cuti osamljenost pa je ni.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Dobesedni prevod vendar me malce skrbi da bralec ne bo razumel.</note>
       <tuv lang="EN-US">
         <seg>A person becomes dreamy, one starts substituting.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T165459Z" creationid="urosjarc" creationdate="20180513T163214Z">
-        <seg>Človek postane zasanjan, začne nadomeščati.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180513T163214Z" creationid="urosjarc" creationdate="20180513T163214Z">
+        <seg>Clovek postane zasanjan, zacne nadomescati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A thesis presented for the degree of&lt;br0&gt;</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180505T171936Z" creationid="urosjarc" creationdate="20180505T171936Z">
+        <seg>Predstavljeno bla bla bla...&lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -36,8 +43,8 @@
       <tuv lang="EN-US">
         <seg>Aloneness is the presence of oneself.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T164416Z" creationid="urosjarc" creationdate="20180512T112804Z">
-        <seg>Osamljenost je pogrešanje, samota pa je prisotnost samega sebe.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T190854Z" creationid="urosjarc" creationdate="20180512T112804Z">
+        <seg>Samota je prisotnost samega sebe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45,24 +52,24 @@
       <tuv lang="EN-US">
         <seg>Aloneness is very positive.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T164425Z" creationid="urosjarc" creationdate="20180512T112814Z">
-        <seg>Samota je pozitivno, zelo čuječnostno umsko stanje.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T191203Z" creationid="urosjarc" creationdate="20180512T112814Z">
+        <seg>Samota je zelo pozitivno, zelo cujecnostno umsko stanje.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>And if a person is deprived for twenty-one days he will never come back sane.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T183208Z" creationid="urosjarc" creationdate="20180513T172522Z">
-        <seg>Če so poskus nadaljevali, je oseba po treh tednih znorela.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T170258Z" creationid="urosjarc" creationdate="20180513T172522Z">
+        <seg>Ce so experiment nadaljevali je oseba znorela.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>And the way is: you will have to suffer loneliness first.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T181537Z" creationid="urosjarc" creationdate="20180513T181153Z">
-        <seg>Najdi pot, začni hoditi, a vedi, da boš na njej trpel osamljenost.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T171614Z" creationid="urosjarc" creationdate="20180513T181153Z">
+        <seg>A mogel bos trpeti osamljenost pred tem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -79,16 +86,16 @@
       <tuv lang="EN-US">
         <seg>And when you can give, much love comes towards you.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T171329Z" creationid="urosjarc" creationdate="20180512T115525Z">
-        <seg>Ko imaš ljubezen v neomejenih količinah, jo šele takrat lahko začneš dajati drugemu. V zahvalo je dobiš veliko nazaj, a še več ljubezni ne potrebuješ.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180603T135335Z" creationid="urosjarc" creationdate="20180512T115525Z">
+        <seg>Ko imas ljubezen v neomejenih kolicinah jo lahko das tudi drugemu. V zahvalo je dobis veliko nazaj, a se vec ljubezni ne potrebujes.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>And when you continuously dream, those dreams look very very real.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T180209Z" creationid="urosjarc" creationdate="20180513T171745Z">
-        <seg>Če se prividi ponavljajo, se počasi zlijejo skupaj s tvojo resničnostjo.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T152240Z" creationid="urosjarc" creationdate="20180513T171745Z">
+        <seg>Ce se to ponavlja dlje casa, postanejo videvanja zelo resnicne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -96,17 +103,24 @@
       <tuv lang="EN-US">
         <seg>And you have learnt how to love your indefinable, ineffable reality.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T170023Z" creationid="urosjarc" creationdate="20180512T110453Z">
-        <seg>Takrat si se naučil, kako ljubiti svojo nedefinirano, nedoločljivo osebnost. Tvoj jaz ni več definiran z zunanjimi stvarmi.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T182117Z" creationid="urosjarc" creationdate="20180512T110453Z">
+        <seg>Naucil si se kako ljubiti svojo nedefinirano, nedolocljivo realnost.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>V tem segmentu sem dodal veliko pojasnjevanja iz svojih lastnih izskusenj glede tega kako sem probal potolaziti samega sebe v globoki depresiji.</note>
+      <tuv lang="EN-US">
+        <seg>Author Name</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180505T171923Z" creationid="urosjarc" creationdate="20180505T171923Z">
+        <seg>Ime avtorja</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Because both aspects are always together.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T171933Z" creationid="urosjarc" creationdate="20180512T121232Z">
-        <seg>Nasprotni pojavi so zmeraj tesno povezani med sabo. Dan ne obstaja brez noči, vrh ne obstaja brez doline, kakor tudi osamljenost ne obstaja brez samote. Če izkušaš močno žalost, depresijo, obup, potem si lahko prepričan, da obstaja nasprotno stanje, v katerem izkušaš močno srečo, ekstazo, optimizem.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T150047Z" creationid="urosjarc" creationdate="20180512T121232Z">
+        <seg>Ker so se tako nasprotne reci zmeraj tesno povezane. Dan ne obstaja brez noci kakor tudi osamljenost ne obstaja brez samote.</seg>
       </tuv>
     </tu>
     <tu>
@@ -114,66 +128,81 @@
       <tuv lang="EN-US">
         <seg>Because he is capable of being with himself he becomes capable of being with others.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T164617Z" creationid="urosjarc" creationdate="20180512T114250Z">
-        <seg>Ker zna živeti sam s sabo, zna živeti z drugimi.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180603T123913Z" creationid="urosjarc" creationdate="20180512T114250Z">
+        <seg>Ker zna ziveti sam s sabo, zna ziveti z drugimi.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>V tem segmentu sem zelel doseci povezanost saj sem v dobesednem prevodu zacutil da sem izgubil povezanost med segmenti. Dodal sem tudi dodatno pojasnjevanje za slovensko razumevanje.</note>
       <tuv lang="EN-US">
         <seg>Because this is a trick of the mind.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T172252Z" creationid="urosjarc" creationdate="20180512T123843Z">
-        <seg>Mantranje je trik uma, s katerim usmeriti pozornost stran od svoje osamljenosti.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180512T123947Z" creationid="urosjarc" creationdate="20180512T123843Z">
+        <seg>To je trik uma.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Because you cannot be alone.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T173348Z" creationid="urosjarc" creationdate="20180513T173111Z">
-        <seg>Ker bi sicer znorel.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T154045Z" creationid="urosjarc" creationdate="20180513T173111Z">
+        <seg>Ker nisi zmozen biti sam.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Blissfulness is possible only in total, unconditional freedom.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T170350Z" creationid="urosjarc" creationdate="20180513T175548Z">
-        <seg>Prava sreča je mogoča samo v popolni, brezpogojni svobodi.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180513T175548Z" creationid="urosjarc" creationdate="20180513T175548Z">
+        <seg>Ekstaza srece je mogoca samo v popolni, brezpogojni svobodi.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>But if you allow and fall into the abyss, soon you will realize the abyss has disappeared, and with the abyss all the illusory attachments have disappeared.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T173830Z" creationid="urosjarc" creationdate="20180513T174622Z">
-        <seg>Toda če si dovoliš sproščeno pasti v to praznino, slej ko prej spoznaš, da praznina ne obstaja, in takrat odstraniš skupaj s praznino tudi navezanost do drugih stvari, ljudi.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T170845Z" creationid="urosjarc" creationdate="20180513T174622Z">
+        <seg>Toda ce si pustis pasti v to praznino, slej kot prej spoznas da praznina ne obstaja, in takrat odstranis skupaj z praznino tudi navezanost do drugih.</seg>
       </tuv>
     </tu>
     <tu>
       <note>Ob koncu sem zelel ohraniti besedno fluidnost enako kot v originalnem sporocilu.</note>
       <tuv lang="EN-US">
-        <seg>But remember, the master says, {I am here alone with myself.} When you are alone you are not alone, you are simply lonely - and there is a tremendous difference between loneliness and aloneness.</seg>
+        <seg>But remember, the master says, &lt;u0&gt;{I am here alone with myself.} When you are alone you are not alone, you are simply lonely - and there is a tremendous difference between loneliness and aloneness.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T170323Z" creationid="urosjarc" creationdate="20180512T112152Z">
-        <seg>Toda mojster pravi: {Jaz sedim tu sam s seboj.} Ko si sam, nisi sam, si samo osamljen. Razlika med osamljenostjo in samoto je ogromna.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T185215Z" creationid="urosjarc" creationdate="20180512T112152Z">
+        <seg>Toda zapomni si, mojster pravi, &lt;u0&gt;{Sedim sam s seboj.} Ko si sam, nisi sam, si samo osamljen - velika razlika je med osamljenostjo in samoto.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>But why does the mind start daydreaming?</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T173023Z" creationid="urosjarc" creationdate="20180513T172710Z">
-        <seg>Ampak zakaj začne um fantazirati?</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180513T172710Z" creationid="urosjarc" creationdate="20180513T172710Z">
+        <seg>Zakaj um zacne sanjariti?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Come back home.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T174458Z" creationid="urosjarc" creationdate="20180513T181102Z">
-        <seg>Čas je, da prideš domov.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180513T181102Z" creationid="urosjarc" creationdate="20180513T181102Z">
+        <seg>Cas je da prides domov.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Country&lt;br0&gt;</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180505T171956Z" creationid="urosjarc" creationdate="20180505T171956Z">
+        <seg>Drzava&lt;br0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Date</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180505T172004Z" creationid="urosjarc" creationdate="20180505T172004Z">
+        <seg>Datum</seg>
       </tuv>
     </tu>
     <tu>
@@ -188,8 +217,8 @@
       <tuv lang="EN-US">
         <seg>Death seems so frightening because it will snatch you away from others - the wife will not be any more with the husband, the mother will not be any more with the children.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T174206Z" creationid="urosjarc" creationdate="20180513T180519Z">
-        <seg>Smrt se sliši strašljiva, ker te oddalji od ljudi, ki jih imaš rad in oni tebe - žena ne bo več z možem, mati ne bo več z otroki.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T161653Z" creationid="urosjarc" creationdate="20180513T180519Z">
+        <seg>Smrt se slisi strasljiva ker te oddalji od ljudi ki jih imas rad in oni tebe - zena ne bo vec z mozem, mati ne bo vec z otroki.</seg>
       </tuv>
     </tu>
     <tu>
@@ -197,32 +226,48 @@
       <tuv lang="EN-US">
         <seg>Deep down there is an abyss... undefinable.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T174003Z" creationid="urosjarc" creationdate="20180507T143707Z">
-        <seg>Globoko v sebi čutiš praznino ... nedoločljivost.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180520T162834Z" creationid="urosjarc" creationdate="20180507T143707Z">
+        <seg>Globoko v sebi cutis praznino... nedolocljivost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Department Name&lt;br0&gt;</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180505T171945Z" creationid="urosjarc" creationdate="20180505T171945Z">
+        <seg>Oddelek&lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Depending on others is depending - it is a bondage, it is a dependence, and one can never feel really blissful.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T174050Z" creationid="urosjarc" creationdate="20180513T175505Z">
-        <seg>Zanašati se na drugega, je suženjstvo, tvoja sreča bo zmeraj odvisna od drugih, nikoli ne boš mogel čutiti ekstaze.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T161233Z" creationid="urosjarc" creationdate="20180513T175505Z">
+        <seg>Zanasati na drugega je veriga - suzenstvo, zmeraj si odvisen od nekoga, nikoli ne moras resnicno cutiti ekstaze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Doctor of Philosophy</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180505T171941Z" creationid="urosjarc" creationdate="20180505T171941Z">
+        <seg>Doktor</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Even with yourself you are not capable of being in deep love, in delight - how can you be with others?</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T171223Z" creationid="urosjarc" creationdate="20180512T114654Z">
-        <seg>Če s samim sabo ne znaš živeti v globoki ljubezni, ekstazi, kako lahko pričakuješ od drugih, ki te ne poznajo, kot sam poznaš sebe, da ti bodo dajali to, kar si TI še sam sebi ne znaš dati?</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180603T130552Z" creationid="urosjarc" creationdate="20180512T114654Z">
+        <seg>Ce sam sabo ne znas biti, v globoki ljubezni, exstazi srece, kako lahko pricakujes od drugih, ki te ne poznajo tako kot ti poznas sebe, da ti bodo dajali to kar si TI se sam sebi ne znas dati?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Fantasy is a substitute.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T173148Z" creationid="urosjarc" creationdate="20180513T172814Z">
-        <seg>Fantazija je substitucija dolgočasne resničnosti.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180513T172814Z" creationid="urosjarc" creationdate="20180513T172814Z">
+        <seg>Fantazija je substitucija.</seg>
       </tuv>
     </tu>
     <tu>
@@ -230,8 +275,8 @@
       <tuv lang="EN-US">
         <seg>Great uncomfort, inconvenience arises, because we don't know who we are.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T165200Z" creationid="urosjarc" creationdate="20180507T142136Z">
-        <seg>takrat začutiš nelagodje, ker ne veš, kdo si.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T150500Z" creationid="urosjarc" creationdate="20180507T142136Z">
+        <seg>Zacutis nelagodje, ker ne ves kdo si.</seg>
       </tuv>
     </tu>
     <tu>
@@ -239,8 +284,8 @@
       <tuv lang="EN-US">
         <seg>He does not need anybody's love, hence he can give.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T164755Z" creationid="urosjarc" creationdate="20180512T115336Z">
-        <seg>Ne potrebuje ljubezni od kogarkoli, a še vedno jo daje.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180603T133528Z" creationid="urosjarc" creationdate="20180512T115336Z">
+        <seg>Ne potrebuje ljubezni od kogarkoli, a se vedno jo daje.</seg>
       </tuv>
     </tu>
     <tu>
@@ -248,24 +293,24 @@
       <tuv lang="EN-US">
         <seg>He knows that he himself is enough unto himself.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T171107Z" creationid="urosjarc" creationdate="20180512T114035Z">
-        <seg>Vedel bi, da si, sam sebi dovolj, da je to vse, kar v resnici potrebuješ.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180603T122414Z" creationid="urosjarc" creationdate="20180512T114035Z">
+        <seg>Ve da je on, sam sebi dovolj, da je to vse kar v resnici rabi.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>He says, {This is the greatest miracle.</seg>
+        <seg>He says, &lt;u0&gt;{This is the greatest miracle.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T183459Z" creationid="urosjarc" creationdate="20180513T173318Z">
-        <seg>Pravi: {To je največji čudež.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T154928Z" creationid="urosjarc" creationdate="20180513T173318Z">
+        <seg>Pravi, &lt;u0&gt;{To je najvecji cudez.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>He will become insane, because his imagination will take complete possession of him.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T173011Z" creationid="urosjarc" creationdate="20180513T172653Z">
-        <seg>Njegova domišljija je prevzela nadzor nad razumom.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T170311Z" creationid="urosjarc" creationdate="20180513T172653Z">
+        <seg>Njegova domislija je prevzela kontro uma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -273,8 +318,8 @@
       <tuv lang="EN-US">
         <seg>He will love that tremendous emptiness, this pure infinity.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T171020Z" creationid="urosjarc" creationdate="20180512T113834Z">
-        <seg>Ljubil bi to velikansko praznino, čisto neskončnost, v kateri bi bil ti.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180603T121734Z" creationid="urosjarc" creationdate="20180512T113834Z">
+        <seg>Ljubil bi to velikansko praznino, cisto neskoncnost.</seg>
       </tuv>
     </tu>
     <tu>
@@ -282,8 +327,8 @@
       <tuv lang="EN-US">
         <seg>He will not miss anything because he has arrived home.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T171034Z" creationid="urosjarc" creationdate="20180512T113927Z">
-        <seg>Ničesar ne bi pogrešal, ker bi takrat prišel domov.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180603T121855Z" creationid="urosjarc" creationdate="20180512T113927Z">
+        <seg>Nicesar ne bi pogresal ker je ze prisel domov.</seg>
       </tuv>
     </tu>
     <tu>
@@ -297,24 +342,24 @@ Bralec bi lahko rekel ce bi namesto "nicesar" uporabil "nobenega" da se se vedno
       <tuv lang="EN-US">
         <seg>How to define yourself?</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T163830Z" creationid="urosjarc" creationdate="20180507T143131Z">
-        <seg>Kdo si, ko zraven tebe ni ničesar?</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T163658Z" creationid="urosjarc" creationdate="20180507T143131Z">
+        <seg>Kdo si, ko zraven tebe ni nicesar?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>I sit here alone with myself.} To be with oneself and to be happily with oneself, blissfully with oneself, and not to move into fantasies... then suddenly one is at home, one is entering into one's own abyss.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T173619Z" creationid="urosjarc" creationdate="20180513T173537Z">
-        <seg>Jaz sedim tu sam s seboj.} Obstajati sam, v ekstazi, brez nepotrebnih fantazij  ... Takrat si prišel domov. Zapolnil si svojo luknjo osamljenosti s samim seboj ...</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T170607Z" creationid="urosjarc" creationdate="20180513T173537Z">
+        <seg>Sedim sam s seboj.} Biti sam z sabo v sreci, ekstazi, in hkrati ne zaceti fantazirati... takrat si prisel domov, zapolnil si svoje luknje z samim seboj.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>If a person is deprived of all impressions - his eyes are closed, he is put in a box, his ears are closed, his whole body is encased in foam rubber so the touch is monotonous, the darkness in the eyes is monotonous, the soundlessness is monotonous, everything monotonous - within two, three hours he starts dreaming - such fantastic dreams, and so real... realer than real.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T172937Z" creationid="urosjarc" creationdate="20180513T172030Z">
-        <seg>Človeku so med poskusom pokrili oči, zatesnili ušesa, celotno telo zavili v peno. Dotik pene je monoton, tema v očeh je monotona, brezzvočje je monotono, v dveh, treh urah je človek vstopil v svoj fantastični sanjski svet ...</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T170147Z" creationid="urosjarc" creationdate="20180513T172030Z">
+        <seg>Ce so cloveku zmanjsali cutne drezljaje - njegove oci so zaprli, njegova usesa zatesnili, celotno telo zavili v peno da je dotik monoton, tema v oceh monotona, brezzvocje monotono, vse monotono - v dveh, treh urah je clovek zacel sanjariti - fantasticne sanje, in tako resnicne... </seg>
       </tuv>
     </tu>
     <tu>
@@ -322,8 +367,8 @@ Bralec bi lahko rekel ce bi namesto "nicesar" uporabil "nobenega" da se se vedno
       <tuv lang="EN-US">
         <seg>If suddenly by some magic the whole world disappears and this zen master is left alone, he will be as happy as ever, he will not miss anything.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180616T192258Z" creationid="urosjarc" creationdate="20180512T113810Z">
-        <seg></seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180603T121450Z" creationid="urosjarc" creationdate="20180512T113810Z">
+        <seg>Srecen bi bil enako kot prej, nicesar ne bi pogresal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -331,34 +376,32 @@ Bralec bi lahko rekel ce bi namesto "nicesar" uporabil "nobenega" da se se vedno
       <tuv lang="EN-US">
         <seg>If the whole world disappears this zen master will not miss anything.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T171010Z" creationid="urosjarc" creationdate="20180512T113359Z">
-        <seg>Če bi ves svet izginil, ne bi v tej praznini pogrešal ničesar.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T164850Z" creationid="urosjarc" creationdate="20180512T113359Z">
+        <seg>Ce ves svet izgine, zen mojster ne bi pogresal nicesar.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Dodal sem dodatno pojasnilo da bralca drzim na rdeci niti in da ne izgubi svojega fokusa kje drugje.
-Dodal sem besede ki malce bolj jasno opise kaj se zgodi da bodo ljudje ki se se niso nikoli s tem ukvarjali razumeli.</note>
       <tuv lang="EN-US">
         <seg>If there is nothing new outside, one creates one's own imaginative world and starts looking into it.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T172517Z" creationid="urosjarc" creationdate="20180513T165350Z">
-        <seg>Če um ne najde ničesar zanimivega v resničnem svetu, ustvari svoj notranji fantazijski svet, v katerega začne vstopati.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T165949Z" creationid="urosjarc" creationdate="20180513T165350Z">
+        <seg>Ce ni nicesar v zunanjem svetu, un ustvari svoj notranji fantazijski svet v katerega zacne gledati.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>If you are happy because a woman loves you, you will become unhappy if she does not love you.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T173849Z" creationid="urosjarc" creationdate="20180513T174847Z">
-        <seg>Če si srečen, ker te partner ljubi, boš postal nesrečen, ko te ne bo ljubil več.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T160606Z" creationid="urosjarc" creationdate="20180513T174847Z">
+        <seg>Ce si srecen ker te partner ljubi, bos postal nesrecen ce te kar naenkrat ne ljubi vec.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>If you are happy for any reason whatsoever, then any day the reason is not there, you will become unhappy.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T173914Z" creationid="urosjarc" creationdate="20180513T174914Z">
-        <seg>Če si srečen zaradi katerega-koli razloga, bo ta razlog postal pogoj tvoje sreče.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T160635Z" creationid="urosjarc" creationdate="20180513T174914Z">
+        <seg>Ce si srecen zaradi katerega koli razloga, bo ta razlog postal pogoj tvoje srece.</seg>
       </tuv>
     </tu>
     <tu>
@@ -368,27 +411,24 @@ Dodal sem besede ki malce bolj jasno opise kaj se zgodi da bodo ljudje ki se se 
       <tuv lang="EN-US">
         <seg>If you are not capable of being with yourself, how can you be capable of being with others?</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T164628Z" creationid="urosjarc" creationdate="20180512T114314Z">
-        <seg>Če nisi sposoben biti sam s seboj, kako si lahko sposoben živeti z drugimi?</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180603T124647Z" creationid="urosjarc" creationdate="20180512T114314Z">
+        <seg>Ce nisi sposoben biti sam s seboj, kako si lahko sposoben ziveti z drugimi?</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Dobesedni prevod</note>
       <tuv lang="EN-US">
         <seg>If you go deeper into it one moment is bound to come when suddenly you will start feeling the positive aspect of it.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T171909Z" creationid="urosjarc" creationdate="20180512T120904Z">
-        <seg>Če boš šel globlje v osamljenost, bo trenutek zagotovo prišel, ko boš začel čutiti njene pozitivne vidike.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T165511Z" creationid="urosjarc" creationdate="20180512T120904Z">
+        <seg>Ce bos sel globje v osamljenost bo moment zagotovo prisel ko bos zacutiti njen pozitiven vidik.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Tezsko je prevesti "conditioned" jaz verjamem da je najlepsa beseda da si naucen, verujes, itd...
-Zelel sem doseci tudi generalizacijo "0105" na kar vpliva na ta segment.</note>
       <tuv lang="EN-US">
         <seg>If you have been conditioned as a Christian, sooner or later in a himalayan cave you will encounter Jesus, and this will be pure imagination.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T172603Z" creationid="urosjarc" creationdate="20180513T171635Z">
-        <seg>Če veruješ v Boga, se bo po nekem času meditacije pojavil pred teboj in to bo čisti privid.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T152018Z" creationid="urosjarc" creationdate="20180513T171635Z">
+        <seg>Ce si bil vzgojen kot Kristjan, slej ko prej bos v himalajski jami spoznal Jezusa, in to bo cisti privid.</seg>
       </tuv>
     </tu>
     <tu>
@@ -396,8 +436,8 @@ Zelel sem doseci tudi generalizacijo "0105" na kar vpliva na ta segment.</note>
       <tuv lang="EN-US">
         <seg>If you start feeling lonely then there is something missing in your being, then you have not been able yet to understand who you are.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T182221Z" creationid="urosjarc" creationdate="20180512T120226Z">
-        <seg>Če postaneš osamljen in začneš pogrešati drugega, potem nekaj manjka tvoji biti; potem še nisi sposoben razumeti, kdo si.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180603T152037Z" creationid="urosjarc" creationdate="20180512T120226Z">
+        <seg>Ce postanes osamljen da zacnes pogresati drugega, potem nekaj manjka tvoji biti, potem se nisi sposoben razumeti kdo si.</seg>
       </tuv>
     </tu>
     <tu>
@@ -414,24 +454,32 @@ Zelel sem doseci tudi generalizacijo "0105" na kar vpliva na ta segment.</note>
       <tuv lang="EN-US">
         <seg>In fact only he is capable of being with others.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T171118Z" creationid="urosjarc" creationdate="20180512T114147Z">
-        <seg>V resnici je samo on sposoben živeti z drugimi.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180603T123824Z" creationid="urosjarc" creationdate="20180512T114147Z">
+        <seg>V bistvu je samo on sposoben biti z drugimi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Introduction</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180505T171905Z" creationid="urosjarc" creationdate="20180505T171837Z">
+        <seg>Uvod introduction</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>It appears like emptiness when you enter, but once you have entered it is the very fullness of being, the fulfillment, the blossoming, the climax, the crescendo.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T173631Z" creationid="urosjarc" creationdate="20180513T173916Z">
-        <seg>Samoto na začetku vidiš kot praznino, a ko vstopiš vanjo, začutiš pravo polnost življenja.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T170736Z" creationid="urosjarc" creationdate="20180513T173916Z">
+        <seg>Ko vstopas v samoto zgleda kot da vstopas v praznino, a ko si notri zacutis polnost, izpolnjenost, razscvetenje, vrhunec.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>It cannot separate you from yourself; there is no way to separate you from yourself.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T174227Z" creationid="urosjarc" creationdate="20180513T180615Z">
-        <seg>A ne more te odvzeti od samega sebe, to ni mogoče.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180513T180615Z" creationid="urosjarc" creationdate="20180513T180615Z">
+        <seg>Ne mora te pa odvzeti od samega sebe; to ni mogoce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -439,8 +487,8 @@ Zelel sem doseci tudi generalizacijo "0105" na kar vpliva na ta segment.</note>
       <tuv lang="EN-US">
         <seg>It creates fear.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T163856Z" creationid="urosjarc" creationdate="20180507T144206Z">
-        <seg>Začutiš strah.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180507T144206Z" creationid="urosjarc" creationdate="20180507T144206Z">
+        <seg>Zacutis strah.</seg>
       </tuv>
     </tu>
     <tu>
@@ -448,8 +496,8 @@ Zelel sem doseci tudi generalizacijo "0105" na kar vpliva na ta segment.</note>
       <tuv lang="EN-US">
         <seg>It is a presence, overflowing presence.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T180023Z" creationid="urosjarc" creationdate="20180512T113053Z">
-        <seg>Samota je opazovanje samega sebe, izkustvo sebe v tem trenutku. Druženje s samim seboj. </seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180603T115648Z" creationid="urosjarc" creationdate="20180512T113053Z">
+        <seg>Samota je prisotnost, prekipevajoca prisotnost zavesti, izskustvo samega sebe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -471,12 +519,11 @@ Zelel sem doseci tudi generalizacijo "0105" na kar vpliva na ta segment.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Skoraj dobesedni prevod.</note>
       <tuv lang="EN-US">
         <seg>It is difficult, meditation is difficult.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T175734Z" creationid="urosjarc" creationdate="20180512T121613Z">
-        <seg>Težko ti bo, meditacija je težka.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T150124Z" creationid="urosjarc" creationdate="20180512T121613Z">
+        <seg>Tezsko ti bo, meditacija je tezska.</seg>
       </tuv>
     </tu>
     <tu>
@@ -517,17 +564,16 @@ Zelel sem doseci tudi generalizacijo "0105" na kar vpliva na ta segment.</note>
       <tuv lang="EN-US">
         <seg>It only appears to be emptiness because you have lived with others and suddenly you miss the others; that's why you interpret it as empty.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T173735Z" creationid="urosjarc" creationdate="20180513T174055Z">
-        <seg>Ni praznina, ker vse življenje živiš z drugimi in jih pogrešaš, zato si samoto razlagaš kot praznino.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T160256Z" creationid="urosjarc" creationdate="20180513T174055Z">
+        <seg>Samo zgleda kot praznina ker vse zivljenje zivis z drugimi in jih pogresas; zato jo interpretiras kot praznino.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Dobesedni prevod</note>
       <tuv lang="EN-US">
         <seg>It transforms - it is a negative aspect of the same phenomenon.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T175630Z" creationid="urosjarc" creationdate="20180512T120449Z">
-        <seg>Transformira se, ker je nasprotni, obratni vidik enakega pojava.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T145848Z" creationid="urosjarc" creationdate="20180512T120449Z">
+        <seg>Se transformira - je nasprotni, obratni vidik enakega pojava.</seg>
       </tuv>
     </tu>
     <tu>
@@ -535,16 +581,16 @@ Zelel sem doseci tudi generalizacijo "0105" na kar vpliva na ta segment.</note>
       <tuv lang="EN-US">
         <seg>It would have been good if the other was there, but the other is not.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T170701Z" creationid="urosjarc" creationdate="20180512T112555Z">
-        <seg>Bilo bi lepo, če bi bilo zraven tebe, a tega ni.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T190429Z" creationid="urosjarc" creationdate="20180512T112555Z">
+        <seg>Bilo bi lepo ce bi bil zraven se nekdo, a drugega ni.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Its beauty is the ultimate beauty, its grandeur is the ultimate grandeur, its power is the ultimate power.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T174451Z" creationid="urosjarc" creationdate="20180513T181038Z">
-        <seg>Njena lepota je ultimativna, njena veličina neskončna, njena moč bogovska.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T162157Z" creationid="urosjarc" creationdate="20180513T181038Z">
+        <seg>Njena lepota je ultimativna, njegova velicina je velikanska, njena moc ultimativna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -552,16 +598,16 @@ Zelel sem doseci tudi generalizacijo "0105" na kar vpliva na ta segment.</note>
       <tuv lang="EN-US">
         <seg>Just sit alone sometimes.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T175450Z" creationid="urosjarc" creationdate="20180512T115828Z">
-        <seg>Poskusi biti kdaj sam, v tišini brez aktivnosti.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180603T150121Z" creationid="urosjarc" creationdate="20180512T115828Z">
+        <seg>Probaj biti sam, v tisini brez aktivnosti, da nekoc izskusis pravo samoto ki osvobaja.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Knowing it well - that this will be taken away - he surrenders it.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T174433Z" creationid="urosjarc" creationdate="20180513T180934Z">
-        <seg>Dobro ve, da mu bo slej ko prej vse odvzeto, to jogi preda sam od sebe, še preden se zgodi. Lahko živi na cesti kot berač, a v resnici živi kot kralj svojega notranjega sveta.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T162106Z" creationid="urosjarc" creationdate="20180513T180934Z">
+        <seg>Dobro ve da slej ko prej mu bo vse odvzeto - to preda sam od sebe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -569,8 +615,8 @@ Zelel sem doseci tudi generalizacijo "0105" na kar vpliva na ta segment.</note>
       <tuv lang="EN-US">
         <seg>Loneliness is a negative state.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T164303Z" creationid="urosjarc" creationdate="20180512T112305Z">
-        <seg>Osamljenost je negativno, ne-čuječnostno umsko stanje.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T185649Z" creationid="urosjarc" creationdate="20180512T112305Z">
+        <seg>Osamljenost je negativno, ne-cujecnostno umsko stanje.</seg>
       </tuv>
     </tu>
     <tu>
@@ -578,12 +624,11 @@ Zelel sem doseci tudi generalizacijo "0105" na kar vpliva na ta segment.</note>
       <tuv lang="EN-US">
         <seg>Loneliness is absence of the other.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T170822Z" creationid="urosjarc" creationdate="20180512T112729Z">
-        <seg>Ko si osamljen, si jokajoč otrok, ki si želi nekaj, česar trenutno nima v svojih rokah.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T190839Z" creationid="urosjarc" creationdate="20180512T112729Z">
+        <seg>V osamljenosti pogresas drugo osebo.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Dobesedni prevod</note>
       <tuv lang="EN-US">
         <seg>Loneliness is the negative aspect of aloneness.</seg>
       </tuv>
@@ -601,22 +646,19 @@ Zelel sem doseci tudi generalizacijo "0105" na kar vpliva na ta segment.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Odstranil sem zadnji stavek v kateri ni pomemben za razumevanje in v katerem cutim da je prisotno malce uzaljenosti.</note>
       <tuv lang="EN-US">
         <seg>Mantra meditation, is not meditation at all, because meditation simply means to be alone, not doing anything - not even chanting a mantra.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T172159Z" creationid="urosjarc" creationdate="20180512T123826Z">
-        <seg>Ker meditacija preprosto pomeni biti sam s seboj, brez kakršnekoli aktivnosti.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T165750Z" creationid="urosjarc" creationdate="20180512T123826Z">
+        <seg>Mantranje, sploh ni meditacija, meditacija pomeni biti sam s seboj brez aktivnosti - brez mantranja.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Ta prevod mi je delal najvec tezav, odstranil sem besedo da sem dosegel generalizacijo.
-Najvec tezav sem imel z "sense deprivation".</note>
       <tuv lang="EN-US">
         <seg>Many experiments have been done in the West on sense deprivation.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T172900Z" creationid="urosjarc" creationdate="20180513T171934Z">
-        <seg>Veliko poskusov je bilo narejenih na ljudeh, ki so jim zmanjšali čutno zaznavanje.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T170101Z" creationid="urosjarc" creationdate="20180513T171934Z">
+        <seg>Veliko cloveskih eksperimentov je bilo narejenih na zmanjsevanju cutnih drezljajev.</seg>
       </tuv>
     </tu>
     <tu>
@@ -631,8 +673,8 @@ Najvec tezav sem imel z "sense deprivation".</note>
       <tuv lang="EN-US">
         <seg>Nobody can take it away, not even death.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T181255Z" creationid="urosjarc" creationdate="20180513T175936Z">
-        <seg>Nihče ti je ne more vzeti, niti smrt.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180513T175936Z" creationid="urosjarc" creationdate="20180513T175936Z">
+        <seg>Nihce ti je ne mora vzeti, niti smrt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -640,53 +682,52 @@ Najvec tezav sem imel z "sense deprivation".</note>
       <tuv lang="EN-US">
         <seg>Nobody wants to be alone.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T163943Z" creationid="urosjarc" creationdate="20180512T104007Z">
-        <seg>Nihče si ne želi biti sam.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T163928Z" creationid="urosjarc" creationdate="20180512T104007Z">
+        <seg>Nihce si ne zeli biti sam.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Skoraj dobesedni prevod.</note>
       <tuv lang="EN-US">
         <seg>Nothing to distract the mind outside, the mind starts creating its own dreams inside.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T172633Z" creationid="urosjarc" creationdate="20180513T171709Z">
-        <seg>Ko ni ničesar, kar bi zamotilo um, um sam ustvari svoj sanjski svet.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T152115Z" creationid="urosjarc" creationdate="20180513T171709Z">
+        <seg>Nicesar kar bi zamotilo um, um sam ustvari svoj sanjski svet.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Segment izgovorjen se ne slisi tako lepo kot v napisani besedi, zato sem tudi ta segment predelal tako da se v prebrani besedi slisi veliko lepse.</note>
       <tuv lang="EN-US">
         <seg>Nothing to pay attention to - just the same monotonous expanse of sands and sands; nothing to distract, nothing new - monotonous, boring.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T165443Z" creationid="urosjarc" creationdate="20180513T163123Z">
-        <seg>Tam ni ničesar, na kar bi se lahko um fokusiral, nobenih distrakcij, neskončna monotonost peska.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T165920Z" creationid="urosjarc" creationdate="20180513T163123Z">
+        <seg>Nicesar ni na kar bi se um fokusiral - monotona prostranost peska; brez distrakcij, nicesar novega ni - monotono, dolgocasje.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Segment sem v prevajanju skrajsal na samo esencijalne stvari. Ter spremenil konec segmenta tako da je stavek bolj fluiden in razumevajoc.</note>
       <tuv lang="EN-US">
-        <seg>Now this sound of {Ram} continuously repeated will become their companion.</seg>
+        <seg>Now this sound of &lt;u2&gt;{Ram} continuously repeated will become their companion.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T172119Z" creationid="urosjarc" creationdate="20180512T123353Z">
-        <seg>Zvok {ohm} bo postal njihov prijatelj.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T150516Z" creationid="urosjarc" creationdate="20180512T123353Z">
+        <seg>Ta zvok &lt;u2&gt;{Ohm} neprestalno ponovljen bo postal njihov prijatelj.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Once you have learned how to be with yourself then death is meaningless, then death does not exist.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T183927Z" creationid="urosjarc" creationdate="20180513T180650Z">
-        <seg>Ko se naučiš biti sam s seboj v samoti, je smrt nesmiselna, strah pred smrtjo zate ne obstaja več.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T171349Z" creationid="urosjarc" creationdate="20180513T180650Z">
+        <seg>Ko se naucis biti sam s seboj je smrt nesmiselna, strah pred smrtjo ne obstaja vec.</seg>
       </tuv>
     </tu>
     <tu>
       <note>Sporocilo zelim narediti bolj osebno bolj direktno zato bom govoril enako kot da bi govoril prijatelju direktno ali ucencu. Zato sem namesto "cutimo" uporabil "cutis".
+
+Dodal sem tudi pojasnilni dodatek k besedi "drugega" ki bolj natancno opredeljuje po cem tocno cutis potrebo. Bralec bi si lahko brez dodatka to razumeli narobe.
 </note>
       <tuv lang="EN-US">
         <seg>One feels always a need for the other.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T173241Z" creationid="urosjarc" creationdate="20180507T134709Z">
-        <seg>Zmeraj čutiš potrebo po družbi.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T124726Z" creationid="urosjarc" creationdate="20180507T134709Z">
+        <seg>Zmeraj cutis potrebo po druzbi drugega.</seg>
       </tuv>
     </tu>
     <tu>
@@ -694,25 +735,24 @@ Najvec tezav sem imel z "sense deprivation".</note>
       <tuv lang="EN-US">
         <seg>Others are far away.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T175234Z" creationid="urosjarc" creationdate="20180512T114742Z">
-        <seg>Drugi ne ve! Drugi ne ve. Drugi ne ve ...</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180603T132935Z" creationid="urosjarc" creationdate="20180512T114742Z">
+        <seg>Drugi ne ve! Drugi ne ve. Drugi ne ve...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Others are not there, only you are there - but you cannot see yourself right now, you simply miss the others.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T170025Z" creationid="urosjarc" creationdate="20180513T174131Z">
-        <seg>Drugih ni, samo ti si, a ne vidiš samega sebe, ker pogrešaš druge.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180513T174131Z" creationid="urosjarc" creationdate="20180513T174131Z">
+        <seg>Drugih ni tam, samo ti si - toda ne vidis samega sebe, ker pogresas druge.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Zadnji stavek je bil malce cuden zato sem ga predelal da je bolj oseben, kot da bi prijatelj zaupal skrivnost drugemu prijatelju.</note>
       <tuv lang="EN-US">
-        <seg>People come to me and they ask, {Yes, we are ready to sit, but give us a mantra so that we can chant a mantra.} What are they asking?</seg>
+        <seg>People come to me and they ask, &lt;u0&gt;{Yes, we are ready to sit, but give us a mantra so that we can chant a mantra.} What are they asking?</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T182655Z" creationid="urosjarc" creationdate="20180512T122821Z">
-        <seg>Ljudje pridejo in me prosijo: {Da, pripravljeni smo sedeti, toda daj nam mantro, da lahko mantramo.} Veš, kaj me v resnici prosijo?</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T165644Z" creationid="urosjarc" creationdate="20180512T122821Z">
+        <seg>Ljudje pridejo do mene in prosijo, &lt;u0&gt;{Da, smo pripravljeni sedeti, toda daj nam mantro da lahko mantramo.} Vem kaj me v resnici prosijo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -720,50 +760,49 @@ Najvec tezav sem imel z "sense deprivation".</note>
       <tuv lang="EN-US">
         <seg>People do a thousand and one things just not to be left alone.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T163956Z" creationid="urosjarc" creationdate="20180512T104430Z">
-        <seg>Narediš tisoč in eno stvar, samo da ne bi ostal sam.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T164908Z" creationid="urosjarc" creationdate="20180512T104430Z">
+        <seg>Naredis tisoc in en opravek, samo da ne bi ostal sam.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Remember, death only separates you from others, it never separates you from yourself.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180610T161731Z" creationid="urosjarc" creationdate="20180513T180337Z">
-        <seg>Smrt te odvzame od drugih, nikoli pa te ne odvzame od samega sebe.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T171312Z" creationid="urosjarc" creationdate="20180513T180337Z">
+        <seg>Smrt te odvzame od drugih, nikoli te ne odvzame s od samega sebe.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Remember, when your happiness depends on others, your unhappiness also will depend on others.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T173903Z" creationid="urosjarc" creationdate="20180513T174816Z">
-        <seg>Ko je tvoja sreča odvisna od česar-koli, je tudi tvoja nesreča odvisna od te iste stvari.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T160538Z" creationid="urosjarc" creationdate="20180513T174816Z">
+        <seg>Ce je tvoja sreca odvisna od drugih stvari, bo tvoja nesreca tudi odvisna od drugih stvari.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Dobesedni prevod</note>
       <tuv lang="EN-US">
         <seg>So be lonely, suffer loneliness.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180609T104521Z" creationid="urosjarc" creationdate="20180512T121545Z">
-        <seg>Torej bodi osamljen, trpi osamljenost.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T150110Z" creationid="urosjarc" creationdate="20180512T121545Z">
+        <seg>Bodi osamljen, trpi osamljenost.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>So either it needs somebody in reality, or, if in reality somebody is not there, then it creates fantasy.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T173124Z" creationid="urosjarc" creationdate="20180513T172803Z">
-        <seg>Ali potrebuje distrakcijo v resničnosti, če v resničnosti ni ničesar, potem ustvari svojo fantazijsko resničnost.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T153749Z" creationid="urosjarc" creationdate="20180513T172803Z">
+        <seg>Ali potrebuje nekoga v realnosti, ali, ce v realnosti ni nicesar, um ustvari fantazije.</seg>
       </tuv>
     </tu>
     <tu>
       <note>Glavno vprasanje sem probal narediti cim bolj jedernato brez nepotrebnih dodatnih besed iz dobesednega prevoda, da bi bralec dobil cim hitreje dobil paket soka ter kontekst glavne tematike.</note>
       <tuv lang="EN-US">
-        <seg>Somebody asked a zen master, {What is the greatest miracle in the world?} The master replied, {I am sitting here alone with me.}</seg>
+        <seg>Somebody asked a zen master, &lt;u0&gt;{What is the greatest miracle in the world?} The master replied, &lt;u1&gt;{I am sitting here alone with me.}</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T174719Z" creationid="urosjarc" creationdate="20180507T130033Z">
-        <seg>Vprašal je zen mojstra: {Kaj je največji čudež?}\\ Mojster je odgovoril: {Jaz sedim tu sam s seboj.}</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T140749Z" creationid="urosjarc" creationdate="20180507T130033Z">
+        <seg>Vprasal je zen mojstra, &lt;u0&gt;{Kaj je najvecji cudez?} Mojster odgovori, &lt;u1&gt;{Jaz sedim tu sam s seboj.}</seg>
       </tuv>
     </tu>
     <tu>
@@ -772,16 +811,24 @@ Uporabil sem dobesedni navedek na "podobnih" kjer sem zelel sporociti da ti ni r
       <tuv lang="EN-US">
         <seg>Somehow you want to merge with a crowd where you can feel at ease, that you are not alone, there are so many people like you - so many Mohammedans like you, so many Hindus like you, so many Christians, millions of them... you are not alone.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T165932Z" creationid="urosjarc" creationdate="20180512T105324Z">
-        <seg>Želiš postati del nečesa, da se lahko sprostiš, da lahko odmisliš svojo osamljenost. Toliko \textquote{podobnih}, enako mislečih ljudi obstaja. Zraven njih nisi več osamljen.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T175925Z" creationid="urosjarc" creationdate="20180512T105324Z">
+        <seg>Zelis postati del necesa kjer se lahko sprostis da odmislis svojo osamljenost, toliko \textquote{podobnih}, enako mislecih ljudi... nisi vec sam.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Suffer it, go through it.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T170710Z" creationid="urosjarc" creationdate="20180513T181221Z">
-        <seg>Trpel jo boš, a pojdi skozi.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T162328Z" creationid="urosjarc" creationdate="20180513T181221Z">
+        <seg>Trpi jo, pojdi skozi njo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>THE GREATEST MIRACLE</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180507T131523Z" creationid="urosjarc" creationdate="20180507T125300Z">
+        <seg>JAZ SEDIM TUKAJ SAM S SEBOJ</seg>
       </tuv>
     </tu>
     <tu>
@@ -792,41 +839,40 @@ Tu sem zelel dodati da ne pripadas niti svojemu umu ali telesu, vendar to bi lah
       <tuv lang="EN-US">
         <seg>That means now you don't belong to any church, you don't belong to any organization, you don't belong to any theology, you don't belong to any ideology - socialist, communist, fascist, hindu, christian, jain, buddhist - you don't belong, you simply are.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T174436Z" creationid="urosjarc" creationdate="20180512T110138Z">
-        <seg>To pomeni, da ne pripadaš nobenemu človeku, nobeni družini, nobeni organizaciji, nobeni religiji, nobeni ideologiji, nobenemu cilju. Ne pripadaš nikomur, ne pripadaš ničemur. Ne pripadaš ... samo obstajaš, samo si.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180603T115117Z" creationid="urosjarc" creationdate="20180512T110138Z">
+        <seg>To pomeni da ne pripadas nobenemu cloveku, ne pripadas nobeni druzini, ne pripadas nobeni organizaciji, ne pripadas nobeni religiji, ne pripadas nobeni ideologiji, ne pripadas nobenemu cilju, ne pripadas nikomur, ne pripadas nicemur. Ne pripadas... samo si.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>That which death can take away from you, you have surrendered on your own accord.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T174302Z" creationid="urosjarc" creationdate="20180513T180747Z">
-        <seg>To, kar ti smrt odvzame, predaš že veliko prej prostovoljno.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T171506Z" creationid="urosjarc" creationdate="20180513T180747Z">
+        <seg>To kar ti smrt odvzame, to ti predas ze veliko prej prostovoljno.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>That which death is going to do, a meditator does on his own accord, voluntarily.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T174354Z" creationid="urosjarc" creationdate="20180513T180904Z">
-        <seg>To, kar smrt naredi, pravi jogi v meditaciji naredi sam od sebe, prostovoljno.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180513T180904Z" creationid="urosjarc" creationdate="20180513T180904Z">
+        <seg>To kar smrt naredi, yogi v meditaciji naredi sam od sebe, prostovoljno.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Segment je polepsan tako da se lepse bere.</note>
       <tuv lang="EN-US">
         <seg>That's what happens to people who go to the Himalayas and sit in caves to meditate.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T172542Z" creationid="urosjarc" creationdate="20180513T170855Z">
-        <seg>Enaka usoda doleti ljudi, ki odidejo meditirat na osamljen kraj.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T170004Z" creationid="urosjarc" creationdate="20180513T170855Z">
+        <seg>To se zgodi z ljudmi ki grejo v jame meditirat.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>That's what meditation is - to surrender the non-essential, that which death can take away from you.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T184045Z" creationid="urosjarc" creationdate="20180513T180839Z">
-        <seg>Točno to v meditaciji ljudje nezavedno naredijo, predajo neesencijalne stvari, ki so pogoj za njihovo srečo. Sreča tako ni več odvisna od stvari, ki ti jih lahko življenje kadarkoli odvzame.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T171524Z" creationid="urosjarc" creationdate="20180513T180839Z">
+        <seg>Tocno to v meditaciji naredis - predas neesencijalne stvari katere ti smrt lahko odvzame.</seg>
       </tuv>
     </tu>
     <tu>
@@ -834,12 +880,11 @@ Tu sem zelel dodati da ne pripadas niti svojemu umu ali telesu, vendar to bi lah
       <tuv lang="EN-US">
         <seg>That's what meditation is all about - just sitting alone, doing nothing, Just try.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T171548Z" creationid="urosjarc" creationdate="20180512T120024Z">
-        <seg>To je bistvo meditacije, biti sam s seboj, brez aktivnosti ...</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180603T151446Z" creationid="urosjarc" creationdate="20180512T120024Z">
+        <seg>To je bistvo meditacije, biti sam z seboj, brez aktivnosti. Probaj jo izskusiti...</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Dobesedni prevod vendar preoblikovan tako da sem naredil iz besedila vsesplosno resnico.</note>
       <tuv lang="EN-US">
         <seg>That's what the mind has always been doing.</seg>
       </tuv>
@@ -848,28 +893,27 @@ Tu sem zelel dodati da ne pripadas niti svojemu umu ali telesu, vendar to bi lah
       </tuv>
     </tu>
     <tu>
-      <note>Predelal sem segment tako da se ne ponovi preveckrat sporocilo iz prejsnjih segmentov.</note>
       <tuv lang="EN-US">
         <seg>That's why if a person goes to the desert, to the Arabian Desert, to the Sahara, and sits there, he will start imagining, visions will start coming to him, because a desert is a very monotonous thing.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T172443Z" creationid="urosjarc" creationdate="20180513T162903Z">
-        <seg>To se zgodi z osebo, ki gre v puščavo, dobila bo privide, saj je puščava zelo monotona.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T165848Z" creationid="urosjarc" creationdate="20180513T162903Z">
+        <seg>To se zgodi z osebo ki gre v puscavo, zacela bo sanjariti, imela bo videnja, puscava je zelo monotona.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>That's why in the East we call it moksha.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180610T161603Z" creationid="urosjarc" creationdate="20180513T175736Z">
-        <seg>Jogiji ji pravijo moksha.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T161324Z" creationid="urosjarc" creationdate="20180513T175736Z">
+        <seg>Yogiji ji pravijo moksha.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>That's why you dream in the night - because in sleep you are alone; the world disappears.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T173211Z" creationid="urosjarc" creationdate="20180513T172848Z">
-        <seg>To je razlog, zakaj ponoči sanjaš. Tvoj svet izgine in ostaneš sam.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T153844Z" creationid="urosjarc" creationdate="20180513T172848Z">
+        <seg>To je razlog zakaj ponoci sanjas - ponoci v sanjah si sam; tvoj svet izgine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -879,8 +923,8 @@ Poleg tega sem probal generalizirati lekcije zivljenja tako sem tudi dodal drama
       <tuv lang="EN-US">
         <seg>The first lesson of love is to learn how to be alone.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T182054Z" creationid="urosjarc" creationdate="20180512T115712Z">
-        <seg>Prva lekcija prijateljstva, družine, ljubezni, življenja je, da se naučiš, kako živeti sam.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180603T140744Z" creationid="urosjarc" creationdate="20180512T115712Z">
+        <seg>Prva lekcija prijateljstva, druzine, ljubezni, zivljenja, je da se naucis kako biti sam.</seg>
       </tuv>
     </tu>
     <tu>
@@ -890,16 +934,29 @@ Dodal sem besedo "nekoc" katera nosi asociacijo zapuscenega starcka katerega so 
       <tuv lang="EN-US">
         <seg>The greatest fear in the world is to be left alone.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T174148Z" creationid="urosjarc" creationdate="20180512T104119Z">
-        <seg>Tvoj največji strah je, da bi nekoč ostal sam.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T163935Z" creationid="urosjarc" creationdate="20180512T104119Z">
+        <seg>Tvoj najvecji strah je da bi nekoc ostal sam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Namesto dobesednega prevoda sem raje izbral dejanje ki predstavlja "najvecji cudez" in s tem naredil simbolicni prevod. S tem sem zelel dodatno poskrbeti da bi si bralec cim bolj memoriziral kaj je najvecji cudez.
+
+Simbolicni prevod naredi naslov tudi bolj misteriozen in preprost brez ekstravagance mogoce tudi z scepcem poniznosti v zelji da bi bralec pristopil do knjige z mirnim in radovednim umom. 
+
+Izbor tega naslova sem izbral tudi zaradi tega ker hocem poskrbeti da bi bralec videl cudez in globino ter neskoncnost v tem zelo preprostem dejanju.</note>
+      <tuv lang="EN-US">
+        <seg>The greatest miracle</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T133134Z" creationid="urosjarc" creationdate="20180520T141510Z">
+        <seg>\textquote{Jaz sedim tu sam s seboj.}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The husband was talking so beautifully and suddenly he has lost his temper.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T181128Z" creationid="urosjarc" creationdate="20180513T175326Z">
-        <seg>Včeraj ti je govoril o ljubezni, a danes je izgubil potrpljenje.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T161153Z" creationid="urosjarc" creationdate="20180513T175326Z">
+        <seg>Vceraj ti je govoril o ljubezni danes pa je izgubil potrpljenje.</seg>
       </tuv>
     </tu>
     <tu>
@@ -915,8 +972,8 @@ Dodal sem besedo "nekoc" katera nosi asociacijo zapuscenega starcka katerega so 
       <tuv lang="EN-US">
         <seg>The mind cannot live alone.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T165755Z" creationid="urosjarc" creationdate="20180513T172824Z">
-        <seg>Um ne zna živeti v samoti.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T170428Z" creationid="urosjarc" creationdate="20180513T172824Z">
+        <seg>Um ne zna ziveti sam.</seg>
       </tuv>
     </tu>
     <tu>
@@ -935,8 +992,8 @@ Uporabil sem "drugi" namesto "drugega" daa bi bralec vedel da se to dogaja pri v
       <tuv lang="EN-US">
         <seg>The other becomes a mirror and we can see our faces in it.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T165146Z" creationid="urosjarc" creationdate="20180507T141822Z">
-        <seg>Oni so tvoje ogledalo, v katerem se lahko gledaš.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T150024Z" creationid="urosjarc" creationdate="20180507T141822Z">
+        <seg>Drugi postanejo ogledalo v katerem se lahko gledas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -944,8 +1001,8 @@ Uporabil sem "drugi" namesto "drugega" daa bi bralec vedel da se to dogaja pri v
       <tuv lang="EN-US">
         <seg>The other helps you to hang out, the other helps you to remain out.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T163925Z" creationid="urosjarc" creationdate="20180512T103829Z">
-        <seg>Oni te rešijo pekla. Spet čutiš svoj jaz. Zdaj ga spet lahko vidiš!</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T162928Z" creationid="urosjarc" creationdate="20180512T103829Z">
+        <seg>Drugi te resi pekla. Tvoj jaz je spet definiran, resil si ga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -953,24 +1010,24 @@ Uporabil sem "drugi" namesto "drugega" daa bi bralec vedel da se to dogaja pri v
       <tuv lang="EN-US">
         <seg>The other somehow makes us complete, otherwise we are incomplete.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T163701Z" creationid="urosjarc" creationdate="20180507T140453Z">
-        <seg>Oni te nekako izpopolnijo, drugače pa si nepopoln.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T144823Z" creationid="urosjarc" creationdate="20180507T140453Z">
+        <seg>Drugi te nekako zapolni, drugace si prazen.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The scientific explanation is that the mind cannot live alone with itself.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T180400Z" creationid="urosjarc" creationdate="20180513T172727Z">
-        <seg>Ker ni sposoben živeti sam s sabo v samoti.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T170348Z" creationid="urosjarc" creationdate="20180513T172727Z">
+        <seg>Zakljucek znanstvenikov je bil da um ni sposoben ziveti sam z sabo.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The woman was smiling just now, and then she has become angry.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T181123Z" creationid="urosjarc" creationdate="20180513T175205Z">
-        <seg>Tvoj partner je zdaj prijeten, a čez čas bo mogoče postal zagrenjen in jezen.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T161138Z" creationid="urosjarc" creationdate="20180513T175205Z">
+        <seg>Partner je zdaj prijeten, a cez cas bo mogoce postal zagrenjen in jezen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -984,7 +1041,7 @@ Uporabil sem "drugi" namesto "drugega" daa bi bralec vedel da se to dogaja pri v
     <tu>
       <note>Segment 0001 in vse do segmenta 0011 je v bistvu nepotreben saj sem odstranil segment 0172 ki drzi informacijo o vprasanju ali je to parabola.</note>
       <tuv lang="EN-US">
-        <seg>The zen master said, {I am sitting here alone with myself.} This is the greatest miracle.</seg>
+        <seg>The zen master said, &lt;u0&gt;{I am sitting here alone with myself.} This is the greatest miracle.</seg>
       </tuv>
       <tuv lang="EN-GB" changeid="urosjarc" changedate="20180507T134437Z" creationid="urosjarc" creationdate="20180507T134437Z">
         <seg></seg>
@@ -994,8 +1051,8 @@ Uporabil sem "drugi" namesto "drugega" daa bi bralec vedel da se to dogaja pri v
       <tuv lang="EN-US">
         <seg>Then death cannot take anything away from you.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T174249Z" creationid="urosjarc" creationdate="20180513T180717Z">
-        <seg>Smrt ti ne more odvzeti ničesar več.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T171359Z" creationid="urosjarc" creationdate="20180513T180717Z">
+        <seg>Smrt ti ne mora odvzeti nicesar vec.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1008,25 +1065,24 @@ Uporabil sem "drugi" namesto "drugega" daa bi bralec vedel da se to dogaja pri v
       <tuv lang="EN-US">
         <seg>Then go deeper into this loneliness until you come to a layer when suddenly loneliness transforms itself into aloneness.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T171822Z" creationid="urosjarc" creationdate="20180512T120317Z">
-        <seg>Bodi potrpežljiv in pojdi globlje v osamljenost. Razvij močno, štiriindvajset ur prisotno, aktivno čuječnost, takrat ko sanjaš in takrat ko si buden. Osamljenost se bo s konstantnim vsakodnevnim trudom s časom spremenila v samoto.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180603T154455Z" creationid="urosjarc" creationdate="20180512T120317Z">
+        <seg>Bodi potrpezljiv in pojdi globje v osamljenost.. Razvij mocno, 24h prisotno, aktivno cujecnost, takrat ko sanjas in takrat ko si buden. Osamljenost se bo z konstantnim vsakodnevnim trudom s casom spremenila v samoto.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Then happens the greatest miracle - that you are simply happy for no reason at all.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T170130Z" creationid="urosjarc" creationdate="20180513T174656Z">
-        <seg>Potem se zgodi največji čudež, obstajaš srečen brez razloga.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T160506Z" creationid="urosjarc" creationdate="20180513T174656Z">
+        <seg>Nato se zgodi najvecji cudez - srecen si brez razloga.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Zmanjsal sem kolicino besed ter specificnost da sem dosegel generaliziranost ter dodal malce vec pojasnil.</note>
       <tuv lang="EN-US">
         <seg>Then they can imagine anything - gods and goddesses and apsaras and angels and Krishna playing on his flute, and Rama standing with his bow, and Jesus - and whatsoever your imagination, whatsoever your conditioning.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T165548Z" creationid="urosjarc" creationdate="20180513T171508Z">
-        <seg>Dobijo videnja o duhovih in angelih, bogovih in boginjah. Vidijo vse tisto, kar so se naučili in se jim je najmočneje vtisnilo v spomin.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T151857Z" creationid="urosjarc" creationdate="20180513T171508Z">
+        <seg>Z umom ustvarijo - bogove in boginje, duhove, angele, Krishno kako igra na flavto, Jezusa - svet lastne ideologije.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1047,8 +1103,8 @@ Praznino je bralec ze obcutil ko je bil recimo lacen ali zejen vendar ne nicnost
       <tuv lang="EN-US">
         <seg>There is an abyss... emptiness.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T174012Z" creationid="urosjarc" creationdate="20180507T143837Z">
-        <seg>Tam je luknja ... ničnost.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T163731Z" creationid="urosjarc" creationdate="20180507T143837Z">
+        <seg>Tam je luknja... nicnost.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1064,55 +1120,64 @@ Praznino je bralec ze obcutil ko je bil recimo lacen ali zejen vendar ne nicnost
       <tuv lang="EN-US">
         <seg>There is nothing to be compared with it.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T174442Z" creationid="urosjarc" creationdate="20180513T181000Z">
-        <seg>Nič se ne more primerjati s tem.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180513T181000Z" creationid="urosjarc" creationdate="20180513T181000Z">
+        <seg>Nicesar se ne mora primerjati z tem.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Mislim da ni lepega primernega prevoda v slov. za ta segment. Probal sem prevesti na nacin da bi bralec cim bolj razumel sledenje misli iz prejsnjega segmenta.</note>
+      <tuv lang="EN-US">
+        <seg>Thesis Subtitle</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180505T171918Z" creationid="urosjarc" creationdate="20180505T171918Z">
+        <seg>Podnapis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thesis Title</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180505T171912Z" creationid="urosjarc" creationdate="20180505T171912Z">
+        <seg>Naslov</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>They are missing the whole point.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180609T115113Z" creationid="urosjarc" creationdate="20180512T123620Z">
-        <seg>Bistvo meditacije so izgubili.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T150605Z" creationid="urosjarc" creationdate="20180512T123620Z">
+        <seg>Bistvo meditacije se jim je izmuznil.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Segment sem malce predelal tako da je bolj fluiden.</note>
       <tuv lang="EN-US">
         <seg>They are saying that they don't want to be alone, they don't want to face their loneliness.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T175901Z" creationid="urosjarc" creationdate="20180512T122847Z">
-        <seg>Prosijo me, da ne bi bili sami, nočejo se soočiti s svojo osamljenostjo.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T150322Z" creationid="urosjarc" creationdate="20180512T122847Z">
+        <seg>Prosijo me da ne bi bili sami, nocejo se soociti z svojo osamljenostjo.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Segment je prevec odrezan zato sem ga malce dodatno pojasnil.</note>
       <tuv lang="EN-US">
         <seg>They start imagining.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T165517Z" creationid="urosjarc" creationdate="20180513T170914Z">
-        <seg>Po nekem času dobijo privide.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T151344Z" creationid="urosjarc" creationdate="20180513T170914Z">
+        <seg>Dobijo videnja.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Dobesedni prevod vendar odstranjena beseda ki se ponavlja da dosezes fluidnost.</note>
       <tuv lang="EN-US">
         <seg>They will chant a mantra - the mantra will become their companion.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T165200Z" creationid="urosjarc" creationdate="20180512T123120Z">
-        <seg>Mantrali bodo mantro, ona bo postala njihova družba.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T150354Z" creationid="urosjarc" creationdate="20180512T123120Z">
+        <seg>Mantrali bodo mantro - mantra bo postala njihova druzba.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>V tem segmentu sem hotel povedati da mantranje ni slaba stvar saj se veliko lazje soocis z osamljenostjo z njo vendar hkrati pa nakazal da smo kot majhni otroci kateri potrebujejo zmeraj nekaj blizu sebe da so lahko pomirjeni, pozornost itd...
-
-Spremenil sem besedo "Ram" v "Ohm" saj je veliko bolj znan v slovenski kulturi.</note>
       <tuv lang="EN-US">
-        <seg>They will say, {Ram, Ram, Ram} - now they are not alone.</seg>
+        <seg>They will say, &lt;u1&gt;{Ram, Ram, Ram} - now they are not alone.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T182741Z" creationid="urosjarc" creationdate="20180512T123227Z">
-        <seg>Peli bodo: {Ohm, ohm, ohm.} To jih bo potolažilo.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T150423Z" creationid="urosjarc" creationdate="20180512T123227Z">
+        <seg>Peli bodo, &lt;u1&gt;{Ohm, Ohm, Ohm} - in ne bodo vec sami.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1120,24 +1185,24 @@ Spremenil sem besedo "Ram" v "Ohm" saj je veliko bolj znan v slovenski kulturi.<
       <tuv lang="EN-US">
         <seg>This does not mean that a man who has become enlightened and has come home does not live with others.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T175135Z" creationid="urosjarc" creationdate="20180512T114115Z">
-        <seg>To pa še ne pomeni, da mož, ki zna živeti sam, ne zna živeti z drugimi.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180603T123815Z" creationid="urosjarc" creationdate="20180512T114115Z">
+        <seg>To se ne pomeni da moz, ki je dozivel razsvetljenje in prispel domov, ne zna ziveti z drugimi.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>This suffering of loneliness is just paying for it.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T170720Z" creationid="urosjarc" creationdate="20180513T181314Z">
-        <seg>A na koncu te čaka ultimativna svoboda.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T171638Z" creationid="urosjarc" creationdate="20180513T181314Z">
+        <seg>Poplacal jo bos z osamljenostjo.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>This whole illusion that exists around you is because you have not learned one basic thing - of being alone.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T173432Z" creationid="urosjarc" creationdate="20180513T173239Z">
-        <seg>Ta neverjetna iluzija sanj obstaja samo zato, ker se nisi naučil temeljne stvari - biti sam.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T154828Z" creationid="urosjarc" creationdate="20180513T173239Z">
+        <seg>Ta iluzija, ponoci obstaja ker se nisi naucil te temelne stvari - biti sam.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1145,8 +1210,8 @@ Spremenil sem besedo "Ram" v "Ohm" saj je veliko bolj znan v slovenski kulturi.<
       <tuv lang="EN-US">
         <seg>To be alone is really the greatest miracle.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T164100Z" creationid="urosjarc" creationdate="20180512T105606Z">
-        <seg>Biti sam je res največji čudež.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T180040Z" creationid="urosjarc" creationdate="20180512T105606Z">
+        <seg>Biti sam je res najvecji cudez.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1164,16 +1229,24 @@ Ta segment nisem prevedel ker ne zelim da bi mi bralec kontriral ze na zacetku. 
       <tuv lang="EN-US">
         <seg>To be with oneself is moksha because now you don't depend.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T174112Z" creationid="urosjarc" creationdate="20180513T175851Z">
-        <seg>Biti sam s seboj v samoti je moksha, ker nisi več odvisen od česarkoli.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T171249Z" creationid="urosjarc" creationdate="20180513T175851Z">
+        <seg>Biti sam s seboj je moksha ker zdaj nisi vec odvisen od cesarkoli.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Try it, to have the feel.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T175437Z" creationid="urosjarc" creationdate="20180512T115741Z">
-        <seg>Poskusi izkusiti čudež samote.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180603T141320Z" creationid="urosjarc" creationdate="20180512T115741Z">
+        <seg>Probaj izskusiti cudez samote.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>University Name&lt;br0&gt;</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180505T171950Z" creationid="urosjarc" creationdate="20180505T171950Z">
+        <seg>Univerziteta&lt;br0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1181,8 +1254,8 @@ Ta segment nisem prevedel ker ne zelim da bi mi bralec kontriral ze na zacetku. 
       <tuv lang="EN-US">
         <seg>We don't know with whom we are.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T165248Z" creationid="urosjarc" creationdate="20180507T142411Z">
-        <seg>Ne veš, s kom si, ker ne veš, kdo si.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T151318Z" creationid="urosjarc" creationdate="20180507T142411Z">
+        <seg>Ne ves s kom si, ker ne ves kdo si.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1190,8 +1263,8 @@ Ta segment nisem prevedel ker ne zelim da bi mi bralec kontriral ze na zacetku. 
       <tuv lang="EN-US">
         <seg>We have holes in our being; we stuff those holes with the presence of the other.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T165100Z" creationid="urosjarc" creationdate="20180507T135515Z">
-        <seg>V sebi imaš luknje, polniš jih z drugimi ljudmi.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T144732Z" creationid="urosjarc" creationdate="20180507T135515Z">
+        <seg>V sebi imas luknje, polnes jih z prisotnostjo drugega.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1207,8 +1280,8 @@ Tu sem nakazal ta ne uporabljas samo oseb za dolocevanje svojega jaza ampak tudi
       <tuv lang="EN-US">
         <seg>We know the name, we know the form, we know the man or the woman - Hindu, Christian, Indian, American - there are some ways to define the other.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T165350Z" creationid="urosjarc" creationdate="20180507T142808Z">
-        <seg>Veš, komu pripadaš, služiš, kaj ljubiš, sovražiš, veruješ. Z drugo stvarjo si si definiral svoj jaz, zato točno veš, kdo si!</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T163640Z" creationid="urosjarc" creationdate="20180507T142808Z">
+        <seg>Ves komu pripadas, sluzis, kaj ljubis, sovrazis, verujes. Z drugo stvarjo in osebo definiras svoj jaz zato ves tocno kdo si!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1227,8 +1300,8 @@ Uporabil sem tudi bolj natancen izraz za praznino ki ustvari strah v bralcevemu 
       <tuv lang="EN-US">
         <seg>When there is nobody you are simply left with your emptiness.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T165432Z" creationid="urosjarc" creationdate="20180512T103943Z">
-        <seg>Ko si sam, si spet prepuščen svoji praznini, ničnosti.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180520T165340Z" creationid="urosjarc" creationdate="20180512T103943Z">
+        <seg>Ko si sam si spet prepuscen svoji praznini, nicnosti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1236,8 +1309,8 @@ Uporabil sem tudi bolj natancen izraz za praznino ki ustvari strah v bralcevemu 
       <tuv lang="EN-US">
         <seg>When we are alone we are in very strange company, very embarrassing company.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T165212Z" creationid="urosjarc" creationdate="20180507T142336Z">
-        <seg>Ko si sam, si v zelo neprijetni, mučni družbi.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180520T151559Z" creationid="urosjarc" creationdate="20180507T142336Z">
+        <seg>Ko si sam si v zelo neprijetni, mucni druzbi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1245,8 +1318,8 @@ Uporabil sem tudi bolj natancen izraz za praznino ki ustvari strah v bralcevemu 
       <tuv lang="EN-US">
         <seg>When you are in need how can you give?</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T175338Z" creationid="urosjarc" creationdate="20180512T115358Z">
-        <seg>Ko si v pomanjkanju nečesa, kako lahko daješ to drugemu?</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180603T133954Z" creationid="urosjarc" creationdate="20180512T115358Z">
+        <seg>Ko si v pomanjkanju necesa kako lahko dajas to drugemu?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1255,39 +1328,32 @@ Uporabil sem tudi bolj natancen izraz za praznino ki ustvari strah v bralcevemu 
       <tuv lang="EN-US">
         <seg>When you are lonely you are thinking of the other, you are missing the other.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T170333Z" creationid="urosjarc" creationdate="20180512T112249Z">
-        <seg>Ko si osamljen, pogrešaš drugo stvar, takrat pogrešaš družbo.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T142532Z" creationid="urosjarc" creationdate="20180512T112249Z">
+        <seg>Ko si osamljen mislis na drugega, pogresas drugega.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>V tem segmentu sem zelel generalizirati pocetje uma tako da je bolj generalizirano, saj imajo nekateri ljudje veliko tezav med njimi sem tudi jaz ko premeljujejo stare spomine.
-
-Hotel sem nakazati zakaj nismo nikoli v mindfulnessu.</note>
       <tuv lang="EN-US">
         <seg>When you sit alone, have you watched how many fantasies reveal themselves to you?... endless fantasies, daydreams.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T182942Z" creationid="urosjarc" creationdate="20180512T124242Z">
-        <seg>Si opazil, kaj um počne, medtem ko si sam? Fantazira o prihodnosti, melje stare spomine, načrtuje, kaj bo naredil v naslednjem trenutku. Zmeraj nekaj počne, da ti preusmeri pozornost tako, da nisi nikoli polno prisoten v tem trenutku.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T150826Z" creationid="urosjarc" creationdate="20180512T124242Z">
+        <seg>Ko sedis sam s seboj, si opazil koliko fantazij zacnes videvati?... neskoncne fantazije, sanje.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>V tem segmentu sem naredil povzetek prejsnjega segmenta v katerem sem dodatno dal stempelj da si bo bralec zapomnil.</note>
       <tuv lang="EN-US">
         <seg>Whenever you are alone, you start daydreaming.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T175948Z" creationid="urosjarc" creationdate="20180512T124341Z">
-        <seg>Kadarkoli si sam, se tvoj um zateče v fantazije in stare spomine ter odpotuje daleč, daleč stran od sedanjosti.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T150855Z" creationid="urosjarc" creationdate="20180512T124341Z">
+        <seg>Kadarkoli si sam, um zacne sanjariti.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Dobesedni prevod z malce predelave konca ki da sem uspel narediti fluidnost segmenta.
-
-Zelel sem povedati da bralec sam nima moci da bi se uprl umu zato ga nasilno ukrade in odpelje stran od sedanjosti in ker je bralcu to vsec se mu se prepusti.</note>
       <tuv lang="EN-US">
         <seg>Whenever you don't have anything to do and you feel bored, immediately you escape into daydreams.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T172423Z" creationid="urosjarc" creationdate="20180512T124539Z">
-        <seg>Ko nimaš česa početi in ti je dolgočas, se prepustiš, da te um ukrade in odpelje na fantastično potovanje.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T150942Z" creationid="urosjarc" creationdate="20180512T124539Z">
+        <seg>Ko nimas nicesar za delati in ti je dolgocas, se zacenjas zatekati v fantaziranje.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1312,8 +1378,8 @@ Ker lahko uporabis za drugega "ko si z drugim so stvari jasne" enak pristop do s
       <tuv lang="EN-US">
         <seg>With the other, things are clear, defined.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T152932Z" creationid="urosjarc" creationdate="20180507T142445Z">
-        <seg>Z drugo stvarjo si si zgradil svoj jaz, svojo osebnost.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T151829Z" creationid="urosjarc" creationdate="20180507T142445Z">
+        <seg>Z drugim definiras svoj jaz, svojo osebnost.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1321,17 +1387,17 @@ Ker lahko uporabis za drugega "ko si z drugim so stvari jasne" enak pristop do s
       <tuv lang="EN-US">
         <seg>Without the other we are suddenly thrown to ourselves.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T163731Z" creationid="urosjarc" creationdate="20180507T141856Z">
-        <seg>Brez družbe si kar naenkrat prepuščen samemu sebi,</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180520T153445Z" creationid="urosjarc" creationdate="20180507T141856Z">
+        <seg>Brez njih si prepuscen samemu sebi.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Ponovitev da si bralec zapolne kaj mu v resnici manjka in tematiko knjige.</note>
+      <note>Tu sem uporabil "njih" namesto "drugi" ker zelim da bralec ve da je drugi enako kot element druzbe, element iz mnozine elementov in ni vazno ce je "drugi" tocno tista oseba.</note>
       <tuv lang="EN-US">
         <seg>Without the other we don't know who we are, we lose our identity.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T165114Z" creationid="urosjarc" creationdate="20180507T141707Z">
-        <seg>Brez družbe ne veš, kdo si, izgubiš svojo identiteto.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T145627Z" creationid="urosjarc" creationdate="20180507T141707Z">
+        <seg>Brez njih neves kdo si, izgubis svojo identiteto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1339,8 +1405,8 @@ Ker lahko uporabis za drugega "ko si z drugim so stvari jasne" enak pristop do s
       <tuv lang="EN-US">
         <seg>Yes, it is the greatest miracle in the world.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T174731Z" creationid="urosjarc" creationdate="20180512T111722Z">
-        <seg>Da, to je največji čudež.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T184628Z" creationid="urosjarc" creationdate="20180512T111722Z">
+        <seg>Da, to je najvecji cudez.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1348,8 +1414,8 @@ Ker lahko uporabis za drugega "ko si z drugim so stvari jasne" enak pristop do s
       <tuv lang="EN-US">
         <seg>You are a beggar.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T181852Z" creationid="urosjarc" creationdate="20180512T115501Z">
-        <seg>Ko si v pomanjkanju, si berač.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180512T115501Z" creationid="urosjarc" creationdate="20180512T115501Z">
+        <seg>Ko si v pomanjkanju si berac.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1359,8 +1425,8 @@ Prevedel sem ga na nacin ki pojasnjuje segment 0068, zakaj iskanje necesa v drug
       <tuv lang="EN-US">
         <seg>You are at the closest quarters.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T164633Z" creationid="urosjarc" creationdate="20180512T114411Z">
-        <seg>Samo TI poznaš sebe najbolje.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180603T130157Z" creationid="urosjarc" creationdate="20180512T114411Z">
+        <seg>Samo TI poznas sebe najbolje.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1368,8 +1434,8 @@ Prevedel sem ga na nacin ki pojasnjuje segment 0068, zakaj iskanje necesa v drug
       <tuv lang="EN-US">
         <seg>You are feeling that it would have been better if the other was there - your friend, your wife, your mother, your beloved, your husband.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T175842Z" creationid="urosjarc" creationdate="20180512T112441Z">
-        <seg>Čutiš, razmišljaš, da bi bilo bolje, če bi bilo zraven tebe še nekaj - prijatelj, družina, ljubljena oseba, glasba, narava, vznemirjenje, drama, akcija ... karkoli ...</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180603T115348Z" creationid="urosjarc" creationdate="20180512T112441Z">
+        <seg>Cutis, razmisljas da bi bilo bolje ce bi bil zraven tebe se nekdo - prijatelj, druzina, ljubljena oseba.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1377,16 +1443,16 @@ Prevedel sem ga na nacin ki pojasnjuje segment 0068, zakaj iskanje necesa v drug
       <tuv lang="EN-US">
         <seg>You are so full of presence that you can fill the whole universe with your presence and there is no need for anybody.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T180219Z" creationid="urosjarc" creationdate="20180512T113304Z">
-        <seg>S samim seboj lahko napolniš svoje lastne luknje. S samim seboj lahko napolniš prostor, kjer bi moral biti drugi. Cela vesolja lahko nasičiš s samim seboj in takrat ne pogrešaš ničesar več.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180603T115813Z" creationid="urosjarc" creationdate="20180512T113304Z">
+        <seg>Tako si poln zavesti in njene prisotnosti da lahko z njo napolnis cela vesolja, in takrat ni potrebe po nicemer vec, saj nasicis prostor s svojo zavestjo, bitjo.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>You become deathless.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T170518Z" creationid="urosjarc" creationdate="20180513T180700Z">
-        <seg>Postaneš nesmrten.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T161856Z" creationid="urosjarc" creationdate="20180513T180700Z">
+        <seg>Postanes nesmrten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1394,8 +1460,8 @@ Prevedel sem ga na nacin ki pojasnjuje segment 0068, zakaj iskanje necesa v drug
       <tuv lang="EN-US">
         <seg>You become frightened.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T163907Z" creationid="urosjarc" creationdate="20180507T144321Z">
-        <seg>Tvoj jaz se izgublja v ničnosti, postaneš paničen.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180520T164729Z" creationid="urosjarc" creationdate="20180507T144321Z">
+        <seg>Tvoj jaz se izgublja v nicnosti, postanes panicen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1403,16 +1469,16 @@ Prevedel sem ga na nacin ki pojasnjuje segment 0068, zakaj iskanje necesa v drug
       <tuv lang="EN-US">
         <seg>You become part of the crowd, you become part of a church, you become part of an organization.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T164023Z" creationid="urosjarc" creationdate="20180512T105053Z">
-        <seg>Postaneš del družine, organizacije, religije, ideologije.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T175030Z" creationid="urosjarc" creationdate="20180512T105053Z">
+        <seg>Postanes del druzine, organizacije, religije, ideologije.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>You can never be certain.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T181115Z" creationid="urosjarc" creationdate="20180513T175128Z">
-        <seg>Nikoli ne moreš biti prepričan o ničemer.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T160944Z" creationid="urosjarc" creationdate="20180513T175128Z">
+        <seg>Nikoli ne moras biti siguren o nicemer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1420,8 +1486,8 @@ Prevedel sem ga na nacin ki pojasnjuje segment 0068, zakaj iskanje necesa v drug
       <tuv lang="EN-US">
         <seg>You don't have any loopholes, you don't have any holes, you are not missing anything, you don't have any flaws - you are simply happy by being yourself.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T170044Z" creationid="urosjarc" creationdate="20180512T111254Z">
-        <seg>Nimaš več miselnih vojn, nimaš več eksistenčnih kriz identitete, ničesar več ne pogrešaš. Nimaš več pomanjkljivosti ... srečen si sam s seboj.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T184329Z" creationid="urosjarc" creationdate="20180512T111254Z">
+        <seg>Nimas vec miselnih vojn, nimas vec eksistencnih kriz identitete, nimas vec strahu pred smrtjo, nicesar vec ne pogresas, nimas vec pomankjivosti... srecen si sam s seboj.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1429,16 +1495,16 @@ Prevedel sem ga na nacin ki pojasnjuje segment 0068, zakaj iskanje necesa v drug
       <tuv lang="EN-US">
         <seg>You don't need anything, your bliss is unconditional.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T175459Z" creationid="urosjarc" creationdate="20180512T111343Z">
-        <seg>Ne potrebuješ ničesar več, zdaj je tvoja sreča brez\-po\-goj\-na.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T184609Z" creationid="urosjarc" creationdate="20180512T111343Z">
+        <seg>Ne potrebujes nicesar, tvoja sreca je brezpogojna.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>You have become too habitual; the idea of the other has become very ingrained, it has become a mechanical habit, so when you miss it you feel you are empty, lonely, falling in an abyss.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T173806Z" creationid="urosjarc" creationdate="20180513T174408Z">
-        <seg>Potreba po drugem se ti je zakoreninila v glavo, postala je mehanična navada, v kateri se pojavi občutek, da si prazen, osamljen, ko zraven tebe ni nikogar.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T160354Z" creationid="urosjarc" creationdate="20180513T174408Z">
+        <seg>Postal si ustaljen v rutini; ideja drugega se ti je zakoreninila v lastne navade, postala je mehanicna navada, in ko pogresas drugega imas obcutek da si prazen, osamljen, zacnes padati v praznino.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1446,16 +1512,16 @@ Prevedel sem ga na nacin ki pojasnjuje segment 0068, zakaj iskanje necesa v drug
       <tuv lang="EN-US">
         <seg>You have come to know how to be with yourself.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T174552Z" creationid="urosjarc" creationdate="20180512T110621Z">
-        <seg>Spoznal si, kako biti sam s seboj.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T141258Z" creationid="urosjarc" creationdate="20180512T110621Z">
+        <seg>Spoznal si kako biti sam s seboj.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>You have to pay for the bliss that is going to be yours - you have to pay for it.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T174511Z" creationid="urosjarc" creationdate="20180513T181246Z">
-        <seg>Za ekstazo, ki bo nekoč tvoja, boš moral trpeti.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180513T181246Z" creationid="urosjarc" creationdate="20180513T181246Z">
+        <seg>Placal bos za ekstazo ki bo nekoc tvoja - moral jo bos poplacati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1465,8 +1531,8 @@ Konec ni preveden dobesedno ker nocem da bi se beseda "sam" ponovila v prejsnjem
       <tuv lang="EN-US">
         <seg>You imitate your neighbours so you are just like them and you are not left alone.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T174220Z" creationid="urosjarc" creationdate="20180512T104751Z">
-        <seg>Posnemaš druge, da si jim všeč, da se družijo s tabo, da nisi več osamljen.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T174618Z" creationid="urosjarc" creationdate="20180512T104751Z">
+        <seg>Posnemas druge, da si jim vsec, da se druzijo s tabo, da nisi vec osamljen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1474,8 +1540,8 @@ Konec ni preveden dobesedno ker nocem da bi se beseda "sam" ponovila v prejsnjem
       <tuv lang="EN-US">
         <seg>You lose your individuality, you lose your uniqueness, you just become imitators, because if you are not imitators you will be left alone.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T165852Z" creationid="urosjarc" creationdate="20180512T104934Z">
-        <seg>Izgubiš svojo individualnost, unikatnost. Postaneš imitator, ker bi drugače ostal sam.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T174847Z" creationid="urosjarc" creationdate="20180512T104934Z">
+        <seg>Izgubis svojo individualnost, unikatnost, postanes imitator, ker drugace bi ostal sam.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1483,56 +1549,56 @@ Konec ni preveden dobesedno ker nocem da bi se beseda "sam" ponovila v prejsnjem
       <tuv lang="EN-US">
         <seg>You start merging into that.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T174042Z" creationid="urosjarc" creationdate="20180507T144113Z">
-        <seg>Njena gravitacija te vleče vanjo.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T163814Z" creationid="urosjarc" creationdate="20180507T144113Z">
+        <seg>Njena gravitacija te vlece v njo.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>You will be tremendously benefited.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T174523Z" creationid="urosjarc" creationdate="20180513T181334Z">
-        <seg>Tvoje kraljestvo, tvoj dom, v katerem trenutno manjkaš ti.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180513T181334Z" creationid="urosjarc" creationdate="20180513T181334Z">
+        <seg>Veliko bos pridobil! Pridi domov.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>You will never be certain whether you are happy or unhappy, because each moment you will see the ground underneath can disappear - any moment it can disappear.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T174022Z" creationid="urosjarc" creationdate="20180513T175113Z">
-        <seg>Svet se spreminja, v vsakem trenutku se lahko vse spremeni. Tvoja sreča mora biti odvisna samo od tebe, sicer ne boš nikoli vedel, ali si srečen ali nesrečen.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T171159Z" creationid="urosjarc" creationdate="20180513T175113Z">
+        <seg>Nikoli ne bos vedel ali si srecen ali nesrecen, svet se spreminja, vsak trenutek ti lahko tla pod nogami izginejo - v vsakem trenutku se lahko vse spremeni.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Your happiness simply is your own, you don't borrow it from anybody.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T181218Z" creationid="urosjarc" creationdate="20180513T175922Z">
-        <seg>Tvoja sreča je samo tvoja, ne izposojaj in ne zahtevaj je od nikogar.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T161552Z" creationid="urosjarc" creationdate="20180513T175922Z">
+        <seg>Tvoja sreca je samo tvoja, ne sposojaj in ne zahtevaj je od nikogar.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Your happiness will always be on the rocks, you will always remain in stormy weather.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T173924Z" creationid="urosjarc" creationdate="20180513T175000Z">
-        <seg>Tvoja sreča bo zmeraj odvisna od zunanjih dejavnikov, živel boš kot ladjica sredi nevihte. Postal boš berač svoje sreče.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T160839Z" creationid="urosjarc" creationdate="20180513T175000Z">
+        <seg>Tvoja sreca bo zmeraj odvisna od zunanjih dejavnikov, zmeraj bos kot ladica sredi nevihte, zmeraj bos berac svoje srece.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Your husband is no more there, your children are no more there, your wife is no more there, you are simply alone - and you have become incapable of aloneness.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180629T173327Z" creationid="urosjarc" creationdate="20180513T172954Z">
-        <seg>Brskaš po spominih, ustvariš fantazije, začneš sanjati in postaneš nezmožen izkusiti pravi jogijski počitek. Ponoči um sanja, ker nisi sposoben preživeti noči v samoti.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T153919Z" creationid="urosjarc" creationdate="20180513T172954Z">
+        <seg>Tvoje druzine ni vec s tabo, tvojih prijateljev ni, sam si - in postal si nezmozen samote.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Your mind simply substitutes another world of dreams; dreams, cycles of dreams the whole night.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T180604Z" creationid="urosjarc" creationdate="20180513T173041Z">
-        <seg>Um zamenja monotonost teme s sanjskim svetom, da ni sam.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180526T154027Z" creationid="urosjarc" creationdate="20180513T173041Z">
+        <seg>Um zamenja realnost z sanjskim svetom; sanje, cikli sanj celo noc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1540,8 +1606,8 @@ Konec ni preveden dobesedno ker nocem da bi se beseda "sam" ponovila v prejsnjem
       <tuv lang="EN-US">
         <seg>Your needs for the other have disappeared.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T164145Z" creationid="urosjarc" creationdate="20180512T110907Z">
-        <seg>Potrebe po družbi so izginile.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T182704Z" creationid="urosjarc" creationdate="20180512T110907Z">
+        <seg>Potrebe po drugem so izginile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1549,8 +1615,8 @@ Konec ni preveden dobesedno ker nocem da bi se beseda "sam" ponovila v prejsnjem
       <tuv lang="EN-US">
         <seg>you want to rush towards the other.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180624T163912Z" creationid="urosjarc" creationdate="20180512T103228Z">
-        <seg>Hitiš v družbo.</seg>
+      <tuv lang="EN-GB" changeid="urosjarc" changedate="20180527T162816Z" creationid="urosjarc" creationdate="20180512T103228Z">
+        <seg>Hitis v druzbo drugega.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->

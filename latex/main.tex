@@ -1,14 +1,21 @@
-\documentclass[12pt]{report}
-\usepackage[utf8]{inputenc}
+\documentclass{report}
 \usepackage{graphicx}
+\usepackage{csquotes}
+\usepackage[utf8]{inputenc}
+\usepackage[a5paper, margin=1.45cm]{geometry}
 
+\graphicspath{ {images/} }
 
 \begin{document}
 
-	\begin{titlepage}
-		\input{book/titlepage}
-	\end{titlepage}
+		\vspace*{5cm}
+			\begin{center}
+				\textit{\input{book/question}}
+			\end{center}
+		\vfill
 
-	\input{book/core}
+	\pagebreak
+
+		\input{book/answer}
 
 \end{document}
